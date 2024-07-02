@@ -1,0 +1,933 @@
+﻿University;Faculty;Qualifications;Year;Modules;Module Code;SAQA Credits;Description
+University Of Pretoria;Economic and Environmental Sciences;"BAdmin (Public Management and International
+Relations)";1;Academic information management 111;AIM 111;null;"Find, evaluate, process, manage and present information resources for academic purposes using appropriate
+technology"
+null;null;null;null;Academic information management 121;AIM 121;null;"Apply effective search strategies in different technological environments. Demonstrate the ethical and fair use of
+information resources. Integrate 21st-century communications into the management of academic information."
+null;null;null;null;Academic orientation 107;UPO 107;null;"Part 1: Introduction to industrial and organisational psychology
+This module is an introduction to the history, background and subfields of Psychology with specific emphasis on
+Industrial and Organisational Psychology. The various schools of thought in psychology and its fields of
+application are discussed within a meta-theoretical context. The basic principles of how psychological
+knowledge, research and other methods are used to understand and handle human problems in their
+environments is addressed. The module ends with the biological basis of behaviour which is addressed in order
+to lay the foundation for part 2 – individual processes.
+Part 2: Individual processes
+This module is concerned with the individual processes that provide input into the work situation. The purpose of
+this module is to increase one’s understanding of individuals and their contribution to society. Sensation and
+perception, which follows from the biological basis of behaviour, has a look at the senses of the individual and
+his perception in the work environment, considering aspects such as shape, depth, distance and colour
+perceptions. Learning and cognition is then discussed as behavioural processes that are integrated into work
+behaviour. We close off the module with a discussion on the continuous development of human beings across
+theirs lifespan within the different domains of life."
+null;null;null;null;Economics 110;EKN 110;null;"This module deals with the core principles of economics. A distinction between macroeconomics and
+microeconomics is made. A discussion of the market system and circular flow of goods, services and money is
+followed by a section dealing with microeconomic principles, including demand and supply analysis, consumer
+behaviour and utility maximisation, production and the costs thereof, and the different market models and firm
+behaviour. Labour market institutions and issues, wage determination, as well as income inequality and poverty
+are also addressed. A section of money, banking, interest rates and monetary policy concludes the course."
+null;null;null;null;Economics 120;EKN 120;null;"This module deals with the core principles of economics, especially macroeconomic measurement the private
+and public sectors of the South African economy receive attention, while basic macroeconomic relationships and
+the measurement of domestic output and national income are discussed. Aggregate demand and supply
+analysis stands core to this course which is also used to introduce students to the analysis of economic growth,
+unemployment and inflation. The microeconomics of government is addressed in a separate section, followed by
+a section on international economics, focusing on international trade, exchange rates and the balance of
+payments. The economics of developing countries and South Africa in the global economy conclude the course."
+null;null;null;null;Public administration 112;PAD 112;null;"This module in public administration is designed specifically to assist students in understanding the role of public
+administration in a modern state, the unique characteristics of public administration, the schools and
+approaches in public administration and introducing the various generic administrative functions. The discipline
+of public administration has developed rapidly and by implication, has changed and shifted its paradigm over
+the years. The purpose of this module is to introduce public administration to the student as a field of study that
+makes a significant contribution to the effective administration and management of government institutions."
+null;null;null;null;Public administration 122;PAD 122;null;"This module in public administration will introduce the constitutional framework pertaining to public
+administration. The South African system of government, the functions, role and powers of the executive,
+legislative and judicial branches of government as well as the functioning of the three spheres of government
+will be discussed. The module will enable the student to understand how and where public administration is
+practiced"
+null;null;null;null;Politics 101;PTO 101;null;"An introduction to the study of organised political society at national and international levels with specific
+reference to political concepts, approaches and methods. The emphasis is on state and governance as
+frameworks for analysis in light of the salient changes brought about at national and international levels by
+globalisation. Attention is paid to the corresponding dynamics of regime development, performance and change
+at national and international levels considering increasing challenges to national sovereignty from within and
+without states in a context of a growing global agenda dealing with transnational issues and challenges, such as
+the environment, human rights, development and humanitarian intervention."
+null;null;null;null;Public resource management 110;PUF 110;null;"The nature and role of public policy and decision making. Theories and models for public policy-making,
+implementation and analysis. Public policy design and policy decision making. Role players and stakeholders in
+public policy-making , implementation and analysis."
+null;null;null;null;German for beginners 104;DTS 104;null;"An intensive introductory study of the German language focusing on the acquisition of basic communication
+skills, namely listening, reading, speaking and writing. It also offers a brief introduction to the culture of Germanspeaking countries. This module complies with the requirements for level A2 set by the “Common European
+Framework of Reference for Languages”."
+null;null;null;null;English 110;ENG 110;null;"This module introduces the study of literature by examining a number of texts representing different genres
+(poetry, prose, drama). The texts studied here will be mainly from the pre-twentieth century era and may
+include texts written in English from both Africa and other parts of the world. The aim of this module is to equip
+students with the critical and analytical skills required for a perceptive reading of poetry, novels and plays."
+null;null;null;null;English for specific purposes 118;ENG 118;null;"This module is intended to equip students with a thorough knowledge of English grammar and is particularly
+useful for those interested in a career in teaching, editing, document design or other forms of language practice."
+null;null;null;null;English 120;ENG 120;null;"This module introduces the study of post-nineteenth century literature by examining a number of texts
+representing different genres (poetry, drama, prose). Texts will be from both Africa and other parts of the world.
+By the end of this module students should have the background and analytical skills to perceptively read
+modern and contemporary poetry, novels and plays."
+null;null;null;null;French for beginners 104;FRN 104;null;"An intensive introductory study of the French language focusing on the acquisition of basic communication skills,
+namely listening, reading, speaking and writing. It also offers a brief introduction to the culture of Frenchspeaking countries. This module complies with the requirements for level A2 set by the “Common European
+Framework of Reference for Languages”."
+null;null;null;null;Informatics 112;INF 112;null;"Introduction to information systems, information systems in organisations, hardware: input, processing, output,
+software: systems and application software, organisation of data and information, telecommunications and
+networks, the Internet and Intranet. Transaction processing systems, management information systems,
+decision support systems, information systems in business and society, systems analysis, systems design,
+implementation, maintenance and revision."
+null;null;null;null;Statistics 110;STK 110;null;"Sampling and the collection of data; frequency distributions and graphical representations. Descriptive
+measures of location and dispersion.
+Probability and inference:
+Introductory probability theory and theoretical distributions. Sampling distributions. Estimation theory and
+hypothesis testing of sampling averages and proportions (one and two-sample cases). Supporting mathematical
+concepts. Statistical concepts are demonstrated and interpreted through practical coding and simulation within
+a data science framework."
+null;null;null;null;Statistics 113;STK 113;null;"Data operations and transformations: Introductory concepts, the role of statistic, various types of data and the
+number system. Concepts underlying linear, quadratic, exponential, hyperbolic, logarithmic transformations of
+quantitative data, graphical representations, solving of equations, interpretations. Determining linear equations
+in practical situations. Characteristics of logarithmic functions. The relationship between the exponential and
+logarithmic functions in economic and related problems. Systems of equations in equilibrium. Additional
+concepts relating to data processing, functions and inverse functions, sigma notation, factorial notation,
+sequences and series, inequalities (strong, weak, absolute, conditional, double) and absolute values. Descriptive
+statistics – Univariate: Sampling and the collection of data, frequency distributions and graphical
+representations. Descriptive measures of location and dispersion. Probability: Introductory probability theory.
+Theoretical probability distributions. Identification, use, evaluation and interpretation of statistical computer
+packages and statistical techniques. The weekly one hour practical is presented during the last seven weeks of
+the semester."
+null;null;null;null;Statistics 120;STK 120;null;"Analysis of variance, categorical data analysis, distribution-free methods, curve fitting, regression and
+correlation, the analysis of time series and indices. Statistical and economic applications of quantitative
+techniques: Systems of linear equations: solving and application. Optimisation, linear functions, non-linear
+functions. Marginal and total functions. Stochastic and deterministic variables in statistical and economic
+context: producers' and consumers' surplus. Supporting mathematical concepts. Statistical concepts are
+illustrated using simulation within a data science framework.
+This module is also presented as STK 121, an anti-semester module. This is a terminating module."
+null;null;null;null;Statistics 123;STK 123;null;"Optimisation techniques with economic applications: Data transformations and relationships with economic
+applications, operations and rules, linear, quadratic, exponential, hyperbolic and logarithmic functions; systems
+of equations in equilibrium, system of linear inequalities, solving of linear programming problems by means of
+the graphical and extreme point methods. Applications of differentiation and integration in statistic and
+economic related problems: the limit of a function, continuity, rate of change, the derivative of a function,
+differentiation rules, higher order derivatives, optimisation techniques, the area under a curve and applications
+of definite integrals. Probability and inference: Theoretical probability distributions (revision only). Sampling
+distributions. Estimation theory and hypothesis testing of sampling averages and proportions (one-sample and
+two-sample cases). Identification, use, evaluation and interpretation of statistical computer packages and
+statistical techniques. The weekly one hour practical is presented during the last seven weeks of the semester."
+null;null;null;2;International relations;IPL 210;null;"International theory and organisation
+What causes war and peace? Can international order and justice be reconciled? Does the international structure
+matter? The answers depend on the theoretical lenses through which world politics are viewed. An overview is
+provided of competing theoretical perspectives of international relations. It includes mainstream and alternative
+perspectives, as well as the underlying ideas, theories and variants of each. These theories also propose
+different approaches to global peace, amongst others peace through international organisation. A
+comprehensive analysis is made of selected international organisations with a universal or regional scope, such
+as the United Nations, the African Union and the Southern African Development Community, and of international
+law that underpins these organisations and their activities"
+null;null;null;null;International relations 220;IPL 220;null;"Foreign policy and diplomacy
+A short introduction to the study of foreign policy is followed by an explanation of the use of the comparative
+method and a framework for foreign policy analysis and evaluation. This allows for a comparative study of the
+foreign policies of selected states from the major regions of the world, amongst others of South African foreign
+policy. In each case study the policy environment, the formulation and implementation processes, as well as the
+substance of the particular state’s foreign policy are covered. Thereafter the focus narrows to diplomacy: the
+oldest, most versatile and universally used instrument of foreign policy. The nature, history, modes of diplomacy
+and legal framework of the institution are explored. Examples are drawn from global practice, with specific
+consideration of the evolution of diplomatic practice within the African and South African context."
+null;null;null;null;Communication management 281;KOB 281;null;"Acquiring basic business communication skills will enhance the capabilities of employees, managers and leaders
+in the business environment. An overview of applied skills on the intrapersonal, dyadic, interpersonal, group
+(team), organisational, public and mass communication contexts is provided. The practical part of the module
+(for example, the writing of business reports and presentation skills) concentrates on the performance
+dimensions of these skills as applied to particular professions."
+null;null;null;null;Public administration 212;PAD 212;null;"This module in public administration constitutes an in-depth analysis of the generic administrative functions,
+including, policy making, organising, financing, staffing and control. Students will thus be equipped with
+knowledge and skills related to government strategic planning, policy-making and decision-making, budgeting,
+public procurement, human resource management functions and employment legislation impacting on human
+resources within public organisations."
+null;null;null;null;Public administration 222;PAD 222;null;"This module in public administration introduces the student to the process of planning, executing and evaluating
+research in the public sector. Students will be enabled to identify, plan, execute and present a research project.
+This is a service learning module and as such students will be expected to complete approximately 15 hours
+service learning and submit a portfolio as part of their formal assessment"
+null;null;null;null;Political science 210;STL 210;null;"Political dynamics (Micro)
+The study of the theory and practice of behavioural phenomena in politics. With reference to appropriate
+examples, the emphasis is on the study of political culture, leadership, communication, interests groups, parties
+and party systems; on elections, electoral systems, voting behaviour; and on public opinion and direct popular
+control technique"
+null;null;null;null;Political science 220;STL 220;null;"Political dynamics (Macro)
+A theoretical basis and framework is provided for the description, analysis and classification of political and
+policy problems. The emphasis is on the nature of the state, governance and conflict in Africa. Amongst others a
+study is made of the issues of colonialism and post-colonialism, democratisation, authoritarianism and the
+development of the state in Africa, in the context of a globalising world."
+null;null;BCom (Accounting Sciences);1;Business acumen 100;BUS 100;null;"set goals, acquire and monitor new knowledge, skills or experiences and be able to apply interpersonal skills to function within a group setting.
+To use an informed understanding of their basic foundational knowledge and skills in an intra-, inter-, multi- and
+transdisciplinary simple familiar business context to identify ethical and authentic business-related problems and present adequate ethical solutions that are in the interest of specific stakeholders."
+null;null;null;null;Economics 110;EKN 110;null;"This module deals with the core principles of economics. A distinction between macroeconomics and
+microeconomics is made. A discussion of the market system and circular flow of goods, services and money is
+followed by a section dealing with microeconomic principles, including demand and supply analysis, consumer
+behaviour and utility maximisation, production and the costs thereof, and the different market models and firm
+behaviour. Labour market institutions and issues, wage determination, as well as income inequality and poverty
+are also addressed. A section of money, banking, interest rates and monetary policy concludes the course."
+null;null;null;null;Economics 120;EKN 120;null;"This module deals with the core principles of economics, especially macroeconomic measurement the private
+and public sectors of the South African economy receive attention, while basic macroeconomic relationships and
+the measurement of domestic output and national income are discussed. Aggregate demand and supply
+analysis stands core to this course which is also used to introduce students to the analysis of economic growth,
+unemployment and inflation. The microeconomics of government is addressed in a separate section, followed by
+a section on international economics, focusing on international trade, exchange rates and the balance of
+payments. The economics of developing countries and South Africa in the global economy conclude the course."
+null;null;null;null;Financial decision-making 120;FDM 120;null;"calculate costs of relevant items
+prepare and present forecasts
+identify costing, forecasting and ethical problems and
+propose adequate ethical solutions based on sound principles that are in the interest of specific stakeholders."
+null;null;null;null;Informatics 112;INF 112;null;"Introduction to information systems, information systems in organisations, hardware: input, processing, output,
+software: systems and application software, organisation of data and information, telecommunications and
+networks, the Internet and Intranet. Transaction processing systems, management information systems,
+decision support systems, information systems in business and society, systems analysis, systems design,
+implementation, maintenance and revision."
+null;null;null;null;Informatics 183;INF 183;null;Computer processing of accounting information.
+null;null;null;null;Business management 114;OBS 114;null;"The entrepreneurial mind-set; managers and managing; values, attitudes, emotions, and culture: the manager
+as a person; ethics and social responsibility; decision making; leadership and responsible leadership; effective
+groups and teams; managing organizational structure and culture inclusive of the different functions of a generic
+organisation and how they interact (marketing; finance; operations; human resources and general
+management); contextualising Sustainable Development Goals (SDG) in each of the topics"
+null;null;null;null;Responsible reporting 100;RRP 100;null;"prepare, present and interpret the external reports
+identify reporting and ethical problems and
+propose adequate ethical solutions that are in the interest of specific stakeholders."
+null;null;null;null;Statistics 122;STC 122;null;"Inferential concepts. Experimental and observational data. Measures of association, uncertainty and goodness of
+fit. Sampling error and accuracy of estimation. Introduction to linear regression, reduction of variation due to
+regression. Conditional distributions of residuals. Simulation based inference: conditional means and prediction
+intervals. Bivariate data visualisation. Supporting mathematical concepts. Statistical concepts are demonstrated
+and interpreted through practical coding and simulation within a data science framework.
+This module is also presented as a summer school for students who initially elected and passed STK 120 with a
+final mark of at least 60% and then decides to further their studies in statistics as well as for students who
+achieved a final mark of between 40% - 49% in STC 122 during semester 2."
+null;null;null;null;Statistics 110;STK 110;null;"Sampling and the collection of data; frequency distributions and graphical representations. Descriptive
+measures of location and dispersion.
+Probability and inference:
+Introductory probability theory and theoretical distributions. Sampling distributions. Estimation theory and
+hypothesis testing of sampling averages and proportions (one and two-sample cases). Supporting mathematical
+concepts. Statistical concepts are demonstrated and interpreted through practical coding and simulation within
+a data science framework."
+null;null;null;2;Professional ethics 221;BPE 221;null;"This module will provide students with an appropriate conceptual understanding of detailed foundational
+knowledge of the philosophy underpinning the moral issues influencing human agency in economic and political
+contexts such that students will
+understand and identify moral problems and
+engage in reasoned debate to propose appropriate ethical solutions that are in the interest of relevant
+stakeholders."
+null;null;null;null;Business acumen 200;BUS 200;null;"set goals, acquire and reflect on new knowledge, skills or experiences and
+influence themselves and others in straightforward and unambiguous settings.
+To use an appropriate conceptual understanding of their detailed foundational knowledge and skills in an intra-,
+inter-, multi- and transdisciplinary familiar business context that is relevant to a company or basic group of
+companies to
+ identify and analyse ethical and authentic business-related problems and
+ present appropriate ethical solutions with adequate justification that are in the interest of relevant
+stakeholders"
+null;null;null;null;Financial decision-making 200;FDM 200;null;"To use an appropriate conceptual understanding of detailed foundational knowledge of financial decision-making
+principles in a familiar business context that is relevant to a company or basic group of companies to
+calculate the impact or outcome of a financial decision
+identify decision-making and ethical problems
+propose appropriate ethical solutions with adequate justification
+that are in the interest of relevant stakeholders."
+null;null;null;null;Governance and assurance 200;GOA 200;null;"To use an appropriate conceptual understanding of detailed foundational knowledge of business processes,
+governance and assurance principles as it is applied in a familiar business context of a company or basic group
+of companies to
+ identify ethics and assurance-related problems and
+ propose appropriate ethical solutions with adequate justification that are in the interest of relevant
+stakeholders."
+null;null;null;null;Human resource management 220;HRC 220;null;"This module will provide an introduction to the management of organisational behavior. The focus of this module
+will be on the management of individual and team performance. Specific attention will be given to leadership
+and how leaders can improve the performance of individuals and teams through teamwork, mentoring, and the
+effective management of relationships and conflict. In addition, organisational culture and the relationship
+between employer and employee in managing the work environment, diversity and equality practices will be
+addressed."
+null;null;null;null;Informatics 264;INF 264;null;"Foundation of databases and query languages which are relevant to the application of information systems
+within a business environment."
+null;null;null;null;Commercial law 201;KRG 201;null;SA legal system, relevant laws and regulations applicable to the public and commercial sectors.
+null;null;null;null;Responsible reporting 200;RRP 200;null;"To use an appropriate conceptual understanding of detailed foundational knowledge of accounting information
+systems and appropriate reporting frameworks in a familiar business context that is relevant to a company or
+basic group of companies to
+ prepare, present and interpret the external reports
+ identify reporting and ethical problems and
+ propose appropriate ethical solutions with adequate justification that are in the interest of relevant
+stakeholders."
+null;null;null;null;Taxation 201;TXA 201;null;"To use an appropriate conceptual understanding of detailed foundational knowledge of the structure and
+legislative framework of the different types of taxes in South Africa in a familiar business context that is relevant
+to individuals, a company or basic group of companies to
+ interpret and apply the relevant tax laws and calculate the tax payable
+ fulfil the compliance obligations of different types of taxpayers
+ identify tax related and ethical problems and
+ propose appropriate ethical solutions with adequate justification that are in the interest of relevant
+stakeholders"
+null;null;null;null;Applications in data science 212;WST 212;null;"Introductory machine learning concepts. Data base design and use. Data preparation and extraction. Statistical
+modelling using data base structures. Statistical concepts are demonstrated and interpreted through practical
+coding and simulation within a data science framework"
+null;null;null;3;Business acumen 300;BUS 300;null;"set goals, acquire and critically reflect on new knowledge, skills or experiences and
+ influence themselves, others and society in straightforward and unambiguous settings.
+To use a comprehensive conceptual understanding of their in- depth foundational knowledge and skills in an
+intra-, inter-, multi- and transdisciplinary unfamiliar business context that is relevant to companies or complex
+group of companies to
+ identify and interpret ethical and authentic business- related problems and
+ propose innovative and creative ethical solutions with compelling justification that creates value for society."
+null;null;null;null;Financial decision-making 300;FDM 300;null;"To use a comprehensive conceptual understanding of in-depth foundational knowledge of financial decisionmaking and strategy in an unfamiliar business context that is relevant to companies or complex group of
+companies to
+evaluate a financial decision
+develop and interpret strategy
+identify decision-making, strategy and ethical problems
+propose optimal ethical solutions with compelling justification that creates value for society."
+null;null;null;null;Governance and assurance 300;GOA 300;null;"To use a comprehensive conceptual understanding of in-depth foundational knowledge of business processes,
+governance and assurance principles as it is applied in an unfamiliar business context that is relevant to
+companies or complex group of companies to
+ present a governance, risk and control assessment and plan
+ perform an audit engagement
+ identify ethics and assurance-related problems and
+ propose optimal ethical solutions with compelling justification
+that creates value for society"
+null;null;null;null;Informatics 324;INF 324;null;Information systems in organisations.
+null;null;null;null;Design thinking and business innovation 317;OBS 317;null;"Creativity, innovation and identification of opportunities: the role of creativity; techniques to facilitate creativity;
+barriers to creativity; creative versus critical thinking within the broad business managerial context. Creative
+problem-solving and identification of opportunities: identification of opportunities; development of ideas;
+evaluation and prioritising of ideas, ideation and design thinking. Creativity and its role in design thinking
+towards facilitating business innovation. Design thinking techniques are applied with an emphasis on customer
+empathy. Business innovation is translated from the process of design thinking into incremental or disruptive
+new products, services and or processes. A clear understanding is created with regard to the following elements
+in business innovation: types and forms; technology waves; models; processes and sources. The management of
+innovation is also an integral part of the module."
+null;null;null;null;Responsible reporting 300;RRP 300;null;"To use a comprehensive conceptual understanding of in-depth foundational knowledge of accounting
+information systems and appropriate reporting frameworks in an unfamiliar business context that is relevant to
+companies or complex group of companies to
+ prepare, present and interpret the external reports identify ethical and reporting problems and
+ propose optimal ethical solutions with compelling justification
+that creates value for society."
+null;null;null;null;Taxation 301;TXA 301;null;"To use a comprehensive conceptual understanding of in-depth foundational knowledge of the structure and
+legislative framework of the different types of taxes in South Africa in an unfamiliar business context that is
+relevant to individuals, companies or complex group of companies to
+ interpret and apply the relevant tax laws and calculate the tax payable
+ fulfil the compliance obligations of different types of taxpayers
+ identify tax related and ethical problems, further information required or the need to obtain specialist advice
+and
+ propose optimal ethical solutions with compelling justification that creates value for society."
+null;null;BCom (Agribusiness Management);1;Marketing management 120;BEM 120;null;"This module provides an overview of the fundamentals of marketing by considering the exchange process,
+customer value, marketing research and the development of a marketing plan. It also addresses the
+marketing mix elements with specific focus on the seven service marketing elements namely the service
+product, physical evidence, people, process, distribution, pricing and integrated marketing communication."
+null;null;null;null;Economics 110;EKN 110;null;"This module deals with the core principles of economics. A distinction between macroeconomics and
+microeconomics is made. A discussion of the market system and circular flow of goods, services and money is
+followed by a section dealing with microeconomic principles, including demand and supply analysis, consumer
+behaviour and utility maximisation, production and the costs thereof, and the different market models and firm
+behaviour. Labour market institutions and issues, wage determination, as well as income inequality and poverty
+are also addressed. A section of money, banking, interest rates and monetary policy concludes the course."
+null;null;null;null;Economics 120;EKN 120;null;"This module deals with the core principles of economics, especially macroeconomic measurement the private
+and public sectors of the South African economy receive attention, while basic macroeconomic relationships and
+the measurement of domestic output and national income are discussed. Aggregate demand and supply
+analysis stands core to this course which is also used to introduce students to the analysis of economic growth,
+unemployment and inflation. The microeconomics of government is addressed in a separate section, followed by
+a section on international economics, focusing on international trade, exchange rates and the balance of
+payments. The economics of developing countries and South Africa in the global economy conclude the course."
+null;null;null;null;Financial accounting 111;FRK 111;null;"The nature and function of accounting; the development of accounting; financial position; financial result; the
+recording process; processing of accounting data; treatment of VAT; elementary income statement and balance
+sheet; flow of documents; accounting systems; introduction to internal control and internal control measures;
+bank reconciliations; control accounts; adjustments; financial statements of a sole proprietorship; the accounting
+framework"
+null;null;null;null;Financial accounting 122;FRK 122;null;"Budgeting, payroll accounting, taxation – income tax and an introduction to other types of taxes, credit and the
+new Credit Act, insurance, accounting for inventories (focus on inventory and the accounting entries, not
+calculations), interpretation of financial statements."
+null;null;null;null;Informatics 183;INF 183;null;Computer processing of accounting information.
+null;null;null;null;Communication management 182;KOB 182;null;"Acquiring basic business communication skills will enhance the capabilities of employees, managers and leaders
+in the business environment. An overview of applied skills on the intrapersonal, dyadic, interpersonal, group
+(team), organisational, public and mass communication contexts is provided. The practical part of the module
+(for example, the writing of business reports and presentation skills) concentrates on the performance
+dimensions of these skills as applied to particular professions."
+null;null;null;null;Business management 114;OBS 114;null;"The entrepreneurial mind-set; managers and managing; values, attitudes, emotions, and culture: the manager
+as a person; ethics and social responsibility; decision making; leadership and responsible leadership; effective
+groups and teams; managing organizational structure and culture inclusive of the different functions of a generic
+organisation and how they interact (marketing; finance; operations; human resources and general
+management); contextualising Sustainable Development Goals (SDG) in each of the topics."
+null;null;null;null;Business management 124;OBS 124;null;"Value chain management: functional strategies for competitive advantage; human resource management;
+managing diverse employees in a multicultural environment; motivation and performance; using advanced
+information technology to increase performance; production and operations management; financial
+management; corporate entrepreneurship."
+null;null;null;null;Statistics 110;STK 110;null;"Sampling and the collection of data; frequency distributions and graphical representations. Descriptive
+measures of location and dispersion.
+Probability and inference:
+Introductory probability theory and theoretical distributions. Sampling distributions. Estimation theory and
+hypothesis testing of sampling averages and proportions (one and two-sample cases). Supporting mathematical
+concepts. Statistical concepts are demonstrated and interpreted through practical coding and simulation within
+a data science framework."
+null;null;null;null;Statistics 120;STK 120;null;"Analysis of variance, categorical data analysis, distribution-free methods, curve fitting, regression and
+correlation, the analysis of time series and indices. Statistical and economic applications of quantitative
+techniques: Systems of linear equations: solving and application. Optimisation, linear functions, non-linear
+functions. Marginal and total functions. Stochastic and deterministic variables in statistical and economic
+context: producers' and consumers' surplus. Supporting mathematical concepts. Statistical concepts are
+illustrated using simulation within a data science framework.
+This module is also presented as STK 121, an anti-semester module. This is a terminating module."
+null;null;null;2;Business law 210;BER 210;null;Basic principles of law of contract. Law of sales, credit agreements, lease.
+null;null;null;null;Economics 224;EKN 224;null;"Microeconomics
+Microeconomic insight is provided into: consumer and producer theory, general microeconomic equilibrium,
+Pareto-optimality and optimality of the price mechanism, welfare economics, market forms and the production
+structure of South Africa. Statistic and econometric analysis of microeconomic issues."
+null;null;null;null;Economics 244;EKN 244;null;"Microeconomics
+From general equilibrium and economic welfare to uncertainty and asymmetric information. In this module we
+apply the principles learned in EKN 224 on the world around us by looking at the microeconomic principles of
+labour and capital markets, as well as reasons why the free market system could fail. We touch on the
+government’s role in market failures. The course includes topics of the mathematical and econometric analysis
+of microeconomic issues"
+null;null;null;null;Introduction to agricultural economics 210;LEK 210;null;"ntroduction to the world of agricultural economics: where to find practising agricultural economics services,
+overview of South African Agricultural Economy, scope of agricultural economics. Introduction to consumption
+and demand: utility theory, indifference curves, the budget constraint, consumer equilibrium, the law of
+demand, consumer surplus, tastes and preferences, and measurement and interpretation of elasticities.
+Introduction to production and supply: condition for perfect competition, classification of inputs, important
+production relationships, assessing short-run business costs, economics of short-run decisions. Isoquants, isocost line, least cost combination of inputs, long-run expansion of inputs, and economics of business expansion,
+production possibility frontier, iso-revenue line and profit maximising combination of products. Introduction to
+market equilibrium and product prices: market equilibrium in a perfectly competitive market, total economic
+surplus, changes in welfare, adjustments to market equilibrium, market structure characteristics, market
+equilibrium in a imperfectly competitive market, government regulatory measures. Introduction to financial
+management in agriculture: Farm management and agricultural finance, farm management information;
+analysis and interpretation of farm financial statements; risk and farm planning. Budgets: partial, break-even,
+enterprise, total, cash flow and capital budgets. Elements of business plan, marketing planning and price risk.
+Financial structuring and sources of finance for farm business. Time value of money."
+null;null;null;null;Agricultural economics 220;LEK 220;null;"The agribusiness system; the agricultural value chain, the unique characteristics of agricultural products;
+marketing functions and costs; historical evolution of agricultural marketing in South Africa. The marketing
+environment. Consumer behaviour and consumer trends. Introduction to supply and demand analysis.
+Developing a marketing plan and strategies for agricultural commodities; market analysis; product
+management; distribution channels for agricultural commodities, the agricultural supply chain. Introduction to
+the agricultural futures market. Marketing in the 21st century. Online marketing, social media. Market structure."
+null;null;null;null;Business management 210;OBS 210;null;"Logistics management
+The role of logistics in an enterprise; definition and scope of customer service; electronic and other logistics
+information systems; inventory management; materials management with special reference to Japanese
+systems; management of the supply chain. Methods of transport and transport costs; types and costs of
+warehousing; electronic aids in materials handling; cost and price determination of purchases; organising for
+logistics management; methods for improving logistics performance."
+null;null;null;null;Business management 220;OBS 220;null;"Project management and negotiations:
+Introduction Project management concepts; needs identification; the project, the project manager and the
+project team; types of project organisations; project communication and documentation. Planning and control:
+planning, scheduling and schedule control of projects; resource considerations and allocations; cost planning
+and performance evaluation.
+Negotiation and collective bargaining: The nature of negotiation; preparation for negotiation; negotiating for
+purposes of climate creation; persuasive communication; handling conflict and aggression; specialised
+negotiation and collective bargaining in the South African context."
+null;null;null;null;Economics 310;EKN 310;null;"Public finance
+Role of government in the economy. Welfare economics and theory of optimality. Ways of correcting market
+failures. Government expenditure theories, models and programmes. Government revenue. Models on taxation,
+effects of taxation on the economy. Assessment of taxation from an optimality and efficiency point of view.
+South African perspective on public finance."
+null;null;null;null;Economics 320;EKN 320;null;"Economic analyses
+Identification, collection and interpretation process of relevant economic data; the national accounts (i.e. income
+and production accounts, the national financial account, the balance of payments and input-output tables);
+economic growth; inflation; employment, unemployment, wages, productivity and income distribution; business
+cycles; financial indicators; fiscal indicators; social indicators; international comparisons; relationships between
+economic time series - regression analysis; long-term future studies and scenario analysis; overall assessment of
+the South African economy from 1994 onwards"
+null;null;null;null;Agricultural economics 310;LEK 310;null;"Historical evolution of South African agricultural policy. Agriculture and the state (communicating the legislative
+process in detail): reasons for government intervention (government and stakeholder engagement). Theoretical
+aspects of agricultural policy. Introduction to agricultural policy analysis. Welfare principles, pareto optimality.
+Macroeconomic policy and the agricultural sector. International agricultural trade (including inter-governmental
+communication)"
+null;null;null;null;Agricultural economics 320;LEK 320;null;"The modern food and agribusiness system. Key drivers in the global context. Whole farm planning including
+business planning, financial analysis and financial modelling, capital acquisition and creditworthiness, time value
+of money and the investment decision, Decision making in agriculture under risk and uncertain cirmumstances
+and risk management. Operational and strategic management. Business plan and scenario planning
+assignments."
+null;null;null;null;Agricultural market and price analysis 431;LEK 431;null;"After providing an appropriate background in the theoretical concepts of demand (theory of the consumer) and
+supply (theory of the firm) these basics will be applied in the generation of optimization techniques such as
+Lagrange optimization and linear programming. The work will cover the identification of supply and demand
+shifters as well as the elasticities, flexibilities, and impact multipliers. The theory will underpin the development
+of econometric simulation models for selected agricultural sectors. Practical experience in the formulation of
+these models will be attained from practical sessions."
+null;null;BCom (Financial Sciences);1;Economics 110;EKN 110;null;"This module deals with the core principles of economics. A distinction between macroeconomics and
+microeconomics is made. A discussion of the market system and circular flow of goods, services and money is
+followed by a section dealing with microeconomic principles, including demand and supply analysis, consumer
+behaviour and utility maximisation, production and the costs thereof, and the different market models and firm
+behaviour. Labour market institutions and issues, wage determination, as well as income inequality and poverty
+are also addressed. A section of money, banking, interest rates and monetary policy concludes the course."
+null;null;null;null;Economics 120;EKN 120;null;"This module deals with the core principles of economics, especially macroeconomic measurement the private
+and public sectors of the South African economy receive attention, while basic macroeconomic relationships and
+the measurement of domestic output and national income are discussed. Aggregate demand and supply
+analysis stands core to this course which is also used to introduce students to the analysis of economic growth,
+unemployment and inflation. The microeconomics of government is addressed in a separate section, followed by
+a section on international economics, focusing on international trade, exchange rates and the balance of
+payments. The economics of developing countries and South Africa in the global economy conclude the course."
+null;null;null;null;Financial management 121;FBS 121;null;"Introduction to finance and investment, critical reasoning skills and problem solving techniques for finance and
+investment, cost concepts, simple linear regression analysis for the purpose of forecasting future sales volumes
+and costs, time series analysis for the purpose of forecasting future sales volumes, indexing for the purposes of
+inflating and deflating a set of financial data, the functioning of the financial markets including interest rate and
+foreign exchange mechanisms, mathematics for business including time value of money calculations. Where
+appropriate, spread sheet applications (Excel) will be addressed as part of the respective topics being covered.
+Contemporary issues in finance and investment."
+null;null;null;null;Financial accounting 111;FRK 111;null;"The nature and function of accounting; the development of accounting; financial position; financial result; the
+recording process; processing of accounting data; treatment of VAT; elementary income statement and balance
+sheet; flow of documents; accounting systems; introduction to internal control and internal control measures;
+bank reconciliations; control accounts; adjustments; financial statements of a sole proprietorship; the accounting
+framework"
+null;null;null;null;Financial accounting 121;FRK 121;null;"Property, plant and equipment; intangible assets; inventories; liabilities; presentation of financial statements;
+enterprises without profit motive; partnerships; companies; close corporations; cash flow statements; analysis
+and interpretation of financial statements."
+null;null;null;null;Informatics 112;INF 112;null;"Introduction to information systems, information systems in organisations, hardware: input, processing, output,
+software: systems and application software, organisation of data and information, telecommunications and
+networks, the Internet and Intranet. Transaction processing systems, management information systems,
+decision support systems, information systems in business and society, systems analysis, systems design,
+implementation, maintenance and revision."
+null;null;null;null;Informatics 183;INF 183;null;Computer processing of accounting information.
+null;null;null;null;Communication management 184;KOB 184;null;"Applied business communication skills.
+Acquiring basic business communication skills will enhance the capabilities of employees, managers and leaders
+in the business environment. An overview of applied skills on the intrapersonal, dyadic, interpersonal, group
+(team), organisational, public and mass communication contexts is provided. The practical part of the module
+(for example, the writing of business reports and presentation skills) concentrates on the performance
+dimensions of these skills as applied to particular professions."
+null;null;null;null;Business management 114;OBS 114;null;"The entrepreneurial mind-set; managers and managing; values, attitudes, emotions, and culture: the manager
+as a person; ethics and social responsibility; decision making; leadership and responsible leadership; effective
+groups and teams; managing organizational structure and culture inclusive of the different functions of a generic
+organisation and how they interact (marketing; finance; operations; human resources and general
+management); contextualising Sustainable Development Goals (SDG) in each of the topics."
+null;null;null;null;Statistics 122;STC 122;null;"Inferential concepts. Experimental and observational data. Measures of association, uncertainty and goodness of
+fit. Sampling error and accuracy of estimation. Introduction to linear regression, reduction of variation due to
+regression. Conditional distributions of residuals. Simulation based inference: conditional means and prediction
+intervals. Bivariate data visualisation. Supporting mathematical concepts. Statistical concepts are demonstrated
+and interpreted through practical coding and simulation within a data science framework.
+This module is also presented as a summer school for students who initially elected and passed STK 120 with a
+final mark of at least 60% and then decides to further their studies in statistics as well as for students who
+achieved a final mark of between 40% - 49% in STC 122 during semester 2."
+null;null;null;null;Statistics 110;STK 110;null;"Sampling and the collection of data; frequency distributions and graphical representations. Descriptive
+measures of location and dispersion.
+Probability and inference:
+Introductory probability theory and theoretical distributions. Sampling distributions. Estimation theory and
+hypothesis testing of sampling averages and proportions (one and two-sample cases). Supporting mathematical
+concepts. Statistical concepts are demonstrated and interpreted through practical coding and simulation within
+a data science framework."
+null;null;null;null;Statistics 120;STK 120;null;"Analysis of variance, categorical data analysis, distribution-free methods, curve fitting, regression and
+correlation, the analysis of time series and indices. Statistical and economic applications of quantitative
+techniques: Systems of linear equations: solving and application. Optimisation, linear functions, non-linear
+functions. Marginal and total functions. Stochastic and deterministic variables in statistical and economic
+context: producers' and consumers' surplus. Supporting mathematical concepts. Statistical concepts are
+illustrated using simulation within a data science framework.
+This module is also presented as STK 121, an anti-semester module. This is a terminating module."
+null;null;null;2;Business accounting 200;BAC 200;null;"To use a conceptual understanding of intermediate foundational knowledge of International Financial Reporting
+Standards (IFRS) in order to prepare, present and interpret company and basic group company financial
+statements in a familiar business context and to propose clear solutions with adequate justification to solve
+financial problems in an ethical manner."
+null;null;null;null;Taxation 200;BEL 200;null;"This module introduces students to taxation in the context of its history, its basic principles and its
+interdisciplinary nature as it relates to policy, legislation and governance. It also addresses the inherent demand
+for ethical and responsible conduct by all tax practitioners/professionals and taxpayers in pursuit of sustainable
+development in South Africa. The module is principles-based and will enable a student to interpret and apply the
+fundamental principles and concepts of taxation, specifically related to the Income Tax Act (No. 58 of 1962). In
+addition, the module will enable a student to interpret and apply specific sections in the Income Tax Act relating
+to donations and deceased estates."
+null;null;null;null;Business law 210;BER 210;null;Basic principles of law of contract. Law of sales, credit agreements, lease.
+null;null;null;null;Business law 220;BER 220;null;"Labour law. Aspects of security law. Law of insolvency. Entrepreneurial law; company law, law concerning close
+corporations. Law of partnerships"
+null;null;null;null;Financial management 210;FBS 210;null;"Framework and purpose of financial management; understanding financial statements; analysis of financial
+statements for decision making; time value of money; risk and return relationships; business valuation; shortterm planning; current asset management."
+null;null;null;null;Financial management 220;FBS 220;null;"The purpose and functioning of management accounting, cost classification; the determination of product costs
+including raw material costs, labour costs, overheads and its allocation according to traditional and activitybased costing methods, inventory management, the accumulation of costs according to job and process costing
+systems, the treatment of joint and by-products and the determination of costs according to a direct and
+absorption costing approach; decisionmaking with reference to cost-volume-profit ratios."
+null;null;null;null;Internal auditing 200;IAU 200;null;Introduction to the business environment. An organisation’s internal control environment and internal control systems. The internal auditing profession and the role of the Institute of Internal Auditors (IIA). Code of Ethics and standards of internal auditors (IPPF). The internal audit process, tools and techniques used during the audit. The identification of weaknesses, risks and controls. Planning and performing limited scope assurance engagements for the revenue and procurement business processes. Relationship between internal auditing and other related stakeholders in business. Introduction to corporate governance.
+null;null;null;null;Informatics 264;INF 264;null;"Foundation of databases and query languages which are relevant to the application of information systems
+within a business environment."
+null;null;null;3;Business accounting 300;BAC 300;null;"BAC 300 includes both company and complex group company statements and the outcome of BAC 300 is:
+To use a conceptual understanding of comprehensive and integrated foundational knowledge of International
+Financial Reporting Standards (IFRS), basic foundational knowledge of IFRS for small and medium-sized
+enterprises (IFRS for SMEs) and basic foundational knowledge of Generally Recognised Accounting Practice
+(GRAP), in order to proficiently prepare, present and interpret company and complex group company financial
+statements in an unfamiliar business context and to propose appropriate solutions with compelling justification
+to solve financial problems in an ethical manner."
+null;null;null;null;Taxation 300;BEL 300;null;"The purpose of the module is to enable the learner to calculate the value-added tax liability and to journalise
+transactions; calculate the normal tax liability (including the determination of taxable capital gains and assessed
+capital losses) of individuals, companies, estates and trusts,discuss tax principles on value-added tax and
+normal tax; and calculate and discuss provisional and employees' tax and to object against an assessment"
+null;null;null;null;Financial management 310;FBS 310;null;"Relevant costs; standard costing with reference to application and evaluation; preparation and evaluation of
+plans, budgets and forecasts; techniques for allocating and managing resources; costing and accounting
+systems evaluation; techniques used in management decision making; new developments in business and
+management accounting; case study perspective. Cost management; strategic management accounting; cost
+estimation and cost behaviour; quantitative models for stock control; application of linear programming in
+management accounting; various management accounting techniques"
+null;null;null;null;Financial management 320;FBS 320;null;"Cost of capital; determination of capital requirements and the financing of a business to maintain the optimal
+capital structure; the investment decision and the study of financial selection criteria in the evaluation of capital
+investment projects; impact of inflation and risk on capital investment decisions; evaluation of leasing decisions;
+dividend decisions; international financial management. Valuation principles and practices: an introduction to
+security analysis; hybrids and derivative instruments, mergers and acquisitions."
+null;null;null;null;Internal auditing 300;IAU 300;null;"General and application information technology controls. The identification of weaknesses, risks, controls and
+engagement procedures for the human resources and payroll, inventory and bank and cash business processes.
+Assurance engagements (control, compliance and financial audit engagements). Safety, health and
+environmental audit engagements. Sustainability assurance engagements. Quantitative techniques, data
+analytics and computer assisted audit techniques. Risk-based, compliance, operational, forensic and consulting
+audit engagements. Introduction to the public sector internal audit environment. Corporate Governance,
+relevant legislation and other guidelines that affect the internal audit profession. Audit communication."
+null;null;BCom (Informatics) Information Systems;1;Economics 110;EKN 110;null;"This module deals with the core principles of economics. A distinction between macroeconomics and
+microeconomics is made. A discussion of the market system and circular flow of goods, services and money is
+followed by a section dealing with microeconomic principles, including demand and supply analysis, consumer
+behaviour and utility maximisation, production and the costs thereof, and the different market models and firm
+behaviour. Labour market institutions and issues, wage determination, as well as income inequality and poverty
+are also addressed. A section of money, banking, interest rates and monetary policy concludes the course."
+null;null;null;null;Economics 120;EKN 120;null;"This module deals with the core principles of economics, especially macroeconomic measurement the private
+and public sectors of the South African economy receive attention, while basic macroeconomic relationships and
+the measurement of domestic output and national income are discussed. Aggregate demand and supply
+analysis stands core to this course which is also used to introduce students to the analysis of economic growth,
+unemployment and inflation. The microeconomics of government is addressed in a separate section, followed by
+a section on international economics, focusing on international trade, exchange rates and the balance of
+payments. The economics of developing countries and South Africa in the global economy conclude the course"
+null;null;null;null;Financial accounting 111;FRK 111;null;"The nature and function of accounting; the development of accounting; financial position; financial result; the
+recording process; processing of accounting data; treatment of VAT; elementary income statement and balance
+sheet; flow of documents; accounting systems; introduction to internal control and internal control measures;
+bank reconciliations; control accounts; adjustments; financial statements of a sole proprietorship; the accounting
+framework."
+null;null;null;null;Financial accounting 121;FRK 121;null;"Property, plant and equipment; intangible assets; inventories; liabilities; presentation of financial statements;
+enterprises without profit motive; partnerships; companies; close corporations; cash flow statements; analysis
+and interpretation of financial statements."
+null;null;null;null;Financial accounting 122;FRK 122;null;"Budgeting, payroll accounting, taxation – income tax and an introduction to other types of taxes, credit and the
+new Credit Act, insurance, accounting for inventories (focus on inventory and the accounting entries, not
+calculations), interpretation of financial statements."
+null;null;null;null;Informatics 112;INF 112;null;"Introduction to information systems, information systems in organisations, hardware: input, processing, output,
+software: systems and application software, organisation of data and information, telecommunications and
+networks, the Internet and Intranet. Transaction processing systems, management information systems,
+decision support systems, information systems in business and society, systems analysis, systems design,
+implementation, maintenance and revision."
+null;null;null;null;Information systems 113;INF 113;null;Introduction to quantitative methods for Information systems to students.
+null;null;null;null;Informatics 164;INF 164;null;Programming.
+null;null;null;null;Informatics 171;INF 171;null;"General systems theory, creative problem solving, the business analyst, systems development building blocks,
+systems analysis methods, process modelling and data modelling."
+null;null;null;null;Informatics 183;INF 183;null;Computer processing of accounting information.
+null;null;null;null;Business management 114;OBS 114;null;"The entrepreneurial mind-set; managers and managing; values, attitudes, emotions, and culture: the manager
+as a person; ethics and social responsibility; decision making; leadership and responsible leadership; effective
+groups and teams; managing organizational structure and culture inclusive of the different functions of a generic
+organisation and how they interact (marketing; finance; operations; human resources and general
+management); contextualising Sustainable Development Goals (SDG) in each of the topics"
+null;null;null;null;Business management 124;OBS 124;null;"Value chain management: functional strategies for competitive advantage; human resource management;
+managing diverse employees in a multicultural environment; motivation and performance; using advanced
+information technology to increase performance; production and operations management; financial
+management; corporate entrepreneurship."
+null;null;null;null;Statistics 110;STK 110;null;"Sampling and the collection of data; frequency distributions and graphical representations. Descriptive
+measures of location and dispersion.
+Probability and inference:
+Introductory probability theory and theoretical distributions. Sampling distributions. Estimation theory and
+hypothesis testing of sampling averages and proportions (one and two-sample cases). Supporting mathematical
+concepts. Statistical concepts are demonstrated and interpreted through practical coding and simulation within
+a data science framework."
+null;null;null;null;Statistics 120;STK 120;null;"Analysis of variance, categorical data analysis, distribution-free methods, curve fitting, regression and
+correlation, the analysis of time series and indices. Statistical and economic applications of quantitative
+techniques: Systems of linear equations: solving and application. Optimisation, linear functions, non-linear
+functions. Marginal and total functions. Stochastic and deterministic variables in statistical and economic
+context: producers' and consumers' surplus. Supporting mathematical concepts. Statistical concepts are
+illustrated using simulation within a data science framework"
+null;null;null;2;Business law 210;BER 210;null;Basic principles of law of contract. Law of sales, credit agreements, lease.
+null;null;null;null;Business law 220;BER 220;null;"Labour law. Aspects of security law. Law of insolvency. Entrepreneurial law; company law, law concerning close
+corporations. Law of partnerships."
+null;null;null;null;Informatics 214;INF 214;null;"Database design: the relational model, structured query language (SQL), entity relationship modelling,
+normalisation, database development life cycle; practical introduction to database design. Databases: advanced
+entity relationship modelling and normalisation, object-oriented databases, database development life cycle,
+advanced practical database design."
+null;null;null;null;Informatics 225;INF 225;null;An overview of systems infrastructure and integration
+null;null;null;null;Informatics 261;INF 261;null;"Database management: transaction management, concurrent processes, recovery, database administration:
+new developments: distributed databases, client-server databases: practical implementation of databases."
+null;null;null;null;Informatics 271;INF 271;null;"Systems analysis. Systems design: construction; application architecture; input design; output design; interface
+design; internal controls; program design; object design; project management; system implementation; use of
+computer-aided development tools."
+null;null;null;null;Applications in data science 212;WST 212;null;"Introductory machine learning concepts. Data base design and use. Data preparation and extraction. Statistical
+modelling using data base structures. Statistical concepts are demonstrated and interpreted through practical
+coding and simulation within a data science framework."
+null;null;null;null;Informatics 315;INF 315;null;"A review of current trends which are relevant to the application of information systems within a business
+environment"
+null;null;null;null;Informatics 324;INF 324;null;Information systems in organisations.
+null;null;null;null;Informatics 354;INF 354;null;Advanced programming.
+null;null;null;null;Informatics 370;INF 370;null;"Application of systems analysis and design in a practical project; programming; use of computer-aided
+development tools."
+null;Natural & Agricultural Sciences;null;null;null;null;null;null
+null;null;BSc (Actuarial and Financial Mathematics);1;Economics 110;EKN 110;null;"This module deals with the core principles of economics. A distinction between macroeconomics and
+microeconomics is made. A discussion of the market system and circular flow of goods, services and money is
+followed by a section dealing with microeconomic principles, including demand and supply analysis, consumer
+behaviour and utility maximisation, production and the costs thereof, and the different market models and firm
+behaviour. Labour market institutions and issues, wage determination, as well as income inequality and poverty
+are also addressed. A section of money, banking, interest rates and monetary policy concludes the course."
+null;null;null;null;Economics 120;EKN 120;null;"This module deals with the core principles of economics, especially macroeconomic measurement the private
+and public sectors of the South African economy receive attention, while basic macroeconomic relationships and
+the measurement of domestic output and national income are discussed. Aggregate demand and supply
+analysis stands core to this course which is also used to introduce students to the analysis of economic growth,
+unemployment and inflation. The microeconomics of government is addressed in a separate section, followed by
+a section on international economics, focusing on international trade, exchange rates and the balance of
+payments. The economics of developing countries and South Africa in the global economy conclude the course."
+null;null;null;null;Financial management 112;FBS 112;null;"Key principles of financial management. Company ownership. Taxation. Introduction to financial statements.
+Structure of financial statements. Depreciation and reserves. Preparing financial statements. Group financial
+statements and insurance company financial statements. Interpretation of financial statements. Limitation of
+financial statements. Issue of share capital."
+null;null;null;null;Financial management 122;FBS 122;null;"Financial instruments. Use of financial derivatives. Financial institutions. Time value of money. Component cost
+of capital. Weighted average cost of capital. Capital structure and dividend policy. Capital project appraisal.
+Evaluating risky investments."
+null;null;null;null;Actuarial and Financial Mathematics in practice 111;IAS 111;null;Professionalism, working in multicultural environments, self-development, propositional logic, financial needs.
+null;null;null;null;Actuarial and Financial Mathematics in practice 121;IAS 121;null;"Financial service providers, investment examples including an introduction to mathematics of finance, life
+insurance examples including an introduction to contingencies, general insurance examples including an
+introduction to reserving using run-off triangles, personal self-development."
+null;null;null;null;Mathematical statistics 111;WST 111;null;"Characterisation of a set of measurements: Graphical and numerical methods. Random sampling. Probability
+theory. Discrete and continuous random variables. Probability distributions. Generating functions and moments."
+null;null;null;null;Mathematical statistics 121;WST 121;null;"Sampling distributions and the central limit theorem. Statistical inference: Point and interval estimation.
+Hypothesis testing with applications in one and two-sample cases. Introductory methods for: Linear regression
+and correlation, analysis of variance, categorical data analysis and non-parametric statistics. Identification, use,
+evaluation and interpretation of statistical computer packages and statistical techniques."
+null;null;null;null;Calculus 114;WTW 114;null;"Functions, limits and continuity. Differential calculus of single variable functions, rate of change, graph
+sketching, applications. The mean value theorem, the rule of L'Hospital. Definite and indefinite integrals,
+evaluating definite integrals using anti-derivatives, the substitution rule."
+null;null;null;null;Numerical analysis 123;WTW 123;null;"Non-linear equations, numerical integration, initial value problems for differential equations, systems of linear
+equations. Algorithms for elementary numerical techniques are derived and implemented in computer
+programmes. Error estimates and convergence results are treated."
+null;null;null;null;Mathematics 124;WTW 124;null;"The vector space Rn, vector algebra with applications to lines and planes, matrix algebra, systems of linear
+equations, determinants. Complex numbers and factorisation of polynomials. Integration techniques and
+applications of integration. The formal definition of a limit. The fundamental theorem of Calculus and
+applications. Vector functions and quadratic curves."
+null;null;null;null;Mathematical modelling 152;WTW 152;null;"The module serves as an introduction to computer programming as used in science. Modelling of dynamical
+processes using difference equations; curve fitting and linear programming are studied. Applications are drawn
+from real-life situations in, among others, finance, economics and ecology"
+null;null;null;2;Financial mathematics 211;IAS 211;null;"Principles of actuarial modelling, cash-flow models, the time value of money, interest rates, discounting and
+accumulating, level annuities, deferred and increasing annuities, equations of value."
+null;null;null;null;Contingencies 221;IAS 221;null;"Fundamentals of survival models, select and ultimate life tables, Assurance and annuity functions, basic
+calculation of premiums and reserves, principles of pricing and reserving."
+null;null;null;null;Mathematical statistics 211;WST 211;null;"Set theory. Probability measure functions. Random variables. Distribution functions. Probability mass functions.
+Density functions. Expected values. Moments. Moment generating functions. Special probability distributions:
+Bernoulli, binomial, hypergeometric, geometric, negative binomial, Poisson, Poisson process, discrete uniform,
+uniform, gamma,exponential, Weibull, Pareto, normal. Joint distributions: Multinomial, extended hypergeometric,
+joint continuous distributions. Marginal distributions. Independent random variables. Conditional distributions.
+Covariance, correlation. Conditional expected values. Transformation of random variables: Convolution formula.
+Order statistics. Stochastic convergence: Convergence in distribution. Central limit theorem. Practical
+applications. Practical statistical modelling and analysis using statistical computer packages and the
+interpretation of the output."
+null;null;null;null;Applications in data science 212;WST 212;null;"Introductory machine learning concepts. Data base design and use. Data preparation and extraction. Statistical
+modelling using data base structures. Statistical concepts are demonstrated and interpreted through practical
+coding and simulation within a data science framework."
+null;null;null;null;Mathematical statistics 221;WST 221;null;"Stochastic convergence: Asymptotic normal distributions, convergence in probability. Statistics and sampling
+distributions: Chi-squared distribution. Distribution of the sample mean and sample variance for random samples
+from a normal population. T-distribution. F-distribution. Beta distribution. Point estimation: Method of moments.
+Maximum likelihood estimation. Unbiased estimators. Uniform minimum variance unbiased estimators. CramerRao inequality. Efficiency. Consistency. Asymptotic relative efficiency.
+Bayes estimators. Sufficient statistics. Completeness. The exponential class. Confidence intervals. Test of
+statistical hypotheses. Reliability and survival distributions. Practical applications. Practical statistical modelling
+and analysis using statistical computer packages and the interpretation of the output."
+null;null;null;null;Linear algebra 211;WTW 211;null;"This is an introduction to linear algebra on Rn. Matrices and linear equations, linear combinations and spans,
+linear independence, subspaces, basis and dimension, eigenvalues, eigenvectors, similarity and diagonalisation
+of matrices, linear transformations."
+null;null;null;null;Calculus 218;WTW 218;null;"Calculus of multivariable functions, directional derivatives. Extrema and Lagrange multipliers. Multiple integrals,
+polar, cylindrical and spherical coordinates."
+null;null;null;null;Analysis 220;WTW 220;null;"Properties of real numbers. Analysis of sequences and series of real numbers. Power series and theorems of
+convergence. The Bolzano-Weierstrass theorem. The intermediate value theorem and analysis of real-valued
+functions on an interval. The Riemann integral: Existence and properties of the interval."
+null;null;null;null;Differential equations 264;WTW 264;null;"Theory and solution methods for ordinary differential equations and initial value problems: separable and linear
+first order equations, linear equations of higher order, systems of linear equations. Laplace transform."
+null;null;null;3;Multivariate analysis 311;WST 311;null;"Multivariate statistical distributions: Moments of a distribution, moment generating functions, independence.
+Multivariate normal distribution: Conditional distributions, partial and multiple correlations. Distribution of
+quadratic forms in normal variables. Multivariate normal samples: Estimation of the mean vector and covariance
+matrix, estimation of correlation coefficients, distribution of the sample mean, sample covariance matrix.
+Principal component analysis.The linear model: Models of full rank, least squares estimators, test of
+hypotheses.The generalised linear model: Exponential family mean and variance, link functions, deviance and
+residual analysis, test statistics, log- linear and logit models. Practical applications: Practical statistical modelling
+and analysis using statistical computer packages and interpretation of the output."
+null;null;null;null;Stochastic processes 312;WST 312;null;"Definition of a stochastic process. Stationarity. Covariance stationary. Markov property. Random walk. Brownian
+motion. Markov chains. Chapman-Kolmogorov equations. Recurrent and transient states. First passage time.
+Occupation times. Markov jump processes. Poisson process. Birth and death processes. Structures of processes.
+Structure of the time-homogeneous Markov jump process. Applications in insurance. Practical statistical
+modelling, analysis and simulation using statistical computer packages and the interpretation of the output."
+null;null;null;null;Time-series analysis 321;WST 321;null;"Stationary and non-stationary univariate time-series. Properties of autoregressive moving average (ARMA) and
+autoregressive integrated moving average (ARIMA) processes. Identification, estimation and diagnostic testing
+of a time-series model. Forecasting. Multivariate time-series. Practical statistical modelling and analysis using
+statistical computer packages, including that of social responsibility phenomena."
+null;null;null;null;Actuarial statistics 322;WST 322;null;"Bayes estimation. Loss distributions. Reinsurance. Risk models. Ruin theory. Credibility theory. Extreme value
+theory. Copulas. Practical statistical modelling and analysis using statistical computer packages."
+null;null;null;null;Financial engineering 354;WTW 354;null;"Mean variance portfolio theory. Market equilibrium models such as the capital asset pricing model. Factor
+models and arbitrage pricing theory. Measures of investment risk. Efficient market hypothesis. Stochastic
+models of security prices"
+null;null;null;null;Financial engineering 364;WTW 364;null;"Discrete time financial models: Arbitrage and hedging; the binomial model. Continuous time financial models:
+The Black-Scholes formula; pricing of options and the other derivatives; interest rate models; numerical
+procedures."
+null;null;BSc (Biochemistry);1;Biometry 120;BME 120;null;"Simple statistical analysis: Data collection and analysis: Samples, tabulation, graphical representation,
+describing location, spread and skewness. Introductory probability and distribution theory. Sampling
+distributions and the central limit theorem. Statistical inference: Basic principles, estimation and testing in the
+one- and two-sample cases (parametric and non-parametric). Introduction to experimental design. One- and
+twoway designs, randomised blocks. Multiple statistical analysis: Bivariate data sets: Curve fitting (linear and
+non-linear), growth curves. Statistical inference in the simple regression case. Categorical analysis: Testing
+goodness of fit and contingency tables. Multiple regression and correlation: Fitting and testing of models.
+Residual analysis. Computer literacy: Use of computer packages in data analysis and report writing."
+null;null;null;null;General chemistry 117;CMY 117;null;"General introduction to inorganic, analytical and physical chemistry. Atomic structure and periodicity. Molecular
+structure and chemical bonding using the VSEOR model. Nomenclature of inorganic ions and compounds.
+Classification of reactions: precipitation, acid-base, redox reactions and gas-forming reactions. Mole concept and
+stoichiometric calculations concerning chemical formulas and chemical reactions. Principles of reactivity: energy
+and chemical reactions. Physical behaviour gases, liquids, solids and solutions and the role of intermolecular
+forces. Rate of reactions: Introduction to chemical kinetics."
+null;null;null;null;General chemistry 127;CMY 127;null;"Theory: General physical-analytical chemistry: Chemical equilibrium, acids and bases, buffers, solubility
+equilibrium, entropy and free energy, electrochemistry. Organic chemistry: Structure (bonding), nomenclature,
+isomerism, introductory stereochemistry, introduction to chemical reactions and chemical properties of organic
+compounds and biological compounds, i.e. carbohydrates and aminoacids. Practical: Molecular structure (model
+building), synthesis and properties of simple organic compounds."
+null;null;null;null;Introductory genetics 161;GTS 161;null;"Chromosomes and cell division. Principles of Mendelian inheritance: locus and alleles, dominance interactions,
+extensions and modifications of basic principles.. Probability studies. Sex determination and sex linked traits.
+Pedigree analysis. Genetic linkage and chromosome mapping. Chromosome variation."
+null;null;null;null;Introduction to microbiology 161;MBY 161;null;"The module will introduce the student to the field of Microbiology. Basic Microbiological aspects that will be
+covered include introduction into the diversity of the microbial world (bacteria, archaea, eukaryotic
+microorganisms and viruses), basic principles of cell structure and function, microbial nutrition and microbial
+growth and growth control. Applications in Microbiology will be illustrated by specific examples i.e.
+bioremediation, animal-microbial symbiosis, plant-microbial symbiosis and the use of microorganisms in
+industrial microbiology. Wastewater treatment, microbial diseases and food will be introduced using specific
+examples."
+null;null;null;null;Molecular and cell biology 111;MLB 111;null;"Introduction to the molecular structure and function of the cell. Basic chemistry of the cell. Structure and
+composition of prokaryotic and eukaryotic cells. Ultrastructure and function of cellular organelles, membranes
+and the cytoskeleton. General principles of energy, enzymes and cell metabolism. Selected processes, e.g.
+glycolysis, respiration and/or photosynthesis. Introduction to molecular genetics: DNA structure and replication,
+transcription, translation. Cell growth and cell division."
+null;null;null;null;Physics for biology students 131;PHY 131;null;"Units, vectors, one dimensional kinematics, dynamics, work, equilibrium, sound, liquids, heat, thermodynamic
+processes, electric potential and capacitance, direct current and alternating current, optics, modern physics,
+radioactivity."
+null;null;null;null;Mathematics 134;WTW 134;null;"Functions, derivatives, interpretation of the derivative, rules of differentiation, applications of differentiation,
+integration, interpretation of the definite integral, applications of integration. Matrices, solutions of systems of
+equations. All topics are studied in the context of applications."
+null;null;null;null;Mathematics 165;WTW 165;null;"Functions, derivatives, interpretation of the derivative, rules of differentiation, applications of differentiation,
+integration, interpretation of the definite integral, applications of integration, matrices, solutions of systems of
+equations. All topics are studied in the context of applications"
+null;null;null;null;Animal diversity 161;ZEN 161;null;"Animal classification, phylogeny organisation and terminology. Evolution of the various animal phyla,
+morphological characteristics and life cycles of parasitic and non-parasitic animals. Structure and function of
+reproductive,
+respiratory, excretory, circulatory and digestive systems in various animal phyla. In-class discussion will address
+the sustainable development goals #3, 12, 13, 14 and 15 (Good Health and Well-being. Responsible
+Consumption and Production, Climate Action, Life Below Water, Life on Land)"
+null;null;null;2;Introduction to proteins and enzymes 251;BCM 251;null;"Structural and ionic properties of amino acids. Peptides, the peptide bond, primary, secondary, tertiary and
+quaternary structure of proteins. Interactions that stabilise protein structure, denaturation and renaturation of
+proteins. Introduction to methods for the purification of proteins, amino acid composition, and sequence
+determinations. Enzyme kinetics and enzyme inhibition. Allosteric enzymes, regulation of enzyme activity, active
+centres and mechanisms of enzyme catalysis. Examples of industrial applications of enzymes and in clinical
+pathology as biomarkers of diseases. Online activities include introduction to practical laboratory techniques and
+Good Laboratory Practice; techniques for the quantitative and qualitative analysis of biological
+molecules; enzyme activity measurements; processing and presentation of scientific data."
+null;null;null;null;Carbohydrate metabolism 252;BCM 252;null;"Carbohydrate structure and function. Blood glucose measurement in the diagnosis and treatment of
+diabetes. Bioenergetics and biochemical reaction types. Glycolysis, gluconeogenesis, glycogen metabolism,
+pentose phosphate pathway, citric acid cycle and electron transport. Total ATP yield from the complete oxidation
+of glucose. A comparison of cellular respiration and photosynthesis. Online activities include techniques for
+the study and analysis of metabolic pathways and enzymes; PO ratio of mitochondria, electrophoresis,
+extraction, solubility and gel permeation techniques; scientific method and design."
+null;null;null;null;Introductory biochemistry 257;BCM 257;null;"Chemical foundations. Weak interactions in aqueous systems. Ionisation of water, weak acids and weak bases.
+Buffering against pH changes in biological systems. Water as a reactant and function of water. Carbohydrate
+structure and function. Biochemistry of lipids and membrane structure. Nucleotides and nucleic acids. Other
+functions of nucleotides: energy carriers, components of enzyme cofactors and chemical messengers.
+Introduction to metabolism. Bioenergetics and biochemical reaction types. Online activities include introduction
+to laboratory safety and Good Laboratory Practice; basic biochemical calculations; experimental method design
+and scientific controls, processing and presentation of scientific data."
+null;null;null;null;Lipid and nitrogen metabolism 261;BCM 261;null;"Biochemistry of lipids, membrane structure, anabolism and catabolism of lipids. Total ATP yield from the
+complete catabolism of lipids. Electron transport chain and energy production through oxidative
+phosphorylation. Nitrogen metabolism, amino acid biosynthesis and catabolism. Biosynthesis of
+neurotransmitters, pigments, hormones and nucleotides from amino acids. Catabolism of purines and
+pyrimidines. Therapeutic agents directed against nucleotide metabolism. Examples of inborn errors of
+metabolism of nitrogen containing compounds. The urea cycle, nitrogen excretion. Online activities include
+training in scientific reading skills; evaluation of a scientific report; techniques for separation analysis and
+visualisation of biological molecules; hypothesis design and testing, method design and scientific controls."
+null;null;null;null;Molecular genetics 251;GTS 251;null;"The chemical nature of DNA. The processes of DNA replication, transcription, RNA processing, translation.
+Control of gene expression in prokaryotes and eukaryotes. Recombinant DNA technology and its applications in
+gene analysis and manipulation."
+null;null;null;null;Genetic diversity and evolution 261;GTS 261;null;"Chromosome structure and transposable elements. Mutation and DNA repair. Genomics and proteomics.
+Organelle genomes. Introduction to genetic analysis of populations: allele and genotypic frequencies, Hardy
+Weinberg Law, its extensions and implications for different mating systems. Introduction to quantitative and
+evolutionary genetics."
+null;null;null;3;Macromolecules of life: structure-function and bioinformatics 356;BCM 356;null;"Structure, function, bioinformatics and biochemical analysis of (oligo)nucleotides, amino acids, proteins and
+ligands – and their organisation into hierarchical, higher order, interdependent structures. Principles of structurefunction relationships, protein folding, sequence motifs and domains, higher order and supramolecular structure,
+self-assembly, conjugated proteins, post-translational modifications. Molecular recognition between proteins,
+ligands, DNA and RNA or any combinations. The RNA structural world, RNAi, miRNA and ribosomes. Cellular
+functions of coding and non-coding nucleic acids. Basic principles of mass spectrometry, nuclear magnetic
+resonance spectroscopy, X-ray crystallography and proteomics. Protein purification and characterisation
+including, pI, molecular mass, amino acid composition and sequence. Mechanistic aspects and regulation of
+information flow from DNA via RNA to proteins and back. Practical training includes hands-on nucleic acid
+purification and sequencing, protein production and purification, analysis by SDS-PAGE or mass spectrometry,
+protein structure analysis and 3D protein modelling."
+null;null;null;null;Biocatalysis and integration of metabolism 357;BCM 357;null;"Regulation of metabolic pathways. Analysis of metabolic control. Elucidation of metabolic pathways with
+isotopes. Metabolomics. Coordinated regulation of glycolysis/gluconeogenesis and glycogen
+breakdown/synthesis. Overview of homone action. Metabolism of xenobiotics. Hormonal regulation of feul
+metabolism. Metabolic adaptions during diabetes. Obesity and the regulation of body mass. Obesity, metabolic
+syndrome and Type 2 diabetes (T2D). Management of T2D with diet, exercise and medication. Practical sessions
+cover tutorials on case studies and biochemical calculations, and hands-on isolation of an enzyme,
+determination of pH and temperature optima, determination of Km and Vmax, enzyme activation and enzyme
+inhibition."
+null;null;null;null;Cell structure and function 367;BCM 367;null;"Visualising cell structure and localisation of proteins within cells. Cell ultrastructure. Purification of subcellular
+organelles. Culturing of cells. Biomembrane structure. Transmembrane transport of ions and small molecules
+and the role of these processes in disease. Moving proteins into membranes and organelles. Vesicular traffic,
+secretion, exocytosis and endocytosis. Cell organisation and movement motility based on the three types of
+cytoskeletal structures including microfilaments, microtubules and intermediate filaments as well as their
+associated motor proteins. Cell-cell and cell-matrix adhesion through corresponding proteins and morphological
+structures. Practical training includes tutorials on cytometry and microscopy, mini-research projects where
+students are introduced and guided through aspects of research methodology, experimental planning
+techniques associated with cellular assays, buffer preparation, active transport studies in yeast cells, structurefunction analyses of actin and binding partners."
+null;null;null;null;Molecular basis of disease 368;BCM 368;null;"Molecular mechanisms behind exogenous and endogenous diseases. Foundational knowledge of the immune
+system, with innate-, adaptive- and auto-immunity (molecular mechanisms of the maintenance and failure of the
+recognition of foreign in the context of self in the mammalian body) being some of the key concepts. Molecular
+pathology and immunobiochemistry of exogenous diseases against viral, bacterial and parasitic pathogens with
+a focus on the human immunodeficiency virus (HIV), tuberculosis (TB) and malaria. Endogenous disease will
+describe the biochemistry of normal cell cycle proliferation, quiescence, senescence, differentiation and
+apoptosis, and abnormal events as illustrated by cancer. Tutorials will focus on immunoassays, vaccines,
+diagnostic tests for diseases and drug discovery towards therapeuticals."
+null;null;BSc (Microbiology);1;Introduction to microbiology 161;MBY 161;null;"The module will introduce the student to the field of Microbiology. Basic Microbiological aspects that will be
+covered include introduction into the diversity of the microbial world (bacteria, archaea, eukaryotic
+microorganisms and viruses), basic principles of cell structure and function, microbial nutrition and microbial
+growth and growth control. Applications in Microbiology will be illustrated by specific examples i.e.
+bioremediation, animal-microbial symbiosis, plant-microbial symbiosis and the use of microorganisms in
+industrial microbiology. Wastewater treatment, microbial diseases and food will be introduced using specific
+examples."
+null;null;null;null;Molecular and cell biology 111;MLB 111;null;"Introduction to the molecular structure and function of the cell. Basic chemistry of the cell. Structure and
+composition of prokaryotic and eukaryotic cells. Ultrastructure and function of cellular organelles, membranes
+and the cytoskeleton. General principles of energy, enzymes and cell metabolism. Selected processes, e.g.
+glycolysis, respiration and/or photosynthesis. Introduction to molecular genetics: DNA structure and replication,
+transcription, translation. Cell growth and cell division."
+null;null;null;null;Physics for biology students 131;PHY 131;null;"Units, vectors, one dimensional kinematics, dynamics, work, equilibrium, sound, liquids, heat, thermodynamic
+processes, electric potential and capacitance, direct current and alternating current, optics, modern physics,
+radioactivity."
+null;null;null;null;Mathematics 134;WTW 134;null;"Functions, derivatives, interpretation of the derivative, rules of differentiation, applications of differentiation,
+integration, interpretation of the definite integral, applications of integration. Matrices, solutions of systems of
+equations. All topics are studied in the context of applications."
+null;null;null;null;Mathematics 165;WTW 165;null;"Functions, derivatives, interpretation of the derivative, rules of differentiation, applications of differentiation,
+integration, interpretation of the definite integral, applications of integration, matrices, solutions of systems of
+equations. All topics are studied in the context of applications."
+null;null;null;null;Animal diversity 161;ZEN 161;null;"Animal classification, phylogeny organisation and terminology. Evolution of the various animal phyla,
+morphological characteristics and life cycles of parasitic and non-parasitic animals. Structure and function of
+reproductive,
+respiratory, excretory, circulatory and digestive systems in various animal phyla. In-class discussion will address
+the sustainable development goals #3, 12, 13, 14 and 15 (Good Health and Well-being. Responsible
+Consumption and Production, Climate Action, Life Below Water, Life on Land)"
+null;null;null;2;Introduction to proteins and enzymes 251;BCM 251;null;"Structural and ionic properties of amino acids. Peptides, the peptide bond, primary, secondary, tertiary and
+quaternary structure of proteins. Interactions that stabilise protein structure, denaturation and renaturation of
+proteins. Introduction to methods for the purification of proteins, amino acid composition, and sequence
+determinations. Enzyme kinetics and enzyme inhibition. Allosteric enzymes, regulation of enzyme activity, active
+centres and mechanisms of enzyme catalysis. Examples of industrial applications of enzymes and in clinical
+pathology as biomarkers of diseases. Online activities include introduction to practical laboratory techniques and
+Good Laboratory Practice; techniques for the quantitative and qualitative analysis of biological
+molecules; enzyme activity measurements; processing and presentation of scientific data."
+null;null;null;null;Carbohydrate metabolism 252;BCM 252;null;"Carbohydrate structure and function. Blood glucose measurement in the diagnosis and treatment of
+diabetes. Bioenergetics and biochemical reaction types. Glycolysis, gluconeogenesis, glycogen metabolism,
+pentose phosphate pathway, citric acid cycle and electron transport. Total ATP yield from the complete oxidation
+of glucose. A comparison of cellular respiration and photosynthesis. Online activities include techniques for
+the study and analysis of metabolic pathways and enzymes; PO ratio of mitochondria, electrophoresis,
+extraction, solubility and gel permeation techniques; scientific method and design."
+null;null;null;null;Introductory biochemistry 257;BCM 257;null;"Chemical foundations. Weak interactions in aqueous systems. Ionisation of water, weak acids and weak bases.
+Buffering against pH changes in biological systems. Water as a reactant and function of water. Carbohydrate
+structure and function. Biochemistry of lipids and membrane structure. Nucleotides and nucleic acids. Other
+functions of nucleotides: energy carriers, components of enzyme cofactors and chemical messengers.
+Introduction to metabolism. Bioenergetics and biochemical reaction types. Online activities include introduction
+to laboratory safety and Good Laboratory Practice; basic biochemical calculations; experimental method design
+and scientific controls, processing and presentation of scientific data."
+null;null;null;null;Molecular genetics 251;GTS 251;null;"The chemical nature of DNA. The processes of DNA replication, transcription, RNA processing, translation.
+Control of gene expression in prokaryotes and eukaryotes. Recombinant DNA technology and its applications in
+gene analysis and manipulation."
+null;null;null;null;Genetic diversity and evolution 261;GTS 261;null;"Chromosome structure and transposable elements. Mutation and DNA repair. Genomics and proteomics.
+Organelle genomes. Introduction to genetic analysis of populations: allele and genotypic frequencies, Hardy
+Weinberg Law, its extensions and implications for different mating systems. Introduction to quantitative and
+evolutionary genetics."
+null;null;null;null;Bacteriology 251;MBY 251;null;"Growth, replication and survival of bacteria, Energy sources, harvesting from light versus oxidation, regulation of
+catabolic pathways, chemotaxis. Nitrogen metabolism, iron-scavenging. Alternative electron acceptors:
+denitrification, sulphate reduction, methanogenesis. Bacterial evolution, systematic and genomics. Biodiversity;
+bacteria occurring in the natural environment (soil, water and air), associated with humans, animals, plants, and
+those of importance in foods and in the water industry."
+null;null;null;null;Mycology 261;MBY 261;null;"Organisation and molecular architecture of fungal thalli, chemistry of the fungal cell. Chemical and physiological
+requirements for growth and nutrient acquisition. Mating and meiosis; spore development; spore dormancy,
+dispersal and germination. Fungi as saprobes in soil, air, plant, aquatic and marine ecosystems; role of fungi as
+decomposers and in the deterioration of materials; fungi as predators and parasites; mycoses, mycetisms and
+mycotoxicoses; fungi as symbionts of plants, insects and animals. Applications of fungi in biotechnology."
+null;null;null;null;Food microbiology 262;MBY 262;null;"Primary sources of migroorganisims in food. Factors affecting the growth and survival of microorganisms in food.
+Microbial quality, spoilage and safety of food. Different organisms involved, their isolation, screening and
+detection. Conventional approaches, alternative methods rapid methods. Food fermentations: fermentation
+types, principles and organisms involved."
+null;null;null;3;Virology 351;MBY 351;null;"Introduction to the viruses as a unique kingdom inclusive of their different hosts, especially bacteria, animals
+and plants; RNA and DNA viruses; viroids, tumour viruses and oncogenes, mechanisms of replication,
+transcription and protein synthesis; effect on hosts; viral immunology; evolution of viruses."
+null;null;null;null;Bacterial genetics 355;MBY 355;null;"DNA replication and replication control. DNA recombination. DNA damage and repair. Genetics of
+bacteriophages, plasmids and transposons. Bacterial gene expression control at the transcriptional, translational
+and post-translational levels. Global regulation and compartmentalisation."
+null;null;null;null;Genetic manipulation of microbes 364;MBY 364;null;"Isolation of clonable DNA (genomic libraries, cDNA synthesis) cloning vectors (plasmids, bacteriophages,
+cosmids) plasmid incompatibility and control of copy number. Ligation of DNA fragments, modification of DNA
+end and different ligation strategies. Direct and indirect methods for the identification of recombinant
+organisms. Characterization (polymerase chain reaction, nucleic acid sequencing) and mutagenisis of cloned
+DNA fragments. Gene expression in Gram negative (E.coli) Gram positive (B.subtilis) and yeast cells
+(S.cerevisea). Use of Agrobacterium and baculoviruses for gene expression in plant and insect cells respectively.
+Applications in protein engineering, diagnostics and synthesis of useful products."
+null;null;null;null;Microbe interactions 365;MBY 365;null;"Interactions between microbes and their abiotic environment; microbial interaction with other strains of the
+same and other species; microbial interactions across kingdoms; pathogenic interactions between microbes and
+plant or animal hosts; mutualistic interactions between microbes and their hosts; introduction to systems
+biology"

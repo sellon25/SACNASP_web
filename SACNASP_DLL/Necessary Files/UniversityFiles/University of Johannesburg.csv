@@ -1,0 +1,1313 @@
+﻿University name;Faculty;Qualification;Year;Module name;Module code;SAQA Credits;Description
+University of Johannesburg;Science;null;null;null;null;null;null
+null;null;Bachelor of Science in Mathematical Sceinces;null;null;null;null;null
+null;null;null;2;Actuarial Science ;ACS02A2;24;"• Describe how to use a generalised cash flow model to describe financial transactions.
+• Describe how to take into account the time value of money using the concepts of compound
+interest and discounting.
+• Demonstrate a knowledge and understanding of real and money interest rates.
+• Define and use the more important compound interest functions including annuities certain.
+• Describe how a loan may be repaid by regular instalments of interest and capital.
+• Show how discounted cash flow techniques can be used in investment project appraisal.
+• Describe the investment and risk characteristics of the following types of asset available for
+investment purposes: fixed interest government borrowings; fixed interest borrowing by other
+bodies; index-linked government borrowings; shares and other equity-type finance; derivatives
+• Analyse elementary compound interest problems.
+• Calculate the delivery price and the value of a forward contract using arbitrage free pricing
+methods.
+• Show an understanding of the term structure of interest rates.
+• Show an understanding of simple stochastic models for investment returns."
+null;null;null;2;Actuarial Science ;ACS02B2;24;"• Life tables and their use in the deterministic determination of survival and death probabilities.
+• Provide analytic formulae for the expectation of life.
+• Understand the complexities of multiple decrements.
+• Describe what is meant by stationary populations.
+• Develop commutation functions for variable life annuities, premiums and reserves.
+• Develop commutation functions for insurance payable at the moment of death, varying
+insurance, and the calculation of premiums and reserves.
+• Show an understanding of basic pension applications. "
+null;null;null;3;Actuarial Science ;ACS03A3;30;"• Describe and use statistical distributions for risk modelling. This includes use of compound
+distributions, expressing association between variables explicitly using copulas and extreme
+value distributions to model the distribution of severity of loss
+• Describe and apply the main concepts underlying the analysis of time series models.
+Applications include random walk, autoregressive and cointegrated models as applied to
+security prices and other economic variables.
+• Describe and apply Markov chains and processes. Using this knowledge, the student will
+analyse the random process by which a life passes from one state (alive) to another (dead).
+• Describe and apply techniques of survival analysis. This includes deriving many results that are
+the building blocks of actuarial work relating to human mortality, describing methods of
+graduating mortality data and describing approaches to forecasting of future mortality rates
+• Describe and apply basic principles of machine learning."
+null;null;null;3;Actuarial Science ;ACS03B3;30;"• Describe, interpret and discuss mathematical techniques used to model and value cashflows
+which are contingent on mortality and morbidity risks
+• Define various assurance and annuity contracts
+• Develop formulae for the means and variances of the payments under various assurance and
+annuity contracts
+• Define and use assurance and annuity contracts involving two lives
+• Describe and illustrate methods of valuing cash flows that are contingent upon multiple transition
+events
+• Describe and use methods of projecting and valuing expected cash flows that are contingent
+upon multiple decrement events
+• Define the gross future loss under an insurance contract, and state the principle of equivalence
+• Describe and calculate gross premiums and reserves of assurance and annuity contracts
+• Define and calculate, for a single policy or a portfolio of policies, the death strain at risk, expected
+death strain, actual death strain and mortality profit
+• Project expected cash flows for whole life, endowment and term assurances, annuities, unitlinked contracts and conventional/unitised with profits contracts, incorporating multiple
+decrement models where appropriate.
+• Show how, for unit-linked contracts, non-unit reserves can be set up to ‘zeroise’ future negative
+cash flows, using a profit test model."
+null;null;null;1;Applied Mathematics;APM01A1;15;"• Identify the variables and parameters relevant to a real-life problem.
+• Construct a mathematical model which relates these variables.
+• Utilize the appropriate mathematical techniques in order to solve the resulting model.
+• Interpret the results and relate these to the real-life problem."
+null;null;null;1;Applied Mathematics;APM01B1;15;"• Identify all dynamical variables in a given mechanical system.
+• Formulate the equations of motion in a given mechanical system.
+• Solve these equations by analytical means."
+null;null;null;2;Applied Mathematics;APM02A2;20;"• Understand and apply basic concepts concerning ODEs.
+• Solve first-order Differential Equations (ODEs) and systems of ODEs at an appropriate level.
+• Use transformation of variables.
+• Study systems of differential equations using qualitative techniques.
+• Understand and apply the basic concepts of mathematical modelling, using differential
+equations, to a wide variety of fields at an appropriate level.
+• Master the philosophy and language of the field."
+null;null;null;2;Applied Mathematics;APM02B2;20;"• Appreciate the mathematical origin of the method of Numerical Analysis.
+• Apply these methods in order to find numerical solutions for various mathematically formulated
+problems.
+• Understand that these methods are approximations and that errors are associated with solutions
+found by using these methods.
+• Understand the derivation of error formulas to use these formulas to find solutions of required
+accuracy."
+null;null;null;3;Applied Mathematics;APM03A3;30;"• Understand the Gauteaux derivative to find the Euler-Lagrange equation.
+• Use the simplex method to solve optimization problems.
+• Understand problems with constraints.
+• Use the Hopfield Network, Kohonen Network and Back-Propogation Algorithm to solve
+optimization problems.
+• Apply the Euler Lagrange equation to find maxima/minima of functions.
+• Apply variational calculus to real life problems through computational techniques."
+null;null;null;3;Applied Mathematics;APM03B3;30;"• Understand the concept of multi-linear algebra and product spaces.
+• Use multi-linear algebra and the Kronecker product in physics and quantum groups.
+• Apply software packages to problems in science."
+null;null;null;1;Computer Science;CSC01A1;15;"• Analyse, Design and interpret an algorithm
+• Program algorithms in an object oriented language such as C++.
+• Use a computer to solve programming problems.
+• Demonstrate computer programs in C++."
+null;null;null;1;Computer Science;CSC01B1;15;"• Distinguish between classes and objects.
+• Explain object-oriented principles.
+• Apply object-oriented principles during the development of programs.
+• Explain the role of graphic interfaces, events, processes and threads.
+• Develop programs that implement graphic user interfaces, events, processes and threads.
+• Explain the principles of distributed processing."
+null;null;null;2;Computer Science;CSC02A2;20;"• Distinguish between classes and objects.
+• Explain object-oriented principles.
+• Apply object-oriented principles during the development of programs.
+• Explain the role of graphic interfaces, events, processes and threads.
+• Develop programs that implement graphic user interfaces, events, processes and threads.
+• Explain the principles of distributed processing."
+null;null;null;2;Computer Science;CSC02B2;20;"• Describe ISO and Internet protocols.
+• Evaluate ISO and Internet protocols against each other.
+• Use protocol specifications to establish the design and functioning of protocols not discussed
+in the lectures.
+• Apply principles of network protocol design
+• Explain how data, voice and video signals are transmitted over a computer network.
+• Describe components of computer networks.
+• Analyse various types of computer network topologies.
+• Develop object-oriented Java programs to transmit messages between workstations on a
+computer network"
+null;null;null;1;Informatics;IFM100;12;"• Solve programming problems using a computer.
+• Analyse, design and program algorithms.
+• Use control structures in algorithms and computer programs.
+• Demonstrate the use of arrays and records in computer programs.
+• Demonstrate computer programs."
+null;null;null;1;Informatics;IFM01A1;15;"• Solve programming problems using a computer.
+• Analyse, design and program algorithms.
+• Use control structures in algorithms and computer programs.
+• Demonstrate the use of arrays and records in computer programs.
+• Demonstrate computer programs"
+null;null;null;1;Informatics;IFM01B1;15;"• Describe abstract data and internal data types.
+• Explain external data types.
+• Explain and compare the object-oriented programming paradigm and the component approach
+to program development.
+• Describe object-oriented program components and their existing relationships with other
+components.
+• Develop object-oriented programs in a computer language such as Visual Basic to design and
+implement internal and external data types.
+• Explain introductory concepts concerning social and professional issues in Information
+Technology.
+• Discuss select applications in Informatics."
+null;null;null;1;Physics;PHYS1A1;15;"• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles
+and the basic laws encountered in elementary mechanics, waves and heat.
+• Derive equations in, explain, interpret and evaluate elementary theoretical models in basic
+mechanics, waves and heat.
+• Demonstrate a sufficiently deep conceptual understanding of elementary mechanics, waves and
+heat to tackle advanced level Physics topics.
+• Integrate basic concepts and theories to solve elementary problems in basic mechanics, waves
+and heat.
+• Recognize and explain aspects of the application of elementary mechanics, waves and heat in
+everyday life."
+null;null;null;1;Physics;PHYS1B1;15;"• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles
+and the basic laws encountered in elementary electricity and magnetism, optics and special
+relativity.
+• Derive equations in, explain, interpret and evaluate elementary theoretical models in basic
+electricity and magnetism, optics and special relativity.
+• Demonstrate a sufficiently deep conceptual understanding of elementary electricity and
+magnetism, optics and special relativity to tackle advanced level Physics topics.
+• Integrate basic concepts and theories to solve elementary problems in basic electricity and
+magnetism, optics and special relativity.
+• Recognize and explain aspects of the application of elementary electricity and magnetism,
+optics and special relativity in everyday life."
+null;null;null;2;Physics;PHY00A2;16;"• Formulate, discuss and explain the definitions of physical quantities, the principles and the laws
+encountered, in classical mechanics and special relativity.
+• Derive equations in, explain, interpret and evaluate advanced theoretical models in classical
+mechanics and special relativity.
+• Integrate basic concepts and theories to solve problems in advanced mechanics and waves.
+• Recognize and explain aspects of the application of classical mechanics and special relativity
+in everyday life."
+null;null;null;2;Physics;PHY00B2;16;"• Formulate, discuss and explain the definitions of physical quantities, the principles and the laws
+encountered in static and dynamic electromagnetism.
+• Derive equations in, explain, interpret and evaluate advanced theoretical models in static and
+dynamic electromagnetism.
+• Integrate basic concepts and theories to solve problems in static and dynamic
+electromagnetism.
+167
+• Recognize and explain aspects of the application of in static and dynamic electromagnetism in
+everyday life.
+• To execute, collect data, and report on experiments electricity, optics, mechanics, and
+thermodynamics."
+null;null;null;2;Physics;PHY00Y2;8;"• Formulate, discuss and explain the definitions of physical quantities, the principles and the laws
+encountered, in thermal physics, waves, optics and basic quantum physics.
+• Derive equations in, explain, interpret and evaluate advanced theoretical models in thermal physics,
+waves, optics and basic quantum physics.
+• Integrate basic concepts and theories to solve problems in thermal physics, waves, optics and basic
+quantum physics.
+• Recognize and explain aspects of the application of thermal physics, waves, optics and basic
+quantum physics in everyday life."
+null;null;null;1;Mathematical Statistics;STA01A1;15;"• Define and apply the basic concepts of probability theory.
+• Define and apply random variables, their joint distributions and probability densities."
+null;null;null;1;Mathematical Statistics;STA01B1;15;"• Define and apply the basic concepts of probability theory.
+• Define and apply continuous random variables, their joint distributions and probability densities.
+• Explain the concepts of random sampling, statistical inference and sampling distributions, and
+state and use basic sampling distributions related to the normal distribution."
+null;null;null;2;Mathematical Statistics;STA02A2;20;"• Understand and apply the general rules of probability theory
+• Define the densities and derive the probability/moment generating functions of several types of
+commonly occurring discrete random variables.
+• Understand and apply the elements of continuous distribution theory"
+null;null;null;2;Mathematical Statistics;STA02B2;20;"• Understand and apply the general rules of continuous distribution theory
+• Define the densities and derive the moment/cumulant generating functions of several types of
+commonly occurring continuous random variables.
+• Explain the concepts of random sampling, statistical inference and sampling distributions.
+• Describe and apply the main methods of estimation and the main properties of estimators."
+null;null;null;3;Mathematical Statistics;STA03A3;30;"• Define and apply the general linear model.
+• Explain the concept of a generalised linear model and illustrate its use in problem solving."
+null;null;null;3;Mathematical Statistics;STA03B3;30;"• State and apply the basic axioms of probability theory in order to compute the probability of
+simple events
+• State and apply the addition rules, conditional probability rules, Bayes’ formula, multiplication
+rules and statistical independence.
+• State the probability distribution and density functions of various discrete and continuous
+random variables, evaluate associated probabilities and determine the moments and other
+properties of these random variables
+• Apply the joint distribution and probability mass function of discretely valued random variables
+to compute probabilities and expected values of functions of the random variables.
+• Define a random process and apply it to model measurement noise and other random signals.
+• Derive the expected value function and the autocorrelation function of a given random process.
+• Apply pictorial and tabular techniques, such as empirical distributions, histograms, etc. for
+depicting statistical data.
+• Compute statistical measures of location and variability, such as sample mean, sample
+variance, median, quantiles, percentiles, etc.
+• State the Central Limit Theorem, and define the various sampling distributions
+(eg.t, chi-squared, F).
+• Compute the confidence intervals and apply hypothesis testing for parameters of a population,
+for example, the population mean, the population variance, etc.
+• Compute the reliability of parallel and series combinations of subsystems."
+null;null;null;null;null;null;null;null
+University of Johannesburg;Science;Bachelor of Science in Physical Sciences;null;null;null;null;null
+null;null;null;1;Chemistry;CEM01A1;15;"• Describe and use chemical vocabulary
+• Perform chemical calculations
+• Distinguish between the different types of chemical reactions (precipitation, complex
+formation, acid-base and redox reactions)
+• Identify a limiting reactant through mole ratios, calculate percentage yield in chemical reactions
+and perform stoichiometric calculations
+• Apply the principles of atomic and molecular structure to solve problems related to chemical
+bonding and molecular shapes
+• Describe the concept of dynamic equilibrium and write equilibrium constants equations
+• Predict the effect of stresses applied to systems in equilibrium
+• Discuss different acid-base theories and differentiate between weak and strong acids and
+bases.
+• Perform quantitative calculations involving acid-base reactions
+(pH, pOH, [H3O+
+], [OH-
+], Kw, buffers).
+• Define and apply the five gas laws for ideal gases; derive the density and molecular mass of
+gases from these laws and then apply stoichiometry to problems involving gas laws.
+• Provide a qualitative description of the gas laws based on the kinetic theory and then
+distinguish between an ideal and a real gas and apply this with the use of the Van der Waal’s
+equation.
+• Explain and differentiate between effusion and diffusion
+• Recognise simple organic functional groups and reaction mechanisms.
+• Demonstrate the ability to perform laboratory experiments, interpret the results and write a
+report."
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Chemistry;CEM1AC1;15;"• Describe and use chemical vocabulary.
+• Perform chemical calculations and do appropriate conversions.
+• Distinguish between the different types of matter and their properties.
+• Understand the Periodic Table of the elements.
+111
+• Perform stoichiometric calculations.
+• Apply the principles of atomic and molecular structure to solve problems related to chemical
+bonding and molecular shapes.
+• Describe the behaviour of gases.
+• Describe various kinds of solutions.
+• Describe the concept of dynamic equilibrium and write equilibrium constant equations.
+• Predict the effect of stresses applied to systems in equilibrium.
+• Discuss the different acid-base theories and differentiate between weak and strong acids and
+bases.
+• Correlate the terms endothermic and exothermic with the heat flow between a system and its
+surroundings and interpret enthalpy, entropy and free energy and know its implications.
+• Interpret nuclide symbols.
+• Write balanced equations for nuclear processes and perform half-life calculations.
+• Demonstrate the ability to perform laboratory experiments, interpret the results and write a
+report."
+null;null;null;1;Chemistry;CEM1DB1;15;"• Explain the factors involved in energy production, including conversion of energy and the
+efficiency of energy conversion.
+• Discuss the formation and composition of fossil fuels and to apply this knowledge to the
+identification of possible environmental implications.
+• Differentiate between renewable and non-renewable energy sources and identify the
+advantages and disadvantages of each.
+• Identify the layers of the atmosphere and explain the composition thereof.
+• Explain stratospheric chemistry, including the formation, chemistry and destruction of the
+ozone layer.
+• Identify types and sources of air pollutants and their impact on the environment, including
+phenomena like acid rain, photochemical smog, particulates and organic contaminants.
+• Explain the causes and effects of global warming and the greenhouse effect.
+• Demonstrate understanding of the composition of natural waters, including the role of O2, CO2,
+carbonates, nitrates, phosphides, natural buffer systems and solubility.
+• Discuss the processes involved in water treatment and purification
+• Apply knowledge of the composition and chemistry of water to problem solving regarding toxic
+metal pollution in the environment."
+null;null;null;1;Chemistry;CEM01B1;15;"• Describe and apply principles and definitions of thermochemistry.
+• Apply stoichiometry to and differentiate between heat capacity and specific heat obtained from
+calorimetric data.
+• Apply Hess's Law of heat summation.
+• Define and apply the state functions and standard reference form used in the first (internal
+energy, enthalpy), second (entropy), and third laws of thermodynamics.
+• Relate and apply Gibbs free-energy concepts to equilibrium constant expressions.
+• Explain the solution process as well as define and explain the factors that affect solubility.
+• Identify and apply colligative properties of solutions as well as define and explain colloidal
+systems.
+• Explain the factors that affect reaction rates.
+• Apply and link the concepts of stoichiometry and reaction rates (limited to zero and first order
+reactions only).
+• Integrate and apply concepts of concentration, temperature and time to reaction rates (limited
+to zero and first order reactions only).
+• Explain and apply the principles of electrochemical cells.
+• Integrate and apply concepts in electrochemistry and thermodynamics related to
+electrochemical changes.
+• Demonstrate the required laboratory skills to perform practical work and describe the results
+obtained from the data.
+• Recognise and identify various functional groups in natural products as well as in synthetic
+materials
+• Transpose a structure into an IUPAC name and vice versa
+• Analyse, compare and differentiate between organic compounds, based on their
+stereochemistry and analysis of their conformations
+• Explain or suggest acceptable reaction mechanisms
+• Combine aspects of the above to propose viable products, starting materials and reagents for
+selected transformations"
+null;null;null;2;Chemistry;CEM01A2;10;"• Apply principles of atomic and molecular structures.
+• Demonstrate and apply the concepts of symmetry and group theory to molecular orbital theory.
+• Demonstrate and apply the concepts of covalent and ionic bonding to the stability and reactivity
+of inorganic compounds.
+• Distinguish, explain and apply valence-bond (VB) theory and molecular orbital (MO) theory.
+• Recognise and explain different ionic solids.
+• Explain the trends in chemical and physical properties of the main group elements and the dblock metals and correlate them with their inorganic structures.
+• Demonstrate the required laboratory skills to perform practical work and describe the results
+obtained from the data."
+null;null;null;2;Chemistry;CEM02A2;10;"• Apply the principles of chemical thermodynamics in problems related to heat capacity, energy,
+enthalpy, entropy and Gibbs energy.
+• Apply the principles of reaction kinetics to determine rate laws and rate constants, to predict
+variation in rate with temperature change, and to design simple reaction mechanisms.
+• Apply the laws of quantum mechanics to translational, vibrational and rotational motion.
+• Demonstrate practical skills in the application of physical methods to solve chemical problems."
+null;null;null;2;Chemistry;CEM01B2;10;"• Explain the reaction mechanisms of mono-functional organic compounds, including alkenes,
+alkynes, alkyl halides, alcohols and selected carbonyl compounds
+• Predict and compare the chemical reactivity of mono-functional organic compounds
+• Propose syntheses for mono-functional organic materials
+• Predict the products of given organic reactions
+• Demonstrate the ability to carry out the synthesis and analysis of some organic compounds in
+the laboratory"
+null;null;null;2;Chemistry;CEM02B2;10;"• Explain the underlying principles and theory of wet chemical analysis.
+• Demonstrate proficiency in the application of wet chemical (gravimetric and volumetric)
+techniques in qualitative and quantitative chemical analysis.
+• Apply selected statistical procedures in analytical data processing.
+• Explain the principles underlying the interaction of species in ionic solutions.
+• Characterise simple and complex equilibrium systems using theoretical calculations based on
+thermodynamic principles.
+• Calculate concentrations and equilibrium constants for equilibrium reactions"
+null;null;null;3;Chemistry;CEM01A3;7,5;"• Evaluate the order and molecularity of reactions based on principles and/or numerical
+examples.
+• Discuss the kinetics of multistep reactions based on molecular dynamics.
+• Hypothesise collision theory and transition state theory with respect to catalysis.
+• Compare the translational, vibrational and rotational motion of a particle.
+• Understand principles of surface chemistry and explain the difference between adsorption and
+absorption
+• Explain various physical and chemical events related to absorption of light and apply the theory
+to solving problems relating to photochemical reactions.
+• Integrate practical skills in the application of physical methods to solve chemical problems"
+null;null;null;3;Chemistry;CEM02A3;7,5;"• Apply the concepts of acids and bases in predicting the outcomes of reactions.
+• Demonstrate the ability to apply concepts of bonding and to use these bonding concepts to
+predict and/or explain the properties of metal complexes.
+• Apply basic knowledge of organometallic chemistry to predict and/or explain metal carbonyl
+chemistry.
+• Demonstrate laboratory skills in performing practicals in support of theory and to compile and
+interpret data obtained in experiments into a formal report."
+null;null;null;3;Chemistry;CEM01B3;7,5;"• Explain the underlying principles and theory of electrochemical analysis in relation to
+potentiometry, electrogravimetry, coulometry and chromatographic techniques with emphasis
+on HPLC and ion chromatography.
+• Explain the origins of atomic and molecular spectra and the processes of atomic and molecular
+absorption, emission and fluorescence.
+• Identify the different instrumental components in ultraviolet-visible, flame atomic absorption
+(FAAS), flame atomic emission (FAES), and fluoresce spectrometers (FS).
+• Compare and contrast sample introduction techniques in UV-VIS, FAAS, FAES, and FS.
+• Understand strategies for correcting sample matrix effects in atomic spectroscopic
+measurements.
+• Utilize UV-VIS, FAAS, FEAS, and FS in qualitative and quantitative chemical analysis.
+• Demonstrate proficiency in the laboratory application of chromatographic separations,
+electrochemical and spectroscopic techniques to solve problems in trace analysis."
+null;null;null;3;Chemistry;CEM02B3;7,5;"• Demonstrate an understanding of chemical reactivity and reaction mechanisms of aromatic
+compounds, and account for the unusual stability of aromatic compounds in comparison with
+aliphatic analogues. Various approaches to the synthesis of aromatic compounds should be
+able to be compared with the view to designing a viable synthesis of multifunctional aromatic
+products.
+• Show an understanding of the reactions and reaction mechanisms of carbonyl compounds.
+This understanding should be used to evaluate a synthetic protocol to be applied to the
+synthesis of carbonyl compounds and to propose methods of preparing such materials.
+• Identify some organic materials on the basis of NMR spectroscopy.
+• Predict the outcomes of some pericyclic reactions based on FMO theory.
+• Show competence in the synthesis and characterisation of some organic compounds in the
+laboratory and to write a report on the outcomes of the experiments."
+null;null;null;1;Computer Science;CSC01A1;15;"• Analyse, Design and interpret an algorithm
+• Program algorithms in an object oriented language such as C++.
+• Use a computer to solve programming problems.
+• Demonstrate computer programs in C++."
+null;null;null;1;Computer Science;CSC01B1;15;"• Distinguish between classes and objects.
+• Explain object-oriented principles.
+• Apply object-oriented principles during the development of programs.
+• Explain the role of graphic interfaces, events, processes and threads.
+• Develop programs that implement graphic user interfaces, events, processes and threads.
+• Explain the principles of distributed processing."
+null;null;null;2;Computer Science;CSC02A2;20;"• Distinguish between classes and objects.
+• Explain object-oriented principles.
+• Apply object-oriented principles during the development of programs.
+• Explain the role of graphic interfaces, events, processes and threads.
+• Develop programs that implement graphic user interfaces, events, processes and threads.
+• Explain the principles of distributed processing."
+null;null;null;2;Computer Science;CSC02B2;20;"• Describe ISO and Internet protocols.
+• Evaluate ISO and Internet protocols against each other.
+• Use protocol specifications to establish the design and functioning of protocols not discussed
+in the lectures.
+• Apply principles of network protocol design
+• Explain how data, voice and video signals are transmitted over a computer network.
+• Describe components of computer networks.
+• Analyse various types of computer network topologies.
+• Develop object-oriented Java programs to transmit messages between workstations on a
+computer network"
+null;null;null;1;Mathematics;MAT01A1;15;"• Understand and apply the basics concepts and operations of set theory.
+• Define absolute values and solve equations containing absolute values.
+• Identify different proof techniques and apply them correctly to prove mathematical
+statements.
+• Understand and apply the basic ideas of logic.
+• Define complex numbers and use their properties to perform operations on equations
+containing complex numbers.
+• Define limits and use limit laws to evaluate basic limits as well as limits of indeterminate form.
+• Express the basic theoretical concepts underlying differentiation and integration.
+• Differentiate and integrate basic exponential, logarithmic, trigonometric and hyperbolic
+functions."
+null;null;null;1;Mathematics;MAT01B1;15;"• Apply different integration techniques to integrate exponential, logarithmic, trigonometric and
+rational functions and evaluate improper integrals.
+• Sketch calculus functions using methods of graph sketching.
+• Apply the concepts of differentiation in solving calculus-related word problems.
+• Determine areas under curves and volumes of solids of revolution by applying techniques of
+integration.
+• Solve first-order differential equations.
+• Employ polar coordinates to parameterise curves.
+• Represent systems of linear equations using matrices and solve such systems using
+Gaussian elimination.
+• Comprehend the binomial theorem and use it to expand binomial expressions"
+null;null;null;2;Mathematics;MAT01A2;10;"• Describe and apply basic concepts and theory underlying the convergence of sequences and
+series, and apply the precise definition of convergence where necessary.
+• Describe and apply basic concepts and theory underlying the Taylor and Maclaurin series of
+functions, as well as approximate functions by polynomials.
+• Extend and apply the calculus of single-variable functions to vector-valued functions."
+null;null;null;2;Mathematics;MAT02A2;10;"• Define and comprehend the basic theoretical concepts underlying Linear Algebra.
+• Comprehend the geometry and the algebra of vectors.
+• Solve linear systems.
+• Comprehend the algebra of Matrices.
+• Apply matrices and linear transformation to solve mathematically related problems.
+• Comprehend concepts relating to generalised vector spaces and subspaces.
+• State and prove theorems in Linear Algebra."
+null;null;null;2;Mathematics;MAT04A2;10;"• Demonstrate an integrated knowledge of the core concepts, theory, and techniques relating to
+the syntax and semantics of propositional and predicate logic and to selected deductive systems
+for these languages.
+• Construct correct and appropriate combinatorial strategies for the efficient solution of counting
+problems.
+• Apply the theory and techniques of basic number theory to solve problems relating to properties
+of divisibility and modular arithmetic, and to construct and use RSA cryptographic terms."
+null;null;null;2;Mathematics;MAT01B2;10;"• Investigate continuity of several variable functions, using the precise definition of a limit, where
+necessary.
+• Determine limits, gradients, partial derivatives and directional derivatives and apply these
+concepts to problem solving.
+• Apply optimization theory to problems.
+• Determine and evaluate multiple integrals and extend use of double and triple integrals to the
+physical sciences.
+• Extend and apply multiple integration techniques to vector-valued functions."
+null;null;null;2;Mathematics;MAT02B2;10;"• Define and comprehend the basic theoretical concepts underlying Linear Algebra.
+• State and prove theorems in Linear Algebra.
+• Comprehend the concept of orthogonality.
+• Define concepts on vector spaces and subspaces.
+• Determine eigenvalues and eigenvectors of a given matrix.
+• Comprehend the concepts and the theory of linear transformations.
+• Comprehend the concepts and the theory of inner product spaces.
+• Apply the theory of vector spaces and inner product spaces to solve related problems."
+null;null;null;2;Mathematics;MAT04B2;10;"• Define and explain groups and recognize elementary properties of groups.
+• Determine subgroups as well as cyclic subgroups and generators.
+• Distinguish between isomorphisms, homomorphisms and automorphisms.
+• Formulate theorems and proofs related to group theory.
+• Demonstrate a thorough understanding of cosets, normal subgroups and external direct products.
+• Correctly use and apply the basic terminology and concepts relating to combinatorial graphs.
+• Apply path algorithms and tree traversal algorithms to problems involving graphs.
+• Solve real world problems via graph theoretic modelling, e.g. solve scheduling problems by modelling
+as graph colouring problems."
+null;null;null;3;Mathematics;MAT01A3;15;"• Define and explain the Completeness Property of the real numbers.
+• Describe the theory and properties of sequences and continuous functions.
+• Demonstrate a thorough understanding of the theory of the Riemann Integral.
+• Solve problems related to the abovementioned topics."
+null;null;null;3;Mathematics;MAT02A3;15;"• Demonstrate a mastery of the basic theory involving sets, relations and order and be able to
+solve problems, related to these topics.
+• Demonstrate an integrated knowledge of the core concepts, theory, and techniques relating to
+the syntax and semantics of propositional logic and to selected deductive systems for this
+language.
+• Construct correct and appropriate combinatorial strategies for the efficient solution of counting
+problems.
+• Apply the core theory and techniques of basic graph theory to prove propositions and solve
+problems."
+null;null;null;3;Mathematics;MAT01B3;15;"• Check for analyticity of a given complex function by using the Cauchy-Riemann equations.
+• Graphically represent the images of regions under various conformal mappings.
+• Calculate integrals from first principles.
+• Calculate integrals using Cauchy’s integral formulas as well as by using the Residue method.
+• Calculate the Laurent series of a given complex function centred at a given point.
+• Calculate difficult real integrals by using methods from complex analysis. "
+null;null;null;3;Mathematics;MAT02B3;15;"• Define the basic concepts and theory of integers, groups and rings: prime factorization
+divisibility, equivalence relations, groups, subgroups, normal subgroups, quotient groups,
+homomorphisms, isomorphisms and introductory concepts to rings and fields.
+153
+• Formulate and proof the basic theorems of integers, groups and rings: prime factorization
+divisibility, equivalence relations, groups, subgroups, normal subgroups, quotient groups,
+homomorphisms, isomorphisms and introductory concepts to rings and fields.
+• Solve problems by first analysing it and then applying integrated knowledge in the abovementioned topics using the theory of abstract algebra."
+null;null;null;1;Physics;PHYS1A1;15;"• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles
+and the basic laws encountered in elementary mechanics, waves and heat.
+• Derive equations in, explain, interpret and evaluate elementary theoretical models in basic
+mechanics, waves and heat.
+• Demonstrate a sufficiently deep conceptual understanding of elementary mechanics, waves and
+heat to tackle advanced level Physics topics.
+• Integrate basic concepts and theories to solve elementary problems in basic mechanics, waves
+and heat.
+• Recognize and explain aspects of the application of elementary mechanics, waves and heat in
+everyday life."
+null;null;null;1;Physics;PHYS1B1;15;"• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles
+and the basic laws encountered in elementary electricity and magnetism, optics and special
+relativity.
+• Derive equations in, explain, interpret and evaluate elementary theoretical models in basic
+electricity and magnetism, optics and special relativity.
+• Demonstrate a sufficiently deep conceptual understanding of elementary electricity and
+magnetism, optics and special relativity to tackle advanced level Physics topics.
+• Integrate basic concepts and theories to solve elementary problems in basic electricity and
+magnetism, optics and special relativity.
+• Recognize and explain aspects of the application of elementary electricity and magnetism,
+optics and special relativity in everyday life."
+null;null;null;2;Physics;PHY00A2;16;"• Formulate, discuss and explain the definitions of physical quantities, the principles and the laws
+encountered, in classical mechanics and special relativity.
+• Derive equations in, explain, interpret and evaluate advanced theoretical models in classical
+mechanics and special relativity.
+• Integrate basic concepts and theories to solve problems in advanced mechanics and waves.
+• Recognize and explain aspects of the application of classical mechanics and special relativity
+in everyday life."
+null;null;null;2;Physics;PHY00B2;16;"• Formulate, discuss and explain the definitions of physical quantities, the principles and the laws
+encountered in static and dynamic electromagnetism.
+• Derive equations in, explain, interpret and evaluate advanced theoretical models in static and
+dynamic electromagnetism.
+• Integrate basic concepts and theories to solve problems in static and dynamic
+electromagnetism.
+167
+• Recognize and explain aspects of the application of in static and dynamic electromagnetism in
+everyday life.
+• To execute, collect data, and report on experiments electricity, optics, mechanics, and
+thermodynamics."
+null;null;null;2;Physics;PHY00Y2;8;"• Formulate, discuss and explain the definitions of physical quantities, the principles and the laws
+encountered, in thermal physics, waves, optics and basic quantum physics.
+• Derive equations in, explain, interpret and evaluate advanced theoretical models in thermal physics,
+waves, optics and basic quantum physics.
+• Integrate basic concepts and theories to solve problems in thermal physics, waves, optics and basic
+quantum physics.
+• Recognize and explain aspects of the application of thermal physics, waves, optics and basic
+quantum physics in everyday life."
+null;null;null;3;Physics;PHY00A3;30;"• Grasp and master the mathematical formalism on which modern advanced physics is based.
+• Formulate, discuss and explain the definitions of physical quantities, the principles and the basic
+laws encountered in statistical physics and solid state physics.
+• Derive equations in, explain, interpret and evaluate theoretical models in statistical physics and
+solid state physics.
+• Integrate concepts and theories to solve problems in statistical physics and solid state physics.
+• Recognize and explain aspects of the application of statistical physics and solid state physics
+in everyday life and in technology.
+• Conduct appropriate experimental work in the laboratory, analyse data and report her/his
+results."
+null;null;null;3;Physics;PHY00B3;30;"• Grasp and master the mathematical formalism on which modern advanced physics is based.
+• Formulate, discuss and explain the definitions of physical quantities, the principles and the basic
+laws encountered in statistical physics and solid state physics.
+• Derive equations in, explain, interpret and evaluate theoretical models in statistical physics and
+solid state physics.
+• Integrate concepts and theories to solve problems in statistical physics and solid state physics.
+• Recognize and explain aspects of the application of statistical physics and solid state physics
+in everyday life and in technology.
+• Conduct appropriate experimental work in the laboratory, analyse data and report her/his
+results."
+null;null;null;null;null;null;null;null
+University of Johannesburg;Science;Bachelor of Science in Information Technology;null;null;null;null;null
+null;null;null;1;Informatics;IFM100;12;"• Solve programming problems using a computer.
+• Analyse, design and program algorithms.
+• Use control structures in algorithms and computer programs.
+• Demonstrate the use of arrays and records in computer programs.
+• Demonstrate computer programs."
+null;null;null;1;Informatics;IFM01A1;15;"• Solve programming problems using a computer.
+• Analyse, design and program algorithms.
+• Use control structures in algorithms and computer programs.
+• Demonstrate the use of arrays and records in computer programs.
+• Demonstrate computer programs"
+null;null;null;1;Informatics;IFM01B1;15;"• Describe abstract data and internal data types.
+• Explain external data types.
+• Explain and compare the object-oriented programming paradigm and the component approach
+to program development.
+• Describe object-oriented program components and their existing relationships with other
+components.
+• Develop object-oriented programs in a computer language such as Visual Basic to design and
+implement internal and external data types.
+• Explain introductory concepts concerning social and professional issues in Information
+Technology.
+• Discuss select applications in Informatics."
+null;null;null;2;Informatics;IFM02A2;20;"• Discuss and use database concepts.
+• Discuss and implement design concepts.
+• Discuss and implement advanced design and Implementation concepts.
+• Discuss and implement new developments."
+null;null;null;2;Informatics;IFM02B2;20;"• Describe key features of electronic commerce.
+• Evaluate the role of the Internet in applications.
+• Define electronic commerce business models and strategies.
+• Identify appropriate technologies to meet different electronic commerce objectives.
+• Critically evaluate security measures in electronic commerce over the Internet.
+• Explain ethical and professional considerations for Information Technology.
+• Design a simple three-tier client/server system."
+null;null;null;3;Informatics;IFM03A3;30;"• Explain the accepted theoretical principles of software engineering.
+• Indicate and recognize the steps involved in the development of an IT business system.
+• Develop an object-orientated model for a client/server system for the Internet.
+• Analyse and design a prototype of a business system in a team relationship"
+null;null;null;3;Informatics;IFM03B3;30;"• Discuss and use Development concepts.
+• Discuss and implement Verification and Validation concepts.
+• Discuss and implement Management concepts.
+• Discuss and use Emerging Technologies.
+• Identify and discuss legal aspects of IT.
+• Completion of a practical IT business system in a group project."
+null;null;null;1;Mathematics;MAT01A1;15;"• Understand and apply the basics concepts and operations of set theory.
+• Define absolute values and solve equations containing absolute values.
+• Identify different proof techniques and apply them correctly to prove mathematical
+statements.
+• Understand and apply the basic ideas of logic.
+• Define complex numbers and use their properties to perform operations on equations
+containing complex numbers.
+• Define limits and use limit laws to evaluate basic limits as well as limits of indeterminate form.
+• Express the basic theoretical concepts underlying differentiation and integration.
+• Differentiate and integrate basic exponential, logarithmic, trigonometric and hyperbolic
+functions."
+null;null;null;1;Mathematics;MAT01B1;15;"• Apply different integration techniques to integrate exponential, logarithmic, trigonometric and
+rational functions and evaluate improper integrals.
+• Sketch calculus functions using methods of graph sketching.
+• Apply the concepts of differentiation in solving calculus-related word problems.
+• Determine areas under curves and volumes of solids of revolution by applying techniques of
+integration.
+• Solve first-order differential equations.
+• Employ polar coordinates to parameterise curves.
+• Represent systems of linear equations using matrices and solve such systems using
+Gaussian elimination.
+• Comprehend the binomial theorem and use it to expand binomial expressions"
+null;null;null;2;Mathematics;MAT01A2;10;"• Describe and apply basic concepts and theory underlying the convergence of sequences and
+series, and apply the precise definition of convergence where necessary.
+• Describe and apply basic concepts and theory underlying the Taylor and Maclaurin series of
+functions, as well as approximate functions by polynomials.
+• Extend and apply the calculus of single-variable functions to vector-valued functions."
+null;null;null;2;Mathematics;MAT02A2;10;"• Define and comprehend the basic theoretical concepts underlying Linear Algebra.
+• Comprehend the geometry and the algebra of vectors.
+• Solve linear systems.
+• Comprehend the algebra of Matrices.
+• Apply matrices and linear transformation to solve mathematically related problems.
+• Comprehend concepts relating to generalised vector spaces and subspaces.
+• State and prove theorems in Linear Algebra."
+null;null;null;2;Mathematics;MAT04A2;10;"• Demonstrate an integrated knowledge of the core concepts, theory, and techniques relating to
+the syntax and semantics of propositional and predicate logic and to selected deductive systems
+for these languages.
+• Construct correct and appropriate combinatorial strategies for the efficient solution of counting
+problems.
+• Apply the theory and techniques of basic number theory to solve problems relating to properties
+of divisibility and modular arithmetic, and to construct and use RSA cryptographic terms."
+null;null;null;2;Mathematics;MAT01B2;10;"• Investigate continuity of several variable functions, using the precise definition of a limit, where
+necessary.
+• Determine limits, gradients, partial derivatives and directional derivatives and apply these
+concepts to problem solving.
+• Apply optimization theory to problems.
+• Determine and evaluate multiple integrals and extend use of double and triple integrals to the
+physical sciences.
+• Extend and apply multiple integration techniques to vector-valued functions."
+null;null;null;2;Mathematics;MAT02B2;10;"• Define and comprehend the basic theoretical concepts underlying Linear Algebra.
+• State and prove theorems in Linear Algebra.
+• Comprehend the concept of orthogonality.
+• Define concepts on vector spaces and subspaces.
+• Determine eigenvalues and eigenvectors of a given matrix.
+• Comprehend the concepts and the theory of linear transformations.
+• Comprehend the concepts and the theory of inner product spaces.
+• Apply the theory of vector spaces and inner product spaces to solve related problems."
+null;null;null;2;Mathematics;MAT04B2;10;"• Define and explain groups and recognize elementary properties of groups.
+• Determine subgroups as well as cyclic subgroups and generators.
+• Distinguish between isomorphisms, homomorphisms and automorphisms.
+• Formulate theorems and proofs related to group theory.
+• Demonstrate a thorough understanding of cosets, normal subgroups and external direct products.
+• Correctly use and apply the basic terminology and concepts relating to combinatorial graphs.
+• Apply path algorithms and tree traversal algorithms to problems involving graphs.
+• Solve real world problems via graph theoretic modelling, e.g. solve scheduling problems by modelling
+as graph colouring problems."
+null;null;null;3;Mathematics;MAT01A3;15;"• Define and explain the Completeness Property of the real numbers.
+• Describe the theory and properties of sequences and continuous functions.
+• Demonstrate a thorough understanding of the theory of the Riemann Integral.
+• Solve problems related to the abovementioned topics."
+null;null;null;3;Mathematics;MAT02A3;15;"• Demonstrate a mastery of the basic theory involving sets, relations and order and be able to
+solve problems, related to these topics.
+• Demonstrate an integrated knowledge of the core concepts, theory, and techniques relating to
+the syntax and semantics of propositional logic and to selected deductive systems for this
+language.
+• Construct correct and appropriate combinatorial strategies for the efficient solution of counting
+problems.
+• Apply the core theory and techniques of basic graph theory to prove propositions and solve
+problems."
+null;null;null;3;Mathematics;MAT01B3;15;"• Check for analyticity of a given complex function by using the Cauchy-Riemann equations.
+• Graphically represent the images of regions under various conformal mappings.
+• Calculate integrals from first principles.
+• Calculate integrals using Cauchy’s integral formulas as well as by using the Residue method.
+• Calculate the Laurent series of a given complex function centred at a given point.
+• Calculate difficult real integrals by using methods from complex analysis. "
+null;null;null;3;Mathematics;MAT02B3;15;"• Define the basic concepts and theory of integers, groups and rings: prime factorization
+divisibility, equivalence relations, groups, subgroups, normal subgroups, quotient groups,
+homomorphisms, isomorphisms and introductory concepts to rings and fields.
+153
+• Formulate and proof the basic theorems of integers, groups and rings: prime factorization
+divisibility, equivalence relations, groups, subgroups, normal subgroups, quotient groups,
+homomorphisms, isomorphisms and introductory concepts to rings and fields.
+• Solve problems by first analysing it and then applying integrated knowledge in the abovementioned topics using the theory of abstract algebra."
+null;null;null;1;Computer Science;CSC01A1;15;"• Analyse, Design and interpret an algorithm
+• Program algorithms in an object oriented language such as C++.
+• Use a computer to solve programming problems.
+• Demonstrate computer programs in C++."
+null;null;null;1;Computer Science;CSC01B1;15;"• Distinguish between classes and objects.
+• Explain object-oriented principles.
+• Apply object-oriented principles during the development of programs.
+• Explain the role of graphic interfaces, events, processes and threads.
+• Develop programs that implement graphic user interfaces, events, processes and threads.
+• Explain the principles of distributed processing."
+null;null;null;2;Computer Science;CSC02A2;20;"• Distinguish between classes and objects.
+• Explain object-oriented principles.
+• Apply object-oriented principles during the development of programs.
+• Explain the role of graphic interfaces, events, processes and threads.
+• Develop programs that implement graphic user interfaces, events, processes and threads.
+• Explain the principles of distributed processing."
+null;null;null;2;Computer Science;CSC02B2;20;"• Describe ISO and Internet protocols.
+• Evaluate ISO and Internet protocols against each other.
+• Use protocol specifications to establish the design and functioning of protocols not discussed
+in the lectures.
+• Apply principles of network protocol design
+• Explain how data, voice and video signals are transmitted over a computer network.
+• Describe components of computer networks.
+• Analyse various types of computer network topologies.
+• Develop object-oriented Java programs to transmit messages between workstations on a
+computer network"
+null;null;null;2;Computer Science;CSC02D2;20;"• Distinguish between agent-oriented and conventional paradigms
+• Explain agent-oriented principles
+• Apply agent-oriented and multi-agent principles during software development
+• Distinguish between a selection of artificial intelligence learning problems
+• Explain selected approaches for intelligent systems development
+• Develop intelligent systems using selected approaches"
+null;null;null;3;Computer Science;CSC03A3;30;"• Explain in detail the theoretical aspects of data structures.
+• Develop short programs in an object oriented language that applies these data structures.
+• The implementation of a practical project, of an appropriate scope, that demonstrates the
+student’s proficiency with Abstract Data Structures.
+• Comment on the efficiency of the different data structures in a range of applications.
+• Estimate the performance of algorithms with respect to execution times and memory usage."
+null;null;null;3;Computer Science;CSC03B3;30;"• Explain the functioning of the hardware of a computer system such as the central processor,
+memory, and other components of the execution cycle correctly.
+• Explain important aspects of system software such as operating systems, compilers and
+interpreters accurately.
+• Evaluate the design of system software, and system software components logically.
+• Develop short programs in a suitable language that illustrate important aspects of a computer
+system."
+null;null;null;3;Computer Science;CSC03D3;30;"• Discuss Advanced Artificial Intelligence Techniques such as selected approaches from
+Biologically Inspired Artificial Intelligence, Pattern Recognition, and Dimensionality Reduction
+• Distinguish between AI related problem domains as appropriate in contrast to conventional
+software development
+• Address issues of scalability in general and within the context of the selected problem domain.
+• Apply selected Advanced Artificial Intelligence Techniques in the development of software
+systems within the selected problem domain"
+null;null;null;3;Computer Science;CSC03P3;34;"• Identify a project in an appropriate Artificial Intelligence or Machine Learning Problem
+domain.
+• Extract the functional and non-functional requirements for such a project
+• Research any additional techniques and technologies required to address the identified
+problem
+• Implement a solution to the identified problem creating (as opposed to merely utilising)
+appropriate software and hardware components as agreed upon by the project
+supervisor."
+null;null;null;null;null;null;null;null
+University of Johannesburg;Science;Bachelor of Science in Life and Environmental Science;null;null;null;null;null
+null;null;null;1;Zoology;ZOO11B1;15;"• Explain animal classification and the origin of the fundamental characteristics of the major
+animal phyla (Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Arthropoda,
+Echinodermata and Chordata).
+• Describe the morphology and general biology of the major animal phyla (Cnidaria,
+Platyhelminthes, Nematoda, Annelida, Mollusca, Arthropoda, Echinodermata and Chordata).
+• Describe the morphology, general biology and special adaptations of the animals.
+• Collect, mount and classify insects up to Family level.
+• Demonstrate the ability to identify the anatomical features of the major animal phyla during
+practical sessions."
+null;null;null;2;Zoology;ZOO22A2;20;"• Define, explain and explore fundamental concepts of parasite ecology.
+• Explain host parasite interfaces.
+• Identify and diagnose parasitic diseases.
+• Explain and explore life cycles of parasites.
+• Use an appropriate referencing system.
+• Discuss prevention and treatment of parasitic diseases."
+null;null;null;2;Zoology;ZOO22B2;20;"• Discuss the characteristics used for the classification of the Vertebrata.
+• Discuss the hypotheses on the origin of the Vertebrata.
+• Describe the morphology, general biology and special adaptations of the vertebrate classes.
+• Define the zoogeographical regions of the world and explain the distribution of tetrapods within
+these zoogeographical regions.
+• Discuss the different evolutionary models and processes involved in organic evolution.
+• Demonstrate their ability to identify the anatomical features of the vertebrates during practical
+sessions.
+• Demonstrate their competency of doing independent literature reviews."
+null;null;null;3;Zoology;ZOO33A3;30;"• Discuss fundamental principles of population and community ecology; including ecosystem
+structure and energy flow.
+• Explain the fundamental principles of various ecosystems including terrestrial, freshwater and
+marine.
+• Communicate aspects of ecology orally and in writing (e.g. scientific report writing, oral and
+poster presentations)"
+null;null;null;3;Zoology;ZOO33B3;30;"• Discuss the physical basis of neuronal function, communication along and between neurons
+and sensing the environment.
+• Write explanatory notes on the characteristics of cellular secretions.
+• Explain the mechanisms of hormone regulation and action.
+• Distinguish between muscle types.
+• Compare the mechanisms of movement in different animals.
+• Discuss the role of blood in the circulatory system as well as circulation in vertebrates and
+invertebrates.
+• Compare mechanisms of respiration in different organisms and understand the respiratory
+abilities of organisms in aquatic and terrestrial environments.
+• Comment on the effectiveness of the process of feeding, digestion and nutrition in different
+organisms.
+• Evaluate the importance of temperature regulation and the general effects of temperature on
+metabolism."
+null;null;null;2;Physiology;PHS02A2;20;"• Explain introductory concepts of physiology and discuss homeostatic principles.
+• Explain basic concepts of chemistry and the general structure, biological functions and reactions
+of the important organic and inorganic compounds in the body.
+• Discuss the cellular organisation of the body by referring to the functions and interactions of the
+different cell components.
+• Microscopically identify the different tissue types and discuss the relationship of structure and
+function with special reference to inflammation and regeneration.
+• Discuss the structure and functions of the integument and related homeostatic imbalances.
+• Discuss the structure and function of the skeletal system.
+• Explain the principles of the neuromuscular junction and muscle contraction."
+null;null;null;2;Physiology;PHS02B2;20;"• Explain the generation and propagation of an action potential.
+• Describe the effect of neurotransmitters and neuromodulators on the postsynaptic membranes.
+• Explain the processing of information in the neural tissue.
+• Explain basic histological, chemical, physical and physiological concepts of the nervous system.
+• Discuss structure and function of the different sections of the brain
+• Give an overview of the reflex activities of the nervous system with the aid of descriptive
+illustrations and diagrams.
+• Discuss basic concepts and interactions of the autonomic nervous system.
+• Give an overview of the general senses of the body.
+• Discuss the structure and function of the specific organs of the endocrine system and explain
+the functional aspects thereof."
+null;null;null;3;Physiology;PHS03A3;30;"• Discuss functional aspects of blood with reference to specific diagnostic blood tests.
+• Explain the histology and functional anatomy of the heart, as well as the electrical and
+mechanical aspects of the cardiac cycle.
+• Explain the basic concepts of the blood circulation.
+• Discuss the functional aspects of the lymphatic system to explain the non-specific and specific
+defence mechanisms of the body.
+• Microscopically identify the tissues of respiratory organs and explain physical and functional
+aspects thereof.
+• Microscopically identify the organs of the digestive tract and explain functional adaptations and
+implications thereof.
+• Microscopically identify the organs of the urinary system and discuss functional aspects with
+special reference to basic concepts of the formation of urine.
+• Explain histological and functional adaptations of the male and female reproductive organs.
+• Discuss oogenesis, spermatogenesis and related processes.
+• Explain the process of fertilisation, pregnancy, parturition.
+172
+• Use dissections, descriptive illustrations and diagrams to explain foetal circulation and the
+changes that occur after birth."
+null;null;null;3;Physiology;PHS03B3;30;"• Discuss the interaction and control in positive and negative feedback mechanisms including
+blood clotting, labour and lactation.
+• Explain the principles of reflex activities with reference to neural, hormonal and humeral control
+and the integration of neural and hormonal control.
+• Compare the interaction of the different organ systems to maintain metabolism, water balance
+regulation and reproduction"
+null;null;null;2;Microbiology;MCB02A2;20;"• Describe the significance of bacteria
+• Summarise the discovery of bacteria and spontaneous generation
+• Discuss the morphology & reproduction of the bacterium
+• Discuss growth and cultivation of bacteria
+• Explain sterility, sterilisation & conditions affecting the action of antimicrobial treatments
+• Discuss water quality and the development of bacterial water borne diseases
+• Discuss food preservation and the development of bacterial food borne diseases
+• Debate the advantages & disadvantages of bacterial flora of the body
+• Summarise the cause, symptoms and treatment of sexually transmitted diseases caused by
+bacteria
+• Conduct practical work and experiments and demonstrate safe laboratory techniques
+• Use a microscope correctly & present practical results by writing appropriate reports by correctly
+using appropriate terminology.
+• Discuss the classification, morphology and replication of plant & animal viruses, and
+bacteriophages
+• Explain the various isolation, identification and cultivation techniques used by virologists
+• Discuss and explain viral disease development and how it influences/triggers the immune
+system
+• Summarise the cause, symptoms, significance and treatment of certain viral diseases
+• Demonstrate virtual HHMI ELISA and enzyme tests
+• Complete answer sheets regarding prudently selected viral disease videos
+• Present results correctly using appropriate terminology."
+null;null;null;2;Microbiology;MCB02B2;20;"• Have a clear understanding of concepts used in the study of microbiology.
+• List the differences between groups of prokaryotes and eukaryotes: morphology, metabolism,
+taxonomy, distribution and habitat.
+• Be in a position to compare and contrast the general and diagnostic features of the following
+groups: Protozoans and Archaea.
+• Identify the symptoms, cause, development and treatment of diseases caused by Protozoans
+and Archaea.
+• Be in a position to identify, draw, annotate/label and classify giving reasons.
+• Be able to integrate the theory and the practical work into one coherent unit.
+• Explain the concept of plant pathology and categorize plant diseases.
+• Recognize and describe the effect of the abiotic and biotic environment on the development of
+plant disease.
+• Explain the influence of genetic interaction of a host.
+• Define concepts in disease development and explain the steps involved in plant disease
+development.
+• Discuss various plant diseases regarding symptoms and control.
+• Demonstrate safe laboratory techniques and conduct practical experiments safely.
+• Present practical results by writing appropriate reports using appropriate terminology."
+null;null;null;1;Physics;PHYG1A1;15;"• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles
+and the basic laws of physics applicable to the earth sciences.
+• Explain, interpret and evaluate elementary theoretical models in physics applied to the earth
+sciences.
+• Integrate basic concepts and theories to solve problems of elementary physics applied to the
+earth sciences.
+• Recognize and explain aspects of the application of elementary physics as applied in a
+geological and earth science context."
+null;null;null;1;Physics;PHYG1B1;15;"• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles
+and the basic laws of Physics relevant to the broader earth sciences.
+• Understanding the physical functioning of basic natural phenomena related to the earth, the
+atmosphere, the oceans and the solar system.
+• Recognize and explain aspects of the application of physics in the geological, geographical and
+natural environment."
+null;null;null;1;Physics;PHE2LB1;15;"• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles
+and the basic laws of physics applicable to the life sciences.
+• Explain, interpret and evaluate elementary theoretical models in physics applied to the life
+sciences.
+• Integrate basic concepts and theories to solve problems of elementary physics applied to the
+life sciences.
+• Recognize and explain aspects of the application of elementary physics as applied in a
+biological context."
+null;null;null;1;Physics;PHE3LA1;15;• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles and the basic laws of physics applicable to the life sciences. • Explain, interpret and evaluate elementary theoretical models in physics applied to the life sciences. • Integrate basic concepts and theories to solve problems of elementary physics applied to the life sciences. • Recognize and explain aspects of the application of elementary physics as applied in a biological context.
+null;null;null;1;Physics;PHYL1A1;15;"• Formulate, discuss and explain the basic definitions of physical quantities, the basic principles
+and the basic laws of physics applicable to the life sciences.
+• Explain, interpret and evaluate elementary theoretical models in physics applied to the life
+sciences.
+165
+• Integrate basic concepts and theories to solve problems of elementary physics applied to the
+life sciences.
+• Recognize and explain aspects of the application of elementary physics as applied in a
+biological context."
+null;null;null;1;Mathematics;MAT01A1;15;"• Understand and apply the basics concepts and operations of set theory.
+• Define absolute values and solve equations containing absolute values.
+• Identify different proof techniques and apply them correctly to prove mathematical
+statements.
+• Understand and apply the basic ideas of logic.
+• Define complex numbers and use their properties to perform operations on equations
+containing complex numbers.
+• Define limits and use limit laws to evaluate basic limits as well as limits of indeterminate form.
+• Express the basic theoretical concepts underlying differentiation and integration.
+• Differentiate and integrate basic exponential, logarithmic, trigonometric and hyperbolic
+functions."
+null;null;null;1;Mathematics;MAT01B1;15;"• Apply different integration techniques to integrate exponential, logarithmic, trigonometric and
+rational functions and evaluate improper integrals.
+• Sketch calculus functions using methods of graph sketching.
+• Apply the concepts of differentiation in solving calculus-related word problems.
+• Determine areas under curves and volumes of solids of revolution by applying techniques of
+integration.
+• Solve first-order differential equations.
+• Employ polar coordinates to parameterise curves.
+• Represent systems of linear equations using matrices and solve such systems using
+Gaussian elimination.
+• Comprehend the binomial theorem and use it to expand binomial expressions"
+null;null;null;2;Environmemntal Management;ENM02A2;20;"• Examine and explain the causes of the present-day environmental crisis.
+• Define and explain essential terminology related to sustainability and environmental
+management.
+• Explain how ecosystems have a structure and functions according to certain basic
+environmental laws.
+• Critically assess the meaning and principles of sustainable development.
+• Discuss and explain how environmental degradation is caused by both natural and
+anthropogenically-induced factors.
+• Examine and explain environmental problems in the context of different types of land use.
+• Discuss the meaning and principles of sustainable development.
+• Explain the causes, impacts and strategies to ameliorate global climate change.
+• Account for the loss of biodiversity on a global scale, as well as within South Africa and examine
+various solutions to this environmental issue.
+• Explain the environmental impacts of different types of mining and discuss ways to manage
+these more appropriately.
+• Explain the impacts of agriculture on the environment, both in general and in South Africa more
+specifically.
+• Apply specific research methods to environmental data and to the local environment."
+null;null;null;3;Environmemntal Management;ENM03A3;30;"• Explain the role played by economics in environmental management.
+• Identify and explain suitable economic instruments for environmental management.
+• Have an understanding of ethics as pertaining to the environment, and using many case
+studies, assess how ethical projects are for people and the environment.
+• Debate environmental issues regarding the impact of the environment, economics and
+humans.
+• Describe the manner in which statutory environmental law has evolved in South Africa with
+specific reference to the post-apartheid period.
+• Assess the role played by international and regional environmental law in shaping South
+African environmental law.
+• Differentiate between compliance and enforcement
+• Critically assess the effectiveness and implementation of South African environmental law, with
+specific reference to the Constitution, and other relevant framework laws.
+• Participate in practical sessions, which may comprise of various site visits, case studies,
+physical activities, data collection and processing, attending public participation events and the
+like."
+null;null;null;3;Environmemntal Management;ENM03B3;30;"• Identify why environmental resource management is an ethical and moral issue.
+• Define and interpret key concepts associated with environmental assessment, monitoring,
+mitigation and rehabilitation and to know and apply the logical sequence to be followed when
+undertaking a successful environmental management programme.
+• Describe Integrated Environmental Management (IEM) in South Africa.
+• Demonstrate how Environmental Management in South Africa is determined by environmental
+policy and associated environmental legislation."
+null;null;null;1;Geology;GLG01A1;12;"• Predict chemical and structural properties of minerals based on crystal chemistry.
+• Evaluate minerals using crystallographic principles.
+• Analyse common minerals with a fundamental understanding of systematic mineralogy.
+• Demonstrate an understanding of the optical properties of transparent minerals.
+• Use the correct terminology in describing the optical properties of a mineral.
+• Use the petrographic microscope for the identification of the optical properties of minerals."
+null;null;null;1;Geology;GLG00A1;3;"• Predict chemical and structural properties of minerals based on crystal chemistry.
+• Evaluate minerals using crystallographic principles.
+• Analyse common minerals with a fundamental understanding of systematic mineralogy.
+• Demonstrate an understanding of the optical properties of transparent minerals.
+• Use the correct terminology in describing the optical properties of a mineral.
+• Use the petrographic microscope for the identification of the optical properties of minerals."
+null;null;null;1;Geology;GLG01B1;15;"• Identify and describe rocks in the field.
+• Appreciate the value of field work.
+• Classify the rocks observed into their lithostratigraphic groupings.
+• Make geological observations and record them in a coherent way in their field note book.
+• Use geological field equipment.
+• Make notes about the relationship between geological features and the environment."
+null;null;null;2;Geology;GLG22A2;16;"• Demonstrate an understanding of the fundamental components of clastic, chemical and
+biogenic sedimentary rocks and classify as well identify their origins
+• Identify and contrast the various bedforms and primary and secondary sedimentary structures
+associated with sedimentary rocks and understand their formation
+• Understand the processes by which rocks weather physically and chemically
+• Describe and interpret the composition of clastic and chemical sediments
+• Examine ancient sedimentary rock sequences in the field, measure sedimentary profiles in the
+field, examine and record various aspects of sedimentary rocks (grain size, sedimentary
+structures) in the field.
+• Understand the basic principles of facies analysis and how facies analysis is used to identify
+and interpret modern and ancient sedimentary environments
+• Understand the origin and evolution of some sedimentary deposits of southern Africa and its
+mineral deposits."
+null;null;null;2;Geology;GLG00A2;4;"• Recognize, categorize and interpret the origin of the most common types of metamorphic
+rocks.
+• Use the petrographic microscope to the study of metamorphic rocks"
+null;null;null;2;Geology;GLG02B2;20;"• Recognize, categorize and interpret the origin of the most common types of igneous rocks.
+• Use the petrographic microscope to the study of igneous rocks.
+• Use geochemistry to the study of igneous rocks.
+• Identify the origin and evolution of South Africa’s igneous rocks.
+• Identify the significance of igneous rocks in a plate tectonic context."
+null;null;null;3;Geology;GLG10A3;12,5;"• Comprehend the mutual relationship between stress, strain and rheological behaviour of
+deformed rocks
+• Identify the characteristic features in fault rock that relate to brittle and ductile rock behaviour
+formations.
+• Make and interpret structural measurements using geological maps and stereographic
+projections
+• Understand the mutual relationship between deformation, metamorphism and time in the
+evolution of deformed terrains
+• Understand the relationship between geodynamic processes and the evolution of modern day
+plate boundaries."
+null;null;null;3;Geology;GLG20A3;12,5;"• Observe different geological features.
+• Evaluate and interpret geological observations"
+null;null;null;3;Geology;GLG00A3;5;"• Use the geological compass for geological measurements.
+• Map geological phenomena on various scales.
+• Produce a geological map, including cross sections and a stratigraphic column.
+• Write a concise report on the results"
+null;null;null;3;Geology;GLG03B3;30;"• Understand the function of a geological compass and how to use if effectively.
+• Use the correct terminology in describing the geological structure indicated on a geological
+map.
+• To interpret geological maps in terms of stratigraphy and structural geology.
+• Create a geological map from limited information given.
+• Understand basic navigational techniques
+• Explain the fundamental theory and applications of coordinate reference systems, map
+projections, and the global positioning system (GPS).
+• Formulate geological applications of geographic information systems (GIS) using technical
+methods.
+• Formulate geological applications of remote sensing (RS) using technical methods."
+null;null;null;1;Geology;APG02A2;20;"• Understand the function of a geological compass and how to use if effectively.
+• Use the correct terminology in describing the geological structure indicated on a geological
+map.
+• To interpret geological maps in terms of stratigraphy and structural geology.
+• Create a geological map from limited information given.
+• Understand basic navigational techniques
+• Explain the fundamental theory and applications of coordinate reference systems, map
+projections, and the global positioning system (GPS).
+• Formulate geological applications of geographic information systems (GIS) using technical
+methods.
+• Formulate geological applications of remote sensing (RS) using technical methods."
+null;null;null;2;Geology;APG02B2;20;"• Demonstrate an understanding of how the South African geology is an integral part of
+environmental studies.
+• Demonstrate an understanding of the fundamentals of aquatic chemistry.
+• Demonstrate an understanding of the environmental implications of mining activities.
+• Demonstrate an understanding of lithological variation in rock sequences and how variation in
+rheological properties under varying physical conditions can influence the stability of target
+areas.
+• Demonstrate an understanding of basic geological structures and how these influence
+engineering aspects of the rocks.
+• Give a basic evaluation of engineering sites based on geological observations made
+• Gain an understanding of the stratigraphy of South Africa.
+• Give examples of different kinds of weathering in rocks.
+• Demonstrate an understanding of the positive and negative engineering aspects of common
+rocks."
+null;null;null;3;Geology;APG03A3;30;"• Demonstrate an understanding of the basic concepts and components of a mineral mining
+operation and the role of a Geologist therein.
+• Demonstrate an understanding of the various mining methods used in South Africa
+• Demonstrate an understanding of the workings and role of a metallurgical plant in the
+beneficiation of various mineral products
+• Understand the concepts and principles of sampling mineralized material
+• Demonstrate an understanding of the various drilling methods and techniques used in
+exploration and mining and how geology affects this process
+• Describe rocks as water bearers and explain the basis for aquifer occurrences in South Africa
+and their importance in drilling and mining operations
+• Describe the engineering properties and strength of rock material and its effect on drilling and
+mining operations."
+null;null;null;3;Geology;APG03B3;30;"• Recognize ore minerals and interpret their textures both in hand sample and by using the
+• petrographic microscope with reflected light.
+• Understand the primary processes of ore formation.
+• Understand the theory of the principle types of geochemical surveys.
+• Understand and apply the primary data-handling techniques of ore body evaluation.
+• Understand the economic aspects of South Africa’s economic deposits"
+null;null;null;1;Analytical Techniques;ATE01A1;15;"• Demonstrate the ability to use statistical terminology in the appropriate way and distinguish
+between different measurement scales.
+• Show how the raw data can be tabulated and presented graphically.
+• Calculate and interpret measures of central tendency and spread for a set of data and perform
+elementary probability calculations
+• Identify different methods used to gather sample data and understand the basic concepts of
+sampling distributions and statistical inference.
+• Show how to analyse a time series and forecast values for future time periods.
+• Determine and use least squares regression lines and the coefficients of correlation."
+null;null;null;1;Analytical Techniques;ATE01B1;15;"• Apply various inferential methods to data.
+• Apply the rudiments of the differential and integral calculus to business applications.
+• Find the maximum or minimum of a multivariable function subject to linear constraints on the
+variables."
+null;null;null;1;Analytical Techniques;ATEACP2;15;"• Demonstrate the ability to use statistical terminology in the appropriate way and distinguish
+between different measurement scales.
+• Show how the raw data can be tabulated and presented graphically.
+• Calculate and interpret measures of central tendency and spread for a set of data and perform
+elementary probability calculations.
+• Identify different methods used to gather sample data and understand the basic concepts of
+sampling distributions and statistical inference.
+• Show how to analyse a time series and forecast values for future time periods.
+• Determine and use least squares regression lines and the coefficients of correlation."
+null;null;null;1;Biochemistry;BIC01B1;15;"• Recognize, determine and demonstrate the working and calculation of buffers.
+• Define, memorize, explain and show the working of proteins.
+• Indicate, classify and recognize different biomolecules and understand their actions in
+membrane function.
+• Describe basic molecular techniques, employ and solve biotechnological problems and their
+use in new developments."
+null;null;null;2;Biochemistry;BIC02A2;20;"• Recognize, determine and demonstrate the working and calculation of buffers.
+• Name and recognize monomers and polymers of biomolecules.
+• Explain the principle involved in biochemical separation and analytical techniques.
+• Demonstrate the ability to design and develop simple protocols for biomolecule isolation,
+purification and characterization.
+• Describe, classify and recognize different enzymes, their functioning and application.
+• Define and describe the working of enzymes.
+• Acquire, analyse and interpret enzymological data.
+• Understand the biochemical basis of enzyme regulation."
+null;null;null;2;Biochemistry;BIC02B2;20;"• Have knowledge of and comprehend the principles and theories governing carbohydrate, lipid,
+protein and nucleic acid metabolism.
+• Interpret the related mechanisms of regulation and be able to compare the different ways on
+metabolic control.
+• Grasp the overall concept of metabolism and indicate how it is integrated in terms of energy
+metabolism.
+• Apply their knowledge to relevant applicable situations, e.g. how metabolism is influenced by
+nutrition and exercise."
+null;null;null;3;Biochemistry;BIC03A3;30;"• Name and define different Mendelian principles and biological information flow.
+• Differentiate between and select appropriate techniques that can be employed in Molecular
+Biology and Biotechnology.
+• Relate, compare and discriminate between components of prokaryotic biological information
+flow.
+• Relate, compare and discriminate between components of eukaryotic biological information
+flow."
+null;null;null;3;Biochemistry;BIC03B3;30;"• Comment on the composition, role and classification of different membranes, and bacterial cell
+walls.
+• Organize the endocrine system and related hormones in terms of origin (organs or tissue), structure,
+transduction mechanisms and effects.
+• Evaluate the different mechanisms involved in host-pathogen interaction, including apoptosis.
+• Formulate an overview of muscle structure and function as well as the cytoskeleton.
+• Organize blood cells as red and white based on origin, composition and function and explain
+haemostasis and thrombosis.
+• Formulate the collection of plasma proteins and immunoglobulins found in the plasma.
+• Criticise various immunological techniques and formulate their appropriate use.
+• Prepare a critique on the human genome project and the management thereof.
+• Comment on HIV/AIDS in the context of Southern Africa."
+null;null;null;null;null;null;null;null
+null;null;null;1;Biology;BIO1EB1;12;"• Understand the different themes that unify the study of life and demonstrate the methodology
+of the scientific inquiry.
+• Understand the basic principles of chemistry as it relates to inorganic and organic molecules
+and relate the molecular structure of biomolecules to their respective molecular function.
+• Justify why the cell can be considered the basic unit of life, distinguish between pro- and
+eukaryotic cells and relate the molecular structure of cellular organelles and the biological
+membrane to their function.
+• Consider cellular metabolic concepts such as central role of ATP and the central role of aerobic
+cellular respiration and photosynthesis to life.
+• Examine cellular reproduction (meiosis), the fundamental principles of inheritance as well as
+the flow of genetic information from DNA to RNA to proteins in the cell (replication, transcription,
+translation).
+• Understand the origin of the Protista and examine the phylum’s characteristics and life cycles.
+• Compare the developmental differences between protostomes and deuterostomes in relation
+to the classification of the different phyla of the Kingdom Animalia.
+• Understand the basic stages of animal development (fertilization, cleavage and gastrulation)
+and relate this to the germ layers that form as well as structures these layers eventually give
+rise to.
+• Understand the adaptation of vascular plants to life on land and distinguish between
+angiosperms and gymnosperms, and monocots and eudicots.
+• Explore resource acquisition and transport in vascular system of plants.
+• Understand the relationship between soil-composition, -bacteria and -fungi with plant nutrition.
+• Consider the role of flowers and fruits in the angiosperm life cycle and describe sexual
+reproduction in flowering plants.
+• Discuss how food crops can be modified using techniques of breeding and genetic engineering.
+• Develop the general skills (e.g., observation, problem solving, hypothesis generation and
+testing) used in science and familiarize themselves with various laboratory techniques."
+null;null;null;1;Biology;BIO2EA1;12;"• Understand the different themes that unify the study of life and demonstrate the methodology
+of the scientific inquiry.
+• Understand the basic principles of chemistry as it relates to inorganic and organic molecules
+and relate the molecular structure of bio-molecules to their respective molecular function.
+• Justify why the cell can be considered the basic unit of life, distinguish between pro- and
+eukaryotic cells and relate the molecular structure of cellular organelles and the biological
+membrane to their function.
+103
+• Consider cellular metabolic concepts such as central role of ATP and the central role of aerobic
+cellular respiration and photosynthesis to life.
+• Examine cellular reproduction (meiosis), the fundamental principles of inheritance as well as
+the flow of genetic information from DNA to RNA to proteins in the cell (replication, transcription,
+translation).
+• Develop the general skills (e.g., observation, problem solving, hypothesis generation and
+testing) used in science and familiarize themselves with various laboratory techniques."
+null;null;null;1;Biology;BIO10A1;15;"• Understand the basic principles of chemistry as it relates to inorganic and organic molecules
+and relate the molecular structure of biomolecules to their respective molecular function.
+• Justify why the cell can be considered the basic unit of life, distinguish between pro- and
+eukaryotic cells and relate the molecular structure of cellular organelles and the biological
+membrane to their function.
+• Consider cellular metabolic concepts such as central role of ATP and the central role of aerobic
+cellular respiration and photosynthesis to life.
+• Examine cellular reproduction (meiosis), the fundamental principles of inheritance as well as
+the flow of genetic information from DNA to RNA to proteins in the cell (replication, transcription,
+translation).
+• Understand the origin of the Protista and examine the phylum’s characteristics and life cycles.
+• Compare the developmental differences between protostomes and deuterostomes in relation
+to the classification of the different phyla of the Kingdom Animalia
+• Understand the basic stages of animal development (fertilization, cleavage and gastrulation)
+and relate this to the germ layers that form as well as structures these layers eventually give
+rise to.
+• Understand the adaptation of vascular plants to life on land and distinguish between
+angiosperms and gymnosperms, and monocots and eudicots.
+• Explore resource acquisition and transport in vascular system of plants.
+• Understand the relationship between soil-composition, -bacteria and -fungi with plant nutrition.
+• Consider the role of flowers and fruits in the angiosperm life cycle and describe sexual
+reproduction in flowering plants.
+• Discuss how food crops can be modified using techniques of breeding and genetic engineering.
+• Develop the general skills (e.g., observation, problem solving, hypothesis generation and
+testing) used in science and familiarize themselves with various laboratory techniques."
+null;null;null;null;null;null;null;null
+null;null;null;1;Botany;BOT01B1;15;"• Name and classify plants.
+• Describe the vegetative and reproductive features and demonstrate the use of appropriate
+terminology that is useful in the identification of flowering plants.
+• Show a basic understanding of the major groups of vascular and non-vascular plants
+throughout the world.
+• Demonstrate knowledge of the major families of vascular plants, as well as the collection and
+identification of local vascular plants.
+• Define, explain and explore fundamental concepts of ecology and population and community
+ecology."
+null;null;null;2;Botany;BOT02A2;20;"• Describe, as well as compare and contrast, the structure of eukaryotic and prokaryotic cells,
+and point out and explain the relationship between structure and function of the various cell
+components.
+• Prepare temporary, semi-permanent and permanent microscope mounts of fresh material by
+means of epidermal peels and hand sections and simple staining techniques, as well as
+construct scale bars and calculate magnifications.
+• Examine microscope slides, diagrams, micrographs and ultra-micrographs, and identify,
+describe, draw and interpret the various plant organs, tissues, cells and cell components.
+• Explain why plant anatomy is studied and describe how it can be used for identification and
+related purposes, and be able to use and apply appropriate tests and procedures in order to
+investigate material microscopically for these purposes.
+• Describe, explain, compare, classify, record and distinguish between the various simple and
+complex plant tissues, as well as primary and secondary tissues, and the various cell types
+within these categories, describe how they are structurally suited to perform their functions and
+how this relates to their commercial value.
+• Describe, explain and compare the basic anatomy of roots, stems and leaves (of
+monocotyledons and dicotyledons) as well as of flowers, to identify these organs from sections,
+recognize and explain adaptations to different environmental conditions and draw line diagrams
+to show the distribution of tissues.
+• Plan and carry out a logical, comprehensive anatomical investigation of a selected plant which
+includes producing suitable slides, illustrations and working with units using an estimation
+technique. "
+null;null;null;2;Botany;BOT02B2;20;"• Describe the sub-cellular components and their functions.
+• Describe the properties of water, discuss plant water relations, explain the process of
+transpiration, specify the different mineral elements essential to plant growth and give details
+about their functions, deficiency symptoms, uptake and transport from cell to cell and
+demonstrate the application of mineral nutrition in agriculture.
+• Categorize enzymes and describe and explain their composition and functioning.
+• Expound on the process of respiration, lipid metabolism and photosynthesis and their roles in
+the control of plant growth and development.
+106
+• Explain the translocation of solutes in the plant.
+• Illustrate how plant hormones orchestrate the different processes involved in plant growth and
+development and examine plant growth and development in terms of movement,
+photomorphogenesis, photoperiodism, vernalisation, dormancy and seed germination.
+• Describe the different groups of secondary plant products and some of their uses.
+• Conduct practical work and experiments that illustrate the processes, principles and
+applications of plant growth and development; design, construct and conduct experiments that
+will illustrate specific aspects of growth and development; and to write reports that appraise the
+results of these experiments."
+null;null;null;3;Botany;BOT03A3;30;"• Explain the concept of biotechnology and concepts related to the field.
+• Describe the composition of plant genomes and genes and their relevance to plant genetic
+engineering.
+• Describe, understand and elaborate on the biotechnological aspects of plant manipulation and
+cultivation.
+• Describe and apply several techniques in the field of plant recombinant DNA technology.
+• Conduct practical work and experiments that illustrate and exemplify the techniques and
+applications of recombinant DNA technology and plant tissue culture.
+• Write an appropriate scientific essay and report.
+• Give appropriate presentations on assignments given."
+null;null;null;3;Botany;BOT03B3;30;"• Distinguish and identify any indigenous seed plant to the level of family and genus, using
+appropriate identification keys and microscope techniques.
+• Distinguish between selected representatives of all the major plant families, the dominant and
+characteristic plant species of all the biomes and selected vegetation types of South Africa and
+well-known indigenous and exotic plants of commercial and horticultural importance.
+• Describe and explain the history, principles and methods of plant classification (both phenetic
+and cladistic approaches), and generate phenograms and cladograms using small data sets.
+• Explain the principles, methods and application of plant nomenclature (scientific naming of
+plants).
+107
+• Categorize the various types of taxonomic evidence used in plant classification, including the
+correct use of descriptive terminology.
+• Compare and explain the basic methodologies used in plant classification and plant survey
+work, including plant collecting, botanical survey work and the role of various types of herbaria
+and botanical gardens and how they function.
+• Assess and contrast the biomes and major vegetation types of South Africa in terms of
+environmental parameters, structure, function and dominant species, based on a sound
+knowledge of the basic principles of plant ecology, including the behaviour and ecological role
+of fire in grasslands, savannah and fynbos."

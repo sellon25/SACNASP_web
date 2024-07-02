@@ -1,0 +1,260 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="8WkylVvlHPNYx7vubqvAFkshcpO8FcqP2BiPcYTt">
+
+    <title>SACNASP - Scientist Evaluation</title>
+
+    <!-- loader -->
+    <style>
+    .hide {
+    display: none;
+    }
+
+    .spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+    }
+
+    @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+    }
+    </style>
+    <!-- Fonts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.4.1/es5-shim.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.34.1/es6-shim.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500|Open+Sans:400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
+    <!-- Styles -->
+    <link href="https://portal.sacnasp.org.za/css/app.css" rel="stylesheet">
+</head>
+<body>
+    
+
+    <div id="app">
+        <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
+            <div class="container">
+                <a class="navbar-brand" href="https://portal.sacnasp.org.za">
+                    <img src="{% static 'SACNASP_-_LOGO.png' %}" style="height:90px; ">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <!-- Left Side Of Navbar -->
+                                        
+                    <!-- Right Side Of Navbar -->
+                    <ul class="navbar-nav ml-auto">
+                        <!-- Authentication Links -->
+                                                    <li class="nav-item">
+                                <a class="nav-link" href="https://portal.sacnasp.org.za/login">Login</a>
+                            </li>
+                                                            <li class="nav-item">
+                                    <a class="nav-link" href="https://portal.sacnasp.org.za/register">Register</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://portal.sacnasp.org.za/register?student=1">Register as a student</a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </div>
+        </nav>
+
+        <main class="py-4">
+            
+<div class="highlighter-block">
+    <div class="container">
+    <div  class="row justify-content-center">
+        <div class="col-md-12">
+            <h1 class="mb-0 lh-1">Scientist Evaluation</h1>
+                        <p id="results" class="lead">Check if you qualify to become a SACNASP Registered Scientist</p>
+                    </div>
+    </div>
+</div>
+</div>
+
+<div class="container " >
+  <form id="myForm" method="POST">
+    <div id="loadingSpinner" class="hide" >
+        <div class="spinner"></div>
+    </div>
+    <div class="row justify-content-center">
+                <div class="col-md-8">
+            <p>Complete the information below to check if you qualify to become a SACNASP Registered Scientist. Please familiarise yourself with the <a target="_blank" href="https://www.sacnasp.org.za/requirements-for-registration">Requirements for registration</a> to satisfy yourself that it is worth your while to apply.</p>
+        </div>
+      
+            {% csrf_token %}
+       
+                <div class="col-md-8">
+                        <div class="form-group row">
+                            <label for="degree" class="col-md-12 col-form-label">Highest Qualification NQF Level</label>
+                            <div class="col-md-12">
+                                    <select class="form-control" id="degree" name="degree" required autofocus>                                      
+                                                                                <option value="0" ></option>
+                                                                                <option value="1" >NQF 1</option>
+                                                                                <option value="2" >NQF 2</option>
+                                                                                <option value="3" >NQF 3</option>
+                                                                                <option value="4" >NQF 4</option>
+                                                                                <option value="5" >NQF 5</option>
+                                                                                <option value="6" >NQF 6</option>                                                                                
+                                                                                <option value="7" >NQF 7</option>                                                                               
+                                                                                <option value="8" >NQF  8 </option>
+                                                                                <option value="9" >NQF 9  </option>                                                                               
+                                                                                <option value="10" > NQF  10</option>                                                                              
+                                                                                                                                                            
+                                                                            </select>
+
+                            </div>
+                        </div>
+
+                        
+                        <div class="form-group row">
+                            <label for="UniOptions" class="col-md-12 col-form-label">Select University/Institution where Qualification was obtained</label>
+                             <div class="col-md-12">  
+                                                                        
+                                <select class="form-control" id="UniOptions" name="" onloadstart="loadQualifications()" onchange="loadQualifications()">
+                                    <option></option>
+                                    
+                                    {% for name in uniName %}
+                                      {% if name.strip %}
+                                        <option value="{{ forloop.counter0 }}">{{ name.strip }}</option>
+                                      {% endif %}
+                                    {% endfor %}
+                                </select>
+
+                            </div>
+                        </div>
+
+                        
+
+
+                        <div class="form-group row">
+                        <label for="qualifications" class="col-md-12 col-form-label">Qualification name</label>
+                        <div class="col-md-12">                           
+                            <select class="form-control" id="qualifications"  name="qualifications"  >                                
+                                
+                                {% for qualification in availQualifications %}
+                                <option value="{{ forloop.counter0 }}">{{ qualification }}</option>
+                                {% endfor %}
+
+                                                                 
+                                </select>
+
+                        </div>
+                       </div>
+
+                       
+
+
+                       <div class="form-group row">
+                        <label for="Experience" class="col-md-12 col-form-label">Enter number of years completed in related industry experience</label>
+                        <div class="col-md-12">
+                            <select id="experience" class="form-control" name="experience" required autofocus>
+                                <option value="0" >0</option>
+                                <option value="1" >1</option>
+                                <option value="2" >2</option>
+                                <option value="3" >3</option>
+                                <option value="4" >4 </option>
+                                <option value="5" >5 </option>
+                                <option value="6" >6 </option>
+                                <option value="7" >7</option>
+                                <option value="8" >8</option>                                                                               
+                                <option value="9" >9</option>                                                                               
+                                <option value="10">10+</option>                                                                               
+                            </select>
+
+                        </div>
+                       </div>
+
+                       <div class="form-group row">
+                        <label for="industry" class="col-md-12 col-form-label"> Select the field of practice you'd like to apply for</label>
+                        <div class="col-md-12">
+                                <select class="form-control" name="industry" required autofocus>                                      
+                                                                            <option value="0" ></option>
+                                                                            <option value="1" >Agricultural Science</option>
+                                                                            <option value="2" >Animal Science</option>
+                                                                            <option value="3" >Aquatic Science</option>
+                                                                            <option value="4" >Atmospheric Science</option>
+                                                                            <option value="5" >Biological Science  </option>
+                                                                            <option value="5" >Botanical Science</option>
+                                                                            <option value="6" >Chemical Science  </option>
+                                                                            <option value="7" >Ecological Science</option>                                                                                
+                                                                            <option value="8" >Environmental Science</option>                                                                                
+                                                                            <option value="9" >Extension Science</option>                                                                                
+                                                                            <option value="10" >Geological Science</option>                                                                                
+                                                                            <option value="11" >Geospatial Science</option>                                                                                
+                                                                            <option value="12" >Materials Science</option>                                                                                
+                                                                            <option value="13" >Mathematical Science</option>                                                                                
+                                                                            <option value="14" >Microbiological Science</option>                                                                                
+                                                                            <option value="15" >Soil Science</option>                                                                                
+                                                                            <option value="16" >Specified Science</option>                                                                                
+                                                                            <option value="18" >Water Resources Science</option>                                                                                
+                                                                            <option value="19" >Zoological Science</option>                                                                                
+                                                                            <option value="20" >Measurement Science</option>                                                                                
+                                                                            <option value="21" >Physical Science</option>                                                                                
+                                                                            <option value="22" >Hydrological Science</option>                                                                                
+                                                                            <option value="23" >Toxicological Science</option>                                                                                
+                                                                            <option value="24">Earth Science</option>                                                                               
+                                                                            <option value="30">Other</option>                                                                               
+                                                                        </select>
+
+                        </div>
+                    </div>
+                     
+
+
+                       
+                        <div class="form-group mb-5">
+                            <label class="d-flex align-items-center">
+                                <input type="checkbox" name="popi" value="true">
+                                <p class="flex-grow px-3 m-0">
+                                    I accept the terms and conditions as presented in the
+                                    <a href="https://www.sacnasp.org.za/uploads/files/SACNASP-POPI-Policy-approved-signed.pdf" target="_blank">
+                                    POPI policy
+                                    </a>
+                                </p>
+                            </label>
+                       </div>
+
+                        
+                        <div class="form-group row mb-0">
+                            <div class="col-md-12 text-center">
+                                <button onclick="submitForm()"  id="submitButton" type="submit" class="btn btn-primary btn-lg text-uppercase font-weight-bold px-5 py-3 rounded-pill">
+                                    Submit
+                                </button>
+                            </div>
+                        </div>
+
+                
+                
+        </div>
+       
+   </form>
+    </div>
+</div>
+        </main>
+    </div>
+    <script>
+        window.current_user = null;
+
+        
+        window.api_token = '';
+        window.api_path = 'https://api.sacnasp.org.za/api/';
+
+                    </script>
+    <script src="https://portal.sacnasp.org.za/js/app.js?time=1684247036"></script>
+    <script src='static/script.js'></script>
+</body>
+</html>

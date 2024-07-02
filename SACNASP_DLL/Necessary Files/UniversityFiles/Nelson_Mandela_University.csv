@@ -1,0 +1,433 @@
+﻿University ;Faculty ;Qualifications;Year;Modules;Module Code;SAQA credits;Description 
+Nelson Madela ;Science ;BACHELOR OF SCIENCE;1;Plant Cell Biology; BOTV101;7;null
+null;null;null;1;Plant Structure;BOTV111;8;null
+null;null;null;1;Chemistry General;CHGV101;15;null
+null;null;null;1;Chemistry Inorganic;CHIV100;9;null
+null;null;null;1;Chemistry Organic;CHOV102;6;null
+null;null;null;1;Mathematics Special 101;MATS101;8;null
+null;null;null;1;Mathematics Special 101;MATS102;8;null
+null;null;null;1;Mechanics and Thermodynamics;FBBV101;7;null
+null;null;null;1;Electricity, Optics and Atomics;FBBV102;7;null
+null;null;null;1;Introduction to Economic and Settlement Geography;GEOV101;7;null
+null;null;null;1;Introduction to Meteorology and Climatology;GENV101;8;null
+null;null;null;1;Introduction to Geomorphology;GENV102;8;null
+null;null;null;1;"Introduction to Geo-Information Science and 
+Cartography";GISV102;8;null
+null;null;null;2;Introduction to Earth; GGLV101;7;null
+null;null;null;2;Mineralogy and Petrology;GGLV111;8;null
+null;null;null;2;Physical Geology; GGLV102;7;null
+null;null;null;2;Structural and Economic Geology;GGLV112;8;null
+null;null;null;2;Mathematics 1A;MATT101;16;null
+null;null;null;2;Mathematics 1b;MATT102;16;null
+null;null;null;2;Graph Theory;MAPV101;8;null
+null;null;null;2;Mathematical Modelling;MAPV111;8;null
+null;null;null;2;Mechanics;MAPV102;8;null
+null;null;null;2;Numerical Methods I;MAPV112;8;null
+null;null;null;2;Programming Fundamentals;WRAV101;8;null
+null;null;null;2;Computing Fundamentals;WRFV101;8;null
+null;null;null;2;Animal Cell Biology and Histology;ZOOV101;7;null
+null;null;null;2;Animal Diversity;ZOOV111;8;null
+null;null;null;2;Principles of Animal Evolution;ZOOV102;8;null
+null;null;null;3;Principles of Animal Evolution;ZOOV112;7;null
+null;null;null;3;Plant and Algal Systematics;BOTV201;8;null
+null;null;null;3;Plant Ecology;BOTV211;8;null
+null;null;null;3;Marine Botany;BOTV202;8;null
+null;null;null;3;Economic Botany and Plant Biotechnology;BOTV212;8;null
+null;null;null;3;Introductory Biochemistry and Genetics; BCV201;20;null
+null;null;null;3;Metabolism;BCV202;20;null
+null;null;null;3;Introductory Microbiology and Control of ;BMV201;20;null
+null;null;null;3;Medical Microbiology;BMV202;null;null
+null;null;null;3;Chemistry Analytical;Chemistry Analytical;9;null
+null;null;null;3;Chemistry Physical;CHPV200;12;null
+null;null;null;3;Data Structures and Algorithms;WRAV201;8;null
+null;null;null;3;Computer Architecture;WRCV201;6;null
+null;null;null;3;nformation Systems;WRIV201;6;null
+null;null;null;3;Web Systems ;Web Systems ;8;null
+null;null;null;3;Pedo-Geomorphological Studies;GENV201;10;null
+null;null;null;null;Economic and Development Geography;GEOV211;10;null
+null;null;null;3;ntroduction to Cartography and GIS;GISV201;10;null
+null;null;null;3;Sedimentary Petrology;GGLV212;10;null
+null;null;null;3;Multivariable and Vector Calculus;MATT201;10;null
+null;null;null;3;Linear Algebra; MATT212;10;null
+null;null;null;3;Real Analysis;MATT202;10;null
+null;null;null;3;Differential Equations;MAPV201;10;null
+null;null;null;3;Numerical Methods 2;MAPV211;10;null
+null;null;null;3;Linear Optimisation;MAPV222;10;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null; ;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF SCIENCE 
+(BIOCHEMISTRY, CHEMISTRY, MICROBIOLOGY) 
+(EXTENDED)";1;Science Academic Skills ;ALMX100;10;null
+null;null;null;1; English for Science I;LEAX100;10;null
+null;null;null;1;Pre-calculus A ;MAPX101;10;null
+null;null;null;1;Pre-calculus B;MAPX102;10;null
+null;null;null;1;Plant Cell Biology - Extended;BOTX101;7;null
+null;null;null;1;Plant Structure - Extended;BOTX111;8;null
+null;null;null;1;Plant Evolution and Systematics - Extended;BOTX102;7;null
+null;null;null;1;"Plant Ecology and Environmental Botany -
+Extended";"Plant Ecology and Environmental Botany -
+Extended";8;null
+null;null;null;1;Animal Cell Biology and Histology - Extended;ZOOX101;7;null
+null;null;null;1;Animal Diversity - Extended;ZOOX111 ;8;null
+null;null;null;1;Principles of Animal Evolution - Extended;ZOOX102;8;null
+null;null;null;1;Animal Patterns in Time and Space - Extended;ZOOX112;7;null
+null;null;null;2;Science Academic Skills II ;null;ALMX110;null
+null;null;null;2;English for Science II;LEAX110;5;null
+null;null;null;2;Mathematics Special 101 - Extended;MATX101;8;null
+null;null;null;2;Mathematics Special 102 - Extended;MATX102;8;null
+null;null;null;2;General Chemistry - Extended;CHGX101;15;null
+null;null;null;2;Inorganic Chemistry - Extended;CHIX102;9;null
+null;null;null;2;Organic Chemistry - Extended;CHOX102;6;null
+null;null;null;2;Mechanics and Thermodynamics - Extended;FBBX101;7;null
+null;null;null;2;Electricity, Optics and Atomics - Extended;FBBX102;7;null
+null;null;null;2;Computing Fundamentals 1.1 - Extended;WRFX101;8;null
+null;null;null;3;Introductory Biochemistry and Genetics ;BCV201;20;null
+null;null;null;3;BCV201;BCV202;20;null
+null;null;null;3;Plant and Algal Systematics;BOTV201;8;null
+null;null;null;3;Plant Ecology;BOTV211;8;null
+null;null;null;3;Marine Botany;BOTV202;8;null
+null;null;null;3;Economic Botany and Plant Biotechnology ;BOTV202;8;null
+null;null;null;3;Chemistry Analytical ;CHAV201;9;null
+null;null;null;3;Chemistry Inorganic;Chemistry Inorganic;7;null
+null;null;null;3;Chemistry Inorganic;Chemistry Inorganic;12;null
+null;null;null;3;Chemistry Physical ;CHPV200;12;null
+null;null;null;3;Introductory Microbiology and Control of Microorganis;BMV201;20;null
+null;null;null;3;Medical Microbiology;BMV202;20;null
+null;null;null;3;"Principles of Human Physiology and Control 
+Systems ";BSPD211;20;null
+null;null;null;3;Human Systemic Physiology;BSPD212;20;null
+null;null;null;3;Comparative Vertebrate Anatomy;ZOOV201;10;null
+null;null;null;3;Animal Physiology;ZOOV211;10;null
+null;null;null;3;Population Ecology ;ZOOV202;10;null
+null;null;null;3;Community Ecology;ZOOV212;10;null
+null;null;null;4;Advanced Protein Technology ;BCV301;30;null
+null;null;null;4;Integrated Biochemistry ;BCV302;30;null
+null;null;null;4;"Bacteriology, Microbial Ecology, Virology and 
+Mycology";BMV301;30;null
+null;null;null;4;"Gene Manipulation, Industrial Microbiology and 
+Biotechnology ";BMV302;30;null
+null;null;null;4;Chemistry Inorganic ;CHIV300;20;null
+null;null;null;4;Chemistry Organic;CHOV300;20;null
+null;null;null;4;Chemistry Physical ;CHPV300 ;20;null
+null;null;null;4;Integrated Human Physiology I;BSPD301;30;null
+null;null;null;4;Integrated Human Physiology II ;BSPD302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF SCIENCE
+(BIOLOGICAL SCIENCES)";1;Plant Cell Biology;BOTV101;7;null
+null;null;null;1;BOTV101;BOTV111;8;null
+null;null;null;1;Plant Evolution and Systematics;BOTV102;7;null
+null;null;null;1;Plant Ecology and Environmental Botany;BOTV112;8;null
+null;null;null;1;Computing Fundamentals;WRFV101;8;null
+null;null;null;1;Animal Cell Biology and Histology;ZOOV101;7;null
+null;null;null;1;Animal Diversity;ZOOV111;8;null
+null;null;null;1;Animal Patterns in Time and Space;ZOOV112;7;null
+null;null;null;1;Principles of Animal Evolution;ZOOV102;8;null
+null;null;null;1;"Introduction to Economic and Settlement 
+Geography";GEOV101;8;null
+null;null;null;1;Introduction to Meteorology and Climatology;GENV101;8;null
+null;null;null;1;Introduction to Geomorphology;GENV102;8;null
+null;null;null;1;"Introduction to Geo-Information Science and 
+Cartography";GISV102;8;null
+null;null;null;1;Introduction to Earth;GGLV101;7;null
+null;null;null;1;Mineralogy and Petrology;GGLV111;8;null
+null;null;null;1;Physical Geology ;GGLV102;7;null
+null;null;null;1;Structural and Economic Geology ;GGLV112 ;8;null
+null;null;null;1;Chemistry General;CHGV101;15;null
+null;null;null;1;Chemistry Inorganic;CHIV100;9;null
+null;null;null;1;Chemistry Organic;CHOV102;6;null
+null;null;null;1;Mathematics Special;MATS101;8;null
+null;null;null;1;Mathematics Special;MATS102;8;null
+null;null;null;1;Mechanics and Thermodynamics;FBBV101;7;null
+null;null;null;1;Electricity, Optics and Atomics;FBBV102;7;null
+null;null;null;2;Plant and Algal Systematics;BOTV201;8;null
+null;null;null;2;Plant Ecology;BOTV211;8;null
+null;null;null;2;Marine Botany;BOTV202;8;null
+null;null;null;2;Economic Botany and Plant Biotechnology;BOTV212;8;null
+null;null;null;2;Comparative Vertebrate Anatomy;ZOOV201;10;null
+null;null;null;2;Animal Physiology;ZOOV211;10;null
+null;null;null;2;Population Ecology;ZOOV202 ;10;null
+null;null;null;2;Community Ecology;ZOOV212;10;null
+null;null;null;2;Pedo-Geomorphological Studies;GENV201;10;null
+null;null;null;2;Society and Environment;GENV212;10;null
+null;null;null;2;Economic and Development Geography;GEOV211;10;null
+null;null;null;2;Introduction to Cartography and GIS;GISV201;10;null
+null;null;null;2;Palaeontology;GGLV201;null;null
+null;null;null;2;Structural Geology;GGLV211;10;null
+null;null;null;2;Mineralogy ; GGLV202;10;null
+null;null;null;2;Sedimentary Petrology;GGLV212;10;null
+null;null;null;3;Applied Marine Botany;BOTV301;12;null
+null;null;null;3;Plant Physiology;BOTV311;12;null
+null;null;null;3;Plant Eco-physiology;BOTV302;12;null
+null;null;null;3;Plant Ecology and Environmental Management;BOTV310;12;null
+null;null;null;3;Aquatic Ecology;ZOOV301;15;null
+null;null;null;3;integrating Topics in Zoology;ZOOV311;15;null
+null;null;null;3;Applied Aquatic Science;ZOOV302;15;null
+null;null;null;3;Evolutionary Ecolog;ZOOV312;15;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF SCIENCE 
+(COMPUTER SCIENCE)";null;null;null;null;null
+null;null;null;1;Mathematics 1A;MATT101;16;null
+null;null;null;1;Mathematics 1b;MATT102;16;null
+null;null;null;1;Graph Theory;MAPV101;8;null
+null;null;null;1;Mathematical Modelling;MAPV111;8;null
+null;null;null;1;Numerical Methods I;MAPV112;8;null
+null;null;null;1;Programming Fundamentals 1.1;WRAV101;8;null
+null;null;null;1;Programming Fundamentals 1.2;WRAV102;8;null
+null;null;null;1;Computing Fundamentals for Scientists 1.1;WRSC111;8;null
+null;null;null;1;Computing Fundamentals 1.2 ;WRFV102;8;null
+null;null;null;1;Probability and Distribution Theory;STAS101;15;null
+null;null;null;1;introduction to Statistical Inference; STAS102;15;null
+null;null;null;2;Data Structures and Algorithms 2.1;WRAV201;8;null
+null;null;null;2;Data Structures and Algorithms 2.2;WRAV202;8;null
+null;null;null;2;Computer Architecture 2.1;WRCV201;6;null
+null;null;null;2;Computer Architecture 2.1;WRCV202;6;null
+null;null;null;2;Information Systems 2.1; WRIV201;6;null
+null;null;null;2;Information Systems 2.2;WRIV202;6;null
+null;null;null;2;Web Systems 2.1;WRWV201;8;null
+null;null;null;2;Web Systems 2.1;WRWV202;8;null
+null;null;null;2;Differential Equations; MAPV201;10;null
+null;null;null;2;Numerical Methods 2;MAPV211;10;null
+null;null;null;2;Transform Theory;MAPV202;10;null
+null;null;null;2;Linear Optimisation;MAPV222;10;null
+null;null;null;2;Multivariable and Vector Calculus;MATT201;20;null
+null;null;null;2;Linear Algebra;MATT212;10;null
+null;null;null;2;Real Analysis;MATT202;10;null
+null;null;null;2;Optics, AC Theory and Thermodynamics;FVV201;20;null
+null;null;null;2;Mechanics, Modern and Nuclear Physics;FVV202;20;null
+null;null;null;2;Theory of Distribution;STAS201;20;null
+null;null;null;2;Regression Analysis and Advanced Regression Topics;STAS202;20;null
+null;null;null;3;Advanced Programming 3.1;WRPV301;10;null
+null;null;null;3;Advanced Programming 3.2;WRPV302;10;null
+null;null;null;3;Advanced Data Structures;WRAV301;10;null
+null;null;null;3;Languages and Automata Theory;WRLV302;10;null
+null;null;null;3;Database Systems 3;WRDV301;7;null
+null;null;null;3;User Interface Design;WUIV302;7;null
+null;null;null;3;Multimedia Systems 3.1;WRMV301;10;null
+null;null;null;3;Multimedia Systems 3.2;WRMV302;10;null
+null;null;null;3;Real Analysis;MATT301;15;null
+null;null;null;3;Advanced Linear Algebra;MATT311;15;null
+null;null;null;3;Modern Algebra;MATT302;15;null
+null;null;null;3;Complex Functions;MATT312;15;null
+null;null;null;3;Electrodynamics and Quantum Mechanics;FVV301;30;null
+null;null;null;3;Crystallography and Solid-State Physics;FVV302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF SCIENCE 
+(GEOSCIENCES: GEOGRAPHY AND GEOLOGY)";null;null;null;null;null
+null;null;null;1;Computing Fundamentals;WRFV101;8;null
+null;null;null;1;"Introduction to Economic and Settlement 
+Geography";GEOV101;7;null
+null;null;null;1;Introduction to Meteorology and Climatology;GENV101;8;null
+null;null;null;1;ntroduction to Geomorphology;GENV102;8;null
+null;null;null;1;"Introduction to Geo-Information Science and 
+Cartography";GISV102;8;null
+null;null;null;1;Introduction to Earth;GGLV101;8;null
+null;null;null;1;Mineralogy and Petrology;GGLV111;8;null
+null;null;null;1;Physical Geology;GGLV102;7;null
+null;null;null;1;Structural and Economic Geology;GGLV112;8;null
+null;null;null;1;Chemistry General;CHGV101;15;null
+null;null;null;1;Chemistry Inorganic;CHIV100;9;null
+null;null;null;1;Chemistry Organic;CHIV102;6;null
+null;null;null;1;Mathematics Special 101;MATS101;8;null
+null;null;null;1;Mathematics Special 102;MATS102;8;null
+null;null;null;1;Mechanics and Thermodynamics;FBBV101;7;null
+null;null;null;1;Electricity, Optics and Atomics;FBBV102;7;null
+null;null;null;1;Plant Cell Biology;BOTV101;7;null
+null;null;null;1;Plant Structure;BOTV111;8;null
+null;null;null;1;Plant Evolution and Systematics;BOTV102;7;null
+null;null;null;1;Plant Ecology and Environmental Botany ;BOTV112;8;null
+null;null;null;1;Animal Cell Biology and Histology;ZOOV101;7;null
+null;null;null;1;Animal Diversity;ZOOV111;8;null
+null;null;null;1;Principles of Animal Evolution;ZOOV102;8;null
+null;null;null;1;Animal Patterns in Time and Space;ZOOV112;7;null
+null;null;null;2;Pedo-Geomorphological Studies;GENV201;10;null
+null;null;null;2;Society and Environment;GENV212;10;null
+null;null;null;2;Economic and Development Geography;GEOV211;10;null
+null;null;null;2;ntroduction to Cartography and GIS;GISV201;10;null
+null;null;null;2;Palaeontology;GGLV201;10;null
+null;null;null;2;Structural Geology;GGLV211;10;null
+null;null;null;2;Mineralogy and Petrology;GGLV202;10;null
+null;null;null;2;Sedimentary Petrology;GGLV212;10;null
+null;null;null;2;Plant and Algal Systematics;BOTV201;8;null
+null;null;null;2;Plant Ecology;BOTV211;8;null
+null;null;null;2;Marine Botany;BOTV212;8;null
+null;null;null;2;Economic Botany and Plant Biotechnology;BOTV210;8;null
+null;null;null;2;Comparative Vertebrate Anatomy;ZOOV201;10;null
+null;null;null;2;Animal Physiology;ZOOV211;10;null
+null;null;null;2;Population Ecology;ZOOV202;10;null
+null;null;null;2;Community Ecology;ZOOV212;10;null
+null;null;null;3;Geo-Information Systems;GISV301;15;null
+null;null;null;3;Geomorphology;GISV301;15;null
+null;null;null;3;Environmental Resource Management;GENV312 ;15;null
+null;null;null;3;Photogrammetry and Remote Sensing;GISV302;15;null
+null;null;null;3;Igneous Petrology;GGLV301;15;null
+null;null;null;3;Stratigraphy;GGLV311;15;null
+null;null;null;3;Geotectonics and Metamorphic Petrology;GGLV302;15;null
+null;null;null;3;Economic Geology;GGLV312;15;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF SCIENCE 
+(HUMAN MOVEMENT SCIENCE AND BIOCHEMISTRY)";1;Chemistry General;CHGV101;15;null
+null;null;null;1;Chemistry Inorganic;CHIV100;9;null
+null;null;null;1;Chemistry Organic;CHOV102;6;null
+null;null;null;1;Computing Fundamentals 1.1;WRFV101;8;null
+null;null;null;1;Coaching Science I;HMSV10;8;null
+null;null;null;1;Anatomy;HMSV112;8;null
+null;null;null;1;Sport and Exercise Psychology;HMSV141;8;null
+null;null;null;1;Motor Control and Learning I;HMSV152;8;null
+null;null;null;1;Exercise Science I;HMSV161;8;null
+null;null;null;1;Sport Management I;HMSV171;8;null
+null;null;null;1;Recreation I;HMSV182;8;null
+null;null;null;1;Evaluation Methods I;HMSV192;8;null
+null;null;null;1;Mathematics Special 101;MATS101;8;null
+null;null;null;1;Mathematics Special 102;MATS102;8;null
+null;null;null;1;Aquatics;HMSV153;10;null
+null;null;null;1;Athletics;HMSV154;10;null
+null;null;null;1;Implement Sports;HMSV155;10;null
+null;null;null;1;Team Sports;HMSV156;10;null
+null;null;null;2;Introductory Biochemistry and Genetics;BCV201;20;null
+null;null;null;2;Metabolism;BCV202;20;null
+null;null;null;2;"Principles of Human Physiology and Control 
+Systems";BSPD211;20;null
+null;null;null;2;Human Systemic Physiology;BSPD212;20;null
+null;null;null;2;Biomechanics I;HMSV122;8;null
+null;null;null;2;Exercise Physiology ;HMSV312;8;null
+null;null;null;2;Exercise Science II;HMSV261;8;null
+null;null;null;2;Exercise Science Practice Specialisation;HMSV390;8;null
+null;null;null;2;Coaching Science Specialisation;HMSV300;8;null
+null;null;null;2;Exercise Science Practice Specialisation ;HMSV390;16;null
+null;null;null;2;Coaching Science Specialisation;HMSV300;20;null
+null;null;null;3;Advanced Protein Technology;BCV301;30;null
+null;null;null;3;Integrated Biochemistry;BCV302;30;null
+null;null;null;3;Integrated Human Physiology I;BSPD301;30;null
+null;null;null;3;First Aid ;HMSV140;8;null
+null;null;null;3;Exercise Physiology II;HMSV331;8;null
+null;null;null;3;Sport and Exercise Psychology II;HMSV341;8;null
+null;null;null;3;Motor Control and Learning II;HMSV352;8;null
+null;null;null;3;Biomechanics II;HMSV322;8;null
+null;null;null;3;Evaluation Methods II;HMSV392;8;null
+null;null;null;3;Human Growth and Development;HMSV302;8;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF SCIENCE 
+(INFORMATION SYSTEMS)";1;Computing Fundamentals 1.1;WRFV101;8;null
+null;null;null;1;Computing Fundamentals for Scientists ;WRSC111 ;8;null
+null;null;null;1;Mathematics Special A1;MATS101;8;null
+null;null;null;1;Mathematics Special A2;MATS102;8;null
+null;null;null;1;Financial Mathematics;STAV101;12;null
+null;null;null;1;Business Statistics;STAV102;12;null
+null;null;null;1;"Introduction to Business Management and 
+Entrepreneurship";"Introduction to Business Management and 
+Entrepreneurship";12;null
+null;null;null;1;Graph Theory;MAPV101;8;null
+null;null;null;1;Mathematical Modelling;MAPV111;8;null
+null;null;null;1;Introduction to Business Functions;EB122;12;null
+null;null;null;1;Introduction to Microeconomics;ECC101;12;null
+null;null;null;1;Introduction to Macroeconomics;ECC102;12;null
+null;null;null;1;Accounting 1A;R101;10;null
+null;null;null;1;Accounting 1B;R102;14;null
+null;null;null;2;Data Structures and Algorithms ;WRAV201;8;null
+null;null;null;2;Computer Architecture Networks ;WRCV201;8;null
+null;null;null;2;Business Systems II;WRBV202;6;null
+null;null;null;2;information Systems ;WRIV201;6;null
+null;null;null;2;Web Systems 2.1;WRWV201;8;null
+null;null;null;2;Web Systems 2.2;WRWV202;8;null
+null;null;null;2;Mathematics Special B1;MATB111;8;null
+null;null;null;2;Mathematics Special B2;MATB112;8;null
+null;null;null;2;Business Process Modelling;WRBP211;6;null
+null;null;null;2;Computer Architecture and Networks 2.2;WRCV202;6;null
+null;null;null;2;Probability, Distributors Theory and Estimation;STAS211;20;null
+null;null;null;2;"Regression Analysis and Advanced Regression 
+Topics";STAS202;20;null
+null;null;null;2;Accounting 2A;RV201;14;null
+null;null;null;2;Accounting 2B;RV202;14;null
+null;null;null;2;Marketing Management;EBMV201;14;null
+null;null;null;2;Logistics/Purchasing Management;EBMV202;14;null
+null;null;null;2;Macroeconomics;ECC201;14;null
+null;null;null;2;Microeconomics;ECC202;14;null
+null;null;null;3;Advanced Programming 3.1;WRPV301;10;null
+null;null;null;3;Database Systems;WRDV301;7;null
+null;null;null;3;User Interface Design;WUIV302;7;null
+null;null;null;3;Multimedia Systems 3.1;WRMV301;10;null
+null;null;null;3;Multimedia Systems 3.2;WRMV302;null;null
+null;null;null;3;Language and Automata Theory;WRLV302;10;null
+null;null;null;3;Enterprise Resource Planning Systems 3.1;WREV301;11;null
+null;null;null;3;Enterprise Systems Developmen;WREV312;11;null
+null;null;null;3;Non-Parametric Statistical Procedures;STAS311;10;null
+null;null;null;3;Special Topics in Statistics;STAS321;6;null
+null;null;null;3;Econometric Models;STAS331;14;null
+null;null;null;3;Experimental Design and ANOVA;STAS302;10;null
+null;null;null;3;Time Series Analysis;STAS312;10;null
+null;null;null;3;Operations Research;STAS342;10;null
+null;null;null;3;Financial Management;EBMV301;24;null
+null;null;null;3;General and Strategic Management;EBMV302;24;null
+null;null;null;3;Public Economics;ECC301;10;null
+null;null;null;3;Public Economics;ECC311;10;null
+null;null;null;3;Econometrics;ECC321;10;null
+null;null;null;3;Development Economics;ECC302;10;null
+null;null;null;3;International Economics;ECC312;10;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF SCIENCE 
+(PHYSICAL SCIENCE AND MATHEMATICS)";null;Chemistry General;CHGV101;15;null
+null;null;null;1;Chemistry Inorganic;CHIV100;9;null
+null;null;null;1;Chemistry Organic;CHOV102;6;null
+null;null;null;1;Programming Fundamentals;WRAV101;8;null
+null;null;null;1;Computer Fundamentals;WRFV102;8;null
+null;null;null;1;Computing Fundamentals 1.1;WRFV101 ;8;null
+null;null;null;1;Mathematics 1A;MATT101;16;null
+null;null;null;1;Mathematics 1B;MATT102;16;null
+null;null;null;1;Mechanics and Thermo-dynamics;FVV101;15;null
+null;null;null;1;Electricity, Magnetism and Optics;FVV102;15;null
+null;null;null;null;Chemistry Analytica;CHAV201;9;null
+null;null;null;2;Chemistry Inorganic;CHIV201;7;null
+null;null;null;2;Chemistry Organic;CHOV202;12;null
+null;null;null;2;Multivariable and Vector Calculus;MATT201;20;null
+null;null;null;2;Real Analysis;MATT201;10;null
+null;null;null;2;Linear Algebra;MATT212;10;null
+null;null;null;2;Optic, AC Theory and Thermodynamics;FVV201;20;null
+null;null;null;2;Mechanics, Modern & Nuclear Physics;FVV202;20;null
+null;null;null;3;Chemistry Inorganic;CHIV300;20;null
+null;null;null;3;Chemistry Organic;CHOV300;20;null
+null;null;null;3;Chemistry Physical;CHPV300;20;null
+null;null;null;3;Advanced Real Analysis;MATT301;15;null
+null;null;null;3;Advanced Linear Algebra;MATT311;15;null
+null;null;null;3;Modern Algebra;MATT302;15;null
+null;null;null;3;Complex Functions;MATT312;15;null
+null;null;null;3;Electrodynamics and Quantum Mechanics;FVV301;30;null
+null;null;null;3;Crystallography and Solid-State Physics;FVV302;30;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF TECHNOLOGY 
+(AGRICULTURAL MANAGEMENT)";1;Financial Management Agriculture IV;SFB4110;30;null
+null;null;null;1;Strategic Management IV;SLD2110;30;null
+null;null;null;1;Leadership Development II;SSB4110;30;null
+null;null;null;1;Animal Production IV;SAP4110;30;null
+null;null;null;1;Plant Production IV;SPP4110;30;null
+null;null;null;2;Animal Production IV (Option) ;AAP4110;30;null
+null;null;null;2;Plant Production IV (Option) ;APP4110;30;null
+null;null;null;2;Leadership development II;ALD2110;30;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF TECHNOLOGY 
+(GAME RANCH MANAGEMENT)";1;Research Methodology ;GMR4410;12;null
+null;null;null;1;Game Ranch Management IV ;GRM4410;36;null
+null;null;null;1;Game Science IV;GRS4410;36;null
+null;null;null;1;Game Ranch Economics IV ;GER4410;18;null
+null;null;null;1;Game Ranch Economics IV ;GSM4410;18;null
+null;null;null;null;null;null;null;null
+null;null;"BACHELOR OF TECHNOLOGY 
+(NATURE CONSERVATION)";null;null;null;null;null
+null;null;null;null;Conservation Management I;NCM1110;12;null
+null;null;null;null;Resource Management IV;NRS4110;12;null
+null;null;null;null;Plant Studies IV;NPS4110 ;36;null
+null;null;null;null;Financial Management I;NFB1110;36;null
+null;null;null;null;Environmental Education I;NEE1110;36;null
+null;null;null;null;Fresh Water Management IV;NFW4110;12;null
+null;null;null;null;Coastal and Marine Management;NMC1110;12;null
+null;null;null;null;Principles of Management;NMP1110;12;null

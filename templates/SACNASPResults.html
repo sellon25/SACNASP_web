@@ -1,0 +1,92 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="8WkylVvlHPNYx7vubqvAFkshcpO8FcqP2BiPcYTt">
+
+    <title>SACNASP - Scientist Evaluation Results</title>
+
+    <!-- Scripts -->
+
+    <!-- Fonts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.4.1/es5-shim.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.34.1/es6-shim.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500|Open+Sans:400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
+    <!-- Styles -->
+    <link href="https://portal.sacnasp.org.za/css/app.css" rel="stylesheet">
+</head>
+<body>
+    
+
+    <div id="app">
+        <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
+            <div class="container">
+                <a class="navbar-brand" href="https://portal.sacnasp.org.za">
+                    <img src="{% static 'SACNASP_-_LOGO.png' %}" style="height:90px; ">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <!-- Left Side Of Navbar -->
+                                        
+                    <!-- Right Side Of Navbar -->
+                    <ul class="navbar-nav ml-auto">
+                        <!-- Authentication Links -->
+                                                    <li class="nav-item">
+                                <a class="nav-link" href="https://portal.sacnasp.org.za/login">Login</a>
+                            </li>
+                                                            <li class="nav-item">
+                                    <a class="nav-link" href="https://portal.sacnasp.org.za/register">Register</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://portal.sacnasp.org.za/register?student=1">Register as a student</a>
+                                </li>
+                                                                        </ul>
+                </div>
+            </div>
+        </nav>
+
+        <main class="py-4">
+            
+<div class="highlighter-block">
+    <div class="container">
+    <div  class="row justify-content-center">
+        <div class="col-md-12">
+            <h1 class="mb-0 lh-1">Scientist Evaluation</h1>
+                        <p id="results" onclick="" class="lead">{{result}}</p>
+                    </div>
+    </div>
+</div>
+</div>
+
+
+                        
+                        
+
+
+                    </form>
+                </register>
+        </div>
+    </div>
+</div>
+        </main>
+    </div>
+    <script>
+        window.current_user = null;
+
+        
+        window.api_token = '';
+        window.api_path = 'https://api.sacnasp.org.za/api/';
+
+                    </script>
+    <script src="https://portal.sacnasp.org.za/js/app.js?time=1684247036"></script>
+    <script src='static/script.js'></script>
+</body>
+</html>

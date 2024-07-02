@@ -1,0 +1,110 @@
+﻿University;Faculty;Qualification;Year;Module ;Module Code;SAQA Credits;Description
+Rhodes University;Science;Bachelor of Science;null;null;null;null;null
+null;null;null;2;Biochemistry 201;5004201;20;null
+null;null;null;2;Biochemistry 202;5004202;20;null
+null;null;null;3;Biochemistry 301 ;5004301;30;null
+null;null;null;3;Biochemistry 302;5004302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;2;Microbiology 201;5601201;20;null
+null;null;null;2;Microbiology 202;5601202;20;null
+null;null;null;3;Microbiology 301;5601301;30;null
+null;null;null;3;Microbiology 302;5601302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Botany 102;6002102;15;null
+null;null;null;2;Botany 201;6002201;20;null
+null;null;null;2;Botany 202;6002202;20;null
+null;null;null;3;Botany 301;6002301;30;null
+null;null;null;3;Botany 302;6002302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Chemistry 101;5001101;15;null
+null;null;null;1;Chemistry 102;5001102;15;null
+null;null;null;1;Chemistry 1R1;50011R1;15;null
+null;null;null;1;Chemistry 1R2;50011R2;15;null
+null;null;null;2;Chemistry 201;5001201;20;null
+null;null;null;2;Chemistry 202;5001202;20;null
+null;null;null;3;Chemistry 301;5001301;30;null
+null;null;null;3;Chemistry 302;5001302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Introduction to ICT;510101;15;null
+null;null;null;1;Problem solving with computers;5101112;15;null
+null;null;null;1;Computer Science 101;51011P3;15;null
+null;null;null;1;Computer Science 102;51011P4;15;null
+null;null;null;2;Computer Science 201;5101201;20;null
+null;null;null;2;Computer Sciemce 202;5101202;20;null
+null;null;null;3;Computer Science 301;5101301;30;null
+null;null;null;3;Computer Science 302;5101302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;2;Environmental Science 201;2602201;20;null
+null;null;null;2;Environmental Science 202;2602202;20;null
+null;null;null;3;Environmental Science 301;2602301;30;null
+null;null;null;3;Environmental Science 302;2602302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Earth Science 101;27011G1;15;null
+null;null;null;1;Geography 102;2601102;15;null
+null;null;null;2;Geography 201;2601201;20;null
+null;null;null;2;Geography 202;2601202;20;null
+null;null;null;3;Geography 301;2601301;30;null
+null;null;null;3;Geography 302;2601302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Geology 102;5201102;15;null
+null;null;null;2;Geology 201;5201201;20;null
+null;null;null;2;Geology 202;5201202;20;null
+null;null;null;3;Geology 301;5201301;30;null
+null;null;null;3;Geology 302;5201302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Human Kinetics and Ergonomics 101;2207101;15;null
+null;null;null;1;Human Kinetics and Ergonomics 102;2207102;15;null
+null;null;null;2;Human Kinetics and Ergonomics 201;2207201;20;null
+null;null;null;2;Human Kinetics and Ergonomics 202;2207202;20;null
+null;null;null;3;Human Kinetics and Ergonomics 301;2207301;30;null
+null;null;null;3;Human Kinetics and Ergonomics 302;2207302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;2;Ichthylogy 201;6201201;20;null
+null;null;null;2;Ichthylogy 202;6201202;20;null
+null;null;null;3;Ichthylogy 301;6201301;30;null
+null;null;null;3;Ichthylogy 302;6201302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Theory of Finance Foundation;54011TO;15;null
+null;null;null;1;Theory of Finance for Commerce;54010Z0;15;null
+null;null;null;1;Mathematics for Science;540101S;15;null
+null;null;null;1;Mathematics Foundation;540101L1;15;null
+null;null;null;1;Mathematics 101;540101A;15;null
+null;null;null;1;Mathematics  102;540101B;15;null
+null;null;null;2;Mathematics and Applied mathematics 201;5401203;20;null
+null;null;null;2;Mathematics and Applied mathematics 202;5401204;20;null
+null;null;null;3;Mathematics 311 Algebra;5401311;18;null
+null;null;null;3;Mathematics 311 Real Analysis;5401313;18;null
+null;null;null;3;Mathematics 311 Topics in Mathematics;5401315;18;null
+null;null;null;3;Mathematics MAM 311 Complex Analysis;5401316;18;null
+null;null;null;3;Applied Mathematics 311 Numerical Analysis ;5411311;18;null
+null;null;null;3;Applied Mathematics 311 Dynamical Systems;5411312;18;null
+null;null;null;3;Applied Mathematics 311 Partial Diff Equations;5411314;18;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Elementary Physics;57011Z1;15;null
+null;null;null;1;Electronics Literacy;57011Z2;15;null
+null;null;null;1;Physics 101;5701101;15;null
+null;null;null;1;Physics 102;5701102;15;null
+null;null;null;2;Physics 201;5701201;20;null
+null;null;null;2;Physics 202;5701202;20;null
+null;null;null;3;Physics 301;5701301;30;null
+null;null;null;3;Physics 302;5701302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Statistics for Commerce;55011D0;15;null
+null;null;null;1;Statistics for Phamarcy;7001121;15;null
+null;null;null;1;Statisctics for Science;5504101;15;null
+null;null;null;1;Mathematical Statistics 102;5504102;15;null
+null;null;null;2;Mathematical Statistics 201;5501201;20;null
+null;null;null;2;Mathematical Statistics 202;5501202;20;null
+null;null;null;3;Mathematical Statistics 301;5501301;30;null
+null;null;null;3;Mathematical Statistics 302;5501302;30;null
+null;null;null;null;null;null;null;null
+null;null;null;1;Cell Biology 101;5902101;15;null
+null;null;null;1;Zoology 102;5801102;15;null
+null;null;null;2;Zoology 201;5801201;20;null
+null;null;null;2;Zoology 202;5801202;20;null
+null;null;null;3;Zoology 301;5801301;30;null
+null;null;null;3;Zoology 302;5801302;30;null
+null;null;null;2;Entomology 201;6101201;20;null
+null;null;null;2;Entomology 202;6101202;20;null
+null;null;null;3;Entomology 301;6101301;30;null
+null;null;null;3;Entomology 302;6101302;30;null
