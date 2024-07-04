@@ -20,8 +20,8 @@ import json
 
 obj=PercentageComputation()
 csv_files=[] 
-university_folder = 'SACNASP_DLL\\Necessary Files\\UniversityFiles\\'
-university_folder1 = 'SACNASP_DLL\\Necessary Files\\UniversityFiles'
+university_folder = os.path.join('SACNASP_DLL', 'Necessary Files', 'UniversityFiles')
+university_folder1 = os.path.join('SACNASP_DLL', 'Necessary Files', 'UniversityFiles')
 
 csv_files = [file for file in os.listdir(university_folder) if file.endswith('.csv')]
 # Convert the Python list to a List[string] object
