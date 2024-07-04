@@ -1,0 +1,1173 @@
+﻿University ;Faculty ;Qualifications;Year;Modules;Module Code;SAQA credits;Description 
+Cape Peninsula University of Technology;Faculty of Applied Sciences;Diploma in Agriculture(Extended);1;Extended AGRICULTURAL ECONOMICS& MARKETING 1B;AEM160X;null;null
+null;null;null;null;EXTENDED AGRICULTURAL EXTENSION 1;AGT150X;null;null
+null;null;null;null;EXTENDED AGRICULTURAL SOIL SCIENCE 1B;ASL160X;null;null
+null;null;null;null;EXTENDED CROP PROTECTION 1B;CRO160X;null;null
+null;null;null;null;EXTENDED LIVESTOCK PRODUCTION 1;LVP150X;null;null
+null;null;null;null;EXTENDED OENOLOGY 1;OEN150X;null;null
+null;null;null;null;EXTENDED VEGETABLE PRODUCTION;VPR150X;null;null
+null;null;null;2;AGRICULTURAL EXTENSION 2A;AGT260S;null;null
+null;null;null;null;BIOMETRY;BID250S;null;null
+null;null;null;null;CROP PROTECTION 2;CRO260S;null;null
+null;null;null;null;AGRONOMY 2A;AGO260S;null;null
+null;null;null;null;ANIMAL NUTRITION;ANN250S;null;null
+null;null;null;null;FRUIT PRODUCTION 2A;FON260S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 2A;LVP260S;null;null
+null;null;null;null;OENOLOGY 2A;OEN260S;null;null
+null;null;null;null;VITICULTURE 2A;VIT260S;null;null
+null;null;null;null;VITICULTURE 2A;VIT262S;null;null
+null;null;null;null;AGRICULTURAL ECONOMICS AND MARKETING 2;AEM260S;null;null
+null;null;null;null;AGRICULTURAL ENGINEERING;ALE250S;null;null
+null;null;null;null;AGRICULTURAL EXTENSION 2B;AGT261S;null;null
+null;null;null;null;AGRONOMY 2B;AGO261S;null;null
+null;null;null;null;FRUIT PRODUCTION 2B;FON261S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 2B;LVP261S;null;null
+null;null;null;null;OENOLOGY 2B;OEN261S;null;null
+null;null;null;null;PASTURE SCIENCE;PSS250S;null;null
+null;null;null;null;VITICULTURE 2B;VIT261S;null;null
+null;null;null;null;VITICULTURE 2B;VIT263S;null;null
+null;null;null;3;AGRICULTURAL ENVIRONMENT;ALE360S;null;null
+null;null;null;null;AGRICULTURAL LABOUR PRACTICE;LBP360S;null;null
+null;null;null;null;AGRICULTURAL MANAGEMEN INF & SYSTEMS;IMD360S;null;null
+null;null;null;null;AGRICULTURAL PRACTICE;AGP360S;null;null
+null;null;null;null;AGRICULTURAL PRODUCTION;AGD360S;null;null
+null;null;null;null;RESEARCH METHODOLOGY: INTRODUCTION;REM350S;null;null
+null;null;DIPLOMA IN AGRICULTURE;1;AGRICULTURAL COMPUTER AND NUMERICAL LITERACY;ACN150S;null;null
+null;null;null;null;AGRICULTURAL ECONOMICS AND MARKETING 1A;AEM150S;null;null
+null;null;null;null;AGRICULTURAL SOIL SCIENCE 1A;ASL150S;null;null
+null;null;null;null;CROP PROTECTION 1A;CRO150S;null;null
+null;null;null;null;PLANT PRODUCTION;PPD150S;null;null
+null;null;null;null;AGRICULTURAL ECONOMICS AND MARKETING 1B;AEM160S;null;null
+null;null;null;null;AGRICULTURAL EXTENSION 1;AGT150S;null;null
+null;null;null;null;AGRICULTURAL SOIL SCIENCE 1B;ASL160S;null;null
+null;null;null;null;CROP PROTECTION 1B;CRO160S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 1;LVP150S;null;null
+null;null;null;null;OENOLOGY 1;OEN150S;null;null
+null;null;null;null;VEGETABLE PRODUCTION;VPR150S;null;null
+null;null;null;2;AGRICULTURAL EXTENSION 2A;AGT260S;null;null
+null;null;null;null;BIOMETRY;BID250S;null;null
+null;null;null;null;CROP PROTECTION 2;CRO260S;null;null
+null;null;null;null;AGRONOMY 2A;AGO260S;null;null
+null;null;null;null;ANIMAL NUTRITION;ANN250S;null;null
+null;null;null;null;FRUIT PRODUCTION 2A;FON260S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 2A;LVP260S;null;null
+null;null;null;null;OENOLOGY 2A;OEN260S;null;null
+null;null;null;null;VITICULTURE 2A;VIT260S;null;null
+null;null;null;null;VITICULTURE 2A;VIT262S;null;null
+null;null;null;null;AGRONOMY 2B;AGO261S;null;null
+null;null;null;null;FRUIT PRODUCTION 2B;FON261S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 2B;LVP261S;null;null
+null;null;null;null;OENOLOGY 2B;OEN261S;null;null
+null;null;null;null;PASTURE SCIENCE;PSS250S;null;null
+null;null;null;null;VITICULTURE 2B;VIT261S;null;null
+null;null;null;null;VITICULTURE 2B;VIT263S;null;null
+null;null;null;3;AGRICULTURAL ENVIRONMENT;ALE360S;null;null
+null;null;null;null;AGRICULTURAL LABOUR PRACTICE;LBP360S;null;null
+null;null;null;null;AGRICULTURAL MANAGEMEN INF & SYSTEMS;IMD360S;null;null
+null;null;null;null;AGRICULTURAL PRACTICE;AGP360S;null;null
+null;null;null;null;AGRICULTURAL PRODUCTION;AGD360S;null;null
+null;null;null;null;RESEARCH METHODOLOGY: INTRODUCTION;REM350S;null;null
+null;null;DIPLOMA IN AGRICULTURAL MANAGEMENT;1;AGRICULTURAL CALCULATIONS;ACL150S;null;null
+null;null;null;null;AGRICULTURAL MARKETING MANAGEMENT 1A;AMM150S;null;null
+null;null;null;null;AGRICULTURAL OPERATIONS MANAGEMENT 1A;ASC150S);null;null
+null;null;null;null;PLANT PRODUCTION 1;PPO150S;null;null
+null;null;null;null;AGRICULTURAL HUMAN RESOURCE MANAGEMENT;AHR160S;null;null
+null;null;null;null;AGRICULTURAL MARKETING MANAGEMENT 1B;AMM160S;null;null
+null;null;null;null;AGRICULTURAL OPERATIONS MANAGEMENT 1B;AOM160S;null;null
+null;null;null;null;AGRICULTURAL SOIL SCIENCE 1B;ASC160S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 1;LSP150S;null;null
+null;null;null;2;AGRICULTURAL LAW;AGL260S;null;null
+null;null;null;null;AGRICULTURAL PRODUCTION MANAGEMENT;AGR260S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 2A;LSP260S;null;null
+null;null;null;null;PLANT PRODUCTION 2A;PPO260S;null;null
+null;null;null;null;AGRICULTURAL ENGINEERING;AEG250S;null;null
+null;null;null;null;AGRICULTURAL MARKETING MANAGEMENT 2;AMM260S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 2B;LSP261S;null;null
+null;null;null;null;PASTURE SCIENCE;PAF250S;null;null
+null;null;null;null;PLANT PRODUCTION 2B;PPO261S;null;null
+null;null;null;3;AGRICULTURAL ENVIRONMENT;AGE360S;null;null
+null;null;null;null;AGRICULTURAL LABOUR PRACTICE;ALP360S;null;null
+null;null;null;null;AGRICULTURAL PRACTICE;ARC360S;null;null
+null;null;null;null;MANAGEMENT INFORMATION SYSTEMS;MIS360S;null;null
+null;null;null;null;PRODUCTION SYSTEMS MANAGEMENT;PSM360S;null;null
+null;null;null;null;RESEARCH METHODOLOGY;RMD350S;null;null
+null;null;EXTENDED DIPLOMA IN AGRICULTURAL MANAGEMENT;1;EXTENDED AGRICULTURAL HUMAN RESOURCE MNGT;AHR160X;null;null
+null;null;null;null;EXTENDED AGRICULTURAL MARKETING MANAGEMENT 1B;AMM160X;null;null
+null;null;null;null;EXTENDED AGRICULTURAL OPERATIONS MNGT 1B;AOM160X;null;null
+null;null;null;null;EXTENDED AGRICULTURAL SOIL SCIENCE 1B;ASC160X;null;null
+null;null;null;null;EXTENDED LIVESTOCK PRODUCTION 1;LSP150X;null;null
+null;null;null;null;AGRICULTURAL CALCULATIONS;ACL150S;null;null
+null;null;null;null;AGRICULTURAL MARKETING MANAGEMENT 1A;AMM150S;null;null
+null;null;null;null;AGRICULTURAL OPERATIONS MANAGEMENT 1A;ASC150S);null;null
+null;null;null;null;PLANT PRODUCTION 1;PPO150S;null;null
+null;null;null;null;AGRICULTURAL HUMAN RESOURCE MANAGEMENT;AHR160S;null;null
+null;null;null;null;AGRICULTURAL MARKETING MANAGEMENT 1B;AMM160S;null;null
+null;null;null;null;AGRICULTURAL OPERATIONS MANAGEMENT 1B;AOM160S;null;null
+null;null;null;null;AGRICULTURAL SOIL SCIENCE 1B;ASC160S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 1;LSP150S;null;null
+null;null;null;2;AGRICULTURAL LAW;AGL260S;null;null
+null;null;null;null;AGRICULTURAL PRODUCTION MANAGEMENT;AGR260S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 2A;LSP260S;null;null
+null;null;null;null;PLANT PRODUCTION 2A;PPO260S;null;null
+null;null;null;null;AGRICULTURAL ENGINEERING;AEG250S;null;null
+null;null;null;null;AGRICULTURAL MARKETING MANAGEMENT 2;AMM260S;null;null
+null;null;null;null;LIVESTOCK PRODUCTION 2B;LSP261S;null;null
+null;null;null;null;PASTURE SCIENCE;PAF250S;null;null
+null;null;null;null;PLANT PRODUCTION 2B;PPO261S;null;null
+null;null;null;3;AGRICULTURAL ENVIRONMENT;AGE360S;null;null
+null;null;null;null;AGRICULTURAL LABOUR PRACTICE;ALP360S;null;null
+null;null;null;null;AGRICULTURAL PRACTICE;ARC360S;null;null
+null;null;null;null;MANAGEMENT INFORMATION SYSTEMS;MIS360S;null;null
+null;null;null;null;PRODUCTION SYSTEMS MANAGEMENT;PSM360S;null;null
+null;null;null;null;RESEARCH METHODOLOGY;RMD350S;null;null
+null;null;DIPLOMA IN BIOTECHNOLOGY;1;BIOTECHNOLOGY 1: INTRODUCTION;BIO150S;null;null
+null;null;null;null;CHEMISTRY 1;CHI150S;null;null
+null;null;null;null;MATHEMATICS;WIS150S;null;null
+null;null;null;null;PHYSICS FOR BIOLOGY;PHB150S;null;null
+null;null;null;null;BIO-ANALYTICAL CHEMISTRY 1;BIC150S;null;null
+null;null;null;null;BIOCHEMISTRY 1;BIG150S;null;null
+null;null;null;null;IMMUNOLOGY;IMM150S;null;null
+null;null;null;null;MICROBIOLOGY 1;MIY150S;null;null
+null;null;null;2;BIOCHEMISTRY 2A;BIG260S;null;null
+null;null;null;null;BIOPROCESSING 2A;BOP260S;null;null
+null;null;null;null;MICROBIOLOGY 2A;MIY260S;null;null
+null;null;null;null;OPERATIONS MANAGEMENT;OPM250S;null;null
+null;null;null;null;BIO-ANALYTICAL CHEMISTRY 2;BIC260S;null;null
+null;null;null;null;BIOPROCESSING 2B;BOP261S;null;null
+null;null;null;null;BIOTECHNOLOGY WORKPLACE PREPAREDNESS;BWP250S;null;null
+null;null;null;null;MICROBIOLOGY 2B;MIY261S;null;null
+null;null;null;null;MOLECULAR BIOLOGY TECHNIQUES;MMB260S;null;null
+null;null;null;3;APPLIED BIOTECHNOLOGY;ABT360S;null;null
+null;null;null;null;BIOTECHNOLOGY INTEGRATED PROJECT 3;BTP360S;null;null
+null;null;null;null;BIOTECHNOLOGY WORKPLACE-BASED LEARNING;BIP360S;null;null
+null;null;null;null;RESEARCH METHODOLOGY: INTRODUCTION;RET360S;null;null
+null;null;EXTENDED DIPLOMA IN BIOTECHNOLOGY;1;BIOCHEMISTRY 1;BIG150X;null;null
+null;null;null;null;MICROBIOLOGY 1;MIY150X;null;null
+null;null;null;null;OPERATIONS MANAGEMENT;OPM250S;null;null
+null;null;null;null;IMMUNOLOGY;IMM150S;null;null
+null;null;null;null;BIO-ANALYTICAL CHEMISTRY 1;BIC150X;null;null
+null;null;null;2;BIOCHEMISTRY 2A;BIG260S;null;null
+null;null;null;null;BIOPROCESSING 2A;BOP260S;null;null
+null;null;null;null;MICROBIOLOGY 2A;MIY260S;null;null
+null;null;null;null;BIO-ANALYTICAL CHEMISTRY 2;BIC260S;null;null
+null;null;null;null;BIOPROCESSING 2B;BOP261S;null;null
+null;null;null;null;BIOTECHNOLOGY WORKPLACE PREPAREDNESS;BWP250S;null;null
+null;null;null;null;MICROBIOLOGY 2B;MIY261S;null;null
+null;null;null;null;MOLECULAR BIOLOGY TECHNIQUES;MMB260S;null;null
+null;null;null;3;APPLIED BIOTECHNOLOGY;ABT360S;null;null
+null;null;null;null;BIOTECHNOLOGY INTEGRATED PROJECT 3;BTP360S;null;null
+null;null;null;null;BIOTECHNOLOGY WORKPLACE-BASED LEARNING;BIP360S;null;null
+null;null;null;null;RESEARCH METHODOLOGY: INTRODUCTION;RET360S;null;null
+null;null;DIPLOMA IN CONSUMER SCIENCE IN FOOD & NUTRITION;1;APPLIED SCIENCES: INTRODUCTION;PHA150S;null;null
+null;null;null;null;FOOD COMMUNICATION;FCM150S;null;null
+null;null;null;null;FOOD PRODUCTION AND SERVICE OPERATIONS 1;FPO150S;null;null
+null;null;null;null;FOOD: SCIENCE AND PRACTICE 1;FAH150S;null;null
+null;null;null;null;NUTRITION 1;NUT150S;null;null
+null;null;null;2;CONSUMER RETAILING;COU250S;null;null
+null;null;null;null;FOOD MICROBIOLOGY AND QUALITY CONTROL;FMQ250S;null;null
+null;null;null;null;FOOD PRODUCTION AND SERVICE OPERATIONS 2;FPO260S;null;null
+null;null;null;null;FOOD: SCIENCE AND PRACTICE 2;FAH260S;null;null
+null;null;null;null;NUTRITION 2;NUT260S;null;null
+null;null;null;3;APPLIED FOOD AND NUTRITION PRACTICE 3;AFP360S;null;null
+null;null;null;null;FOOD PRODUCTION AND SERVICE OPERATIONS 3;FPO360S;null;null
+null;null;null;null;FOOD: SCIENCE AND PRACTICE 3;FAH360S;null;null
+null;null;null;null;NUTRITION 3;NUT360S;null;null
+null;null;Extended Diploma in Consumer Science in food and nutrition;1;CONSUMER RETAILING;COU250S;null;null
+null;null;null;null;FOOD: SCIENCE AND PRACTICE 1;FAH150X;null;null
+null;null;null;null;NUTRITION 1;NUT150X;null;null
+null;null;null;2;FOOD MICROBIOLOGY AND QUALITY CONTROL;FMQ250S;null;null
+null;null;null;null;FOOD PRODUCTION AND SERVICE OPERATIONS 2;FPO260S;null;null
+null;null;null;null;FOOD: SCIENCE AND PRACTICE 2;FAH260S;null;null
+null;null;null;null;NUTRITION 2;NUT260S;null;null
+null;null;null;3;APPLIED FOOD AND NUTRITION PRACTICE 3;AFP360S;null;null
+null;null;null;null;FOOD PRODUCTION AND SERVICE OPERATIONS 3;FPO360S;null;null
+null;null;null;null;FOOD: SCIENCE AND PRACTICE 3;FAH360S;null;null
+null;null;null;null;NUTRITION 3;NUT360S;null;null
+null;null;Diploma in Analytical Chemistry;1;ANALYTICAL CHEMISTRY 1: THEORY;ACH150S;null;null
+null;null;null;null;CHEMICAL LABORATORY PRACTICE 1;CLP150S;null;null
+null;null;null;null;CHEMISTRY 1;CHE150S;null;null
+null;null;null;null;INORGANIC CHEMISTRY 1;INC150S;null;null
+null;null;null;null;MATHEMATICS 1;MAT150S;null;null
+null;null;null;null;PHYSICS 1;PHY150S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 1: PRACTICAL;ACH151S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 1: THEORY;ACH150S;null;null
+null;null;null;null;INORGANIC CHEMISTRY 1;INC150S;null;null
+null;null;null;null;ORGANIC CHEMISTRY 1;ORG150S;null;null
+null;null;null;null;PHYSICAL CHEMISTRY 1;PCH150S;null;null
+null;null;null;2;CHEMICAL QUALITY ASSURANCE 2;CQA262S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 2A;ACH260S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 2A: PRACTICAL;ACP260S;null;null
+null;null;null;null;INORGANIC CHEMISTRY 2;INC260S;null;null
+null;null;null;null;PHYSICAL CHEMISTRY 2;PCH260S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 2B;ACH261S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 2B: PRACTICAL;ACP261S;null;null
+null;null;null;null;MICROBIOLOGY;MCB260S;null;null
+null;null;null;null;ORGANIC CHEMISTRY 2;ORG260S;null;null
+null;null;null;3;CHEMICAL TECHNOLOGY 3;CHT360S;null;null
+null;null;null;null;ENTREPENEURIAL SKILLS;ENS360S;null;null
+null;null;null;null;RESEARCH METHODOLOGY 1: INTRODUCTION;RSM360S;null;null
+null;null;null;null;CHEMISTRY PROJECT 3;CPJ360S;null;null
+null;null;Extended Diploma in Analytical Chemistry;1;ANALYTICAL CHEMISTRY 1: THEORY;ACH150X;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 1: PRACTICAL;ACH151X;null;null
+null;null;null;null;INORGANIC CHEMISTRY 1;INC150X;null;null
+null;null;null;null;ORGANIC CHEMISTRY 1;ORG150X;null;null
+null;null;null;null;PHYSICAL CHEMISTRY 1;PCH150X;null;null
+null;null;null;2;CHEMICAL QUALITY ASSURANCE 2;CQA262S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 2A;ACH260S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 2A: PRACTICAL;ACP260S;null;null
+null;null;null;null;INORGANIC CHEMISTRY 2;INC260S;null;null
+null;null;null;null;PHYSICAL CHEMISTRY 2;PCH260S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 2B;ACH261S;null;null
+null;null;null;null;ANALYTICAL CHEMISTRY 2B: PRACTICAL;ACP261S;null;null
+null;null;null;null;MICROBIOLOGY;MCB260S;null;null
+null;null;null;null;ORGANIC CHEMISTRY 2;ORG260S;null;null
+null;null;null;3;CHEMICAL TECHNOLOGY 3;CHT360S;null;null
+null;null;null;null;ENTREPENEURIAL SKILLS;ENS360S;null;null
+null;null;null;null;RESEARCH METHODOLOGY 1: INTRODUCTION;RSM360S;null;null
+null;null;null;null;CHEMISTRY PROJECT 3;CPJ360S;null;null
+null;null;Diploma in Nature Conservation;1;ANIMAL STUDIES 1A;ANS150S;null;null
+null;null;null;null;COMPUTER APPLICATIONS;COF150S;null;null
+null;null;null;null;CONSERVATION COMMUNICATION;CNC150S;null;null
+null;null;null;null;CONSERVATION ECOLOGY 1A;NCE150S;null;null
+null;null;null;null;PLANT STUDIES 1A;BOT152S;null;null
+null;null;null;null;ANIMAL STUDIES 1B;ANS151S;null;null
+null;null;null;null;BIODIVERSITY MANAGEMENT 1B;REM150S;null;null
+null;null;null;null;CONSERVATION ECOLOGY 1B;NCE160S;null;null
+null;null;null;null;PLANT STUDIES 1B;BOT153S;null;null
+null;null;null;null;PRINCIPLES OF CONSERVATION;NCD150S;null;null
+null;null;null;2;BIODIVERSITY MANAGEMENT 2A;REM260S;null;null
+null;null;null;null;CONSERVATION ECOLOGY 2;NCE260S;null;null
+null;null;null;null;PLANT STUDIES 2;BOT260S;null;null
+null;null;null;null;SOIL CONSERVATION;SSC250S;null;null
+null;null;null;null;ANIMAL STUDIES 2;ANS260S;null;null
+null;null;null;null;BIODIVERSITY MANAGEMENT 2B;REM261S;null;null
+null;null;null;null;CONSERVATION EXTENSION 2;CTE260S;null;null
+null;null;null;null;CONSERVATION PRACTICE 2A;CSP250S;null;null
+null;null;null;null;CONSERVATION PRACTICE 2B;CSP251S;null;null
+null;null;null;null;SOIL CONSERVATION;SSC250S;null;null
+null;null;null;3;BIODIVERSITY MANAGEMENT 3;REM360S;null;null
+null;null;null;null;CONSERVATION ADMINISTRATION 3;NCA360S;null;null
+null;null;null;null;CONSERVATION COMPLIANCE;CCP360S;null;null
+null;null;null;null;CONSERVATION EXTENSION 3;CTE360S;null;null
+null;null;null;null;CONSERVATION PRACTICE 3;BEW360S;null;null
+null;null;null;null;CONSERVATION RESEARCH 3;CVR360S;null;null
+null;null;Extended Diploma in natrure conservation;1;CONSERVATION ECOLOGY 1A;NCE150X;null;null
+null;null;null;null;PLANT STUDIES 1A;BOT152X;null;null
+null;null;null;null;CONSERVATION ECOLOGY 1B;NCE160S;null;null
+null;null;null;null;PLANT STUDIES 1B;BOT153S;null;null
+null;null;null;null;PRINCIPLES OF CONSERVATION;NCD150S;null;null
+null;null;null;2;BIODIVERSITY MANAGEMENT 2A;REM260S;null;null
+null;null;null;null;CONSERVATION ECOLOGY 2;NCE260S;null;null
+null;null;null;null;PLANT STUDIES 2;BOT260S;null;null
+null;null;null;null;SOIL CONSERVATION;SSC250S;null;null
+null;null;null;null;ANIMAL STUDIES 2;ANS260S;null;null
+null;null;null;null;BIODIVERSITY MANAGEMENT 2B;REM261S;null;null
+null;null;null;null;CONSERVATION EXTENSION 2;CTE260S;null;null
+null;null;null;null;CONSERVATION PRACTICE 2A;CSP250S;null;null
+null;null;null;null;CONSERVATION PRACTICE 2B;CSP251S;null;null
+null;null;null;null;SOIL CONSERVATION;SSC250S;null;null
+null;null;null;3;CONSERVATION ADMINISTRATION 3;NCA360S;null;null
+null;null;null;null;CONSERVATION COMPLIANCE;CCP360S;null;null
+null;null;null;null;CONSERVATION EXTENSION 3;CTE360S;null;null
+null;null;null;null;CONSERVATION PRACTICE 3;BEW360S;null;null
+null;null;null;null;CONSERVATION RESEARCH 3;CVR360S;null;null
+null;null;Diploma in Marine Science;1;COMMUNICATION SKILLS 1;KOT150S;null;null
+null;null;null;null;COMPUTER SKILLS 1;KOR151S;null;null
+null;null;null;null;BIOMATHEMATICS;BMA150S;null;null
+null;null;null;null;COMMUNICATION SKILLS 1;KOT150S;null;null
+null;null;null;null;COMPUTER SKILLS 1;KOR151S;null;null
+null;null;null;null;ECOLOGY 1;ECL150S;null;null
+null;null;null;null;ECOLOGY 2;ECL160S;null;null
+null;null;null;null;MARINE BIOLOGY 1;MAB150S;null;null
+null;null;null;null;MARINE CHEMISTRY 1;MAC150S;null;null
+null;null;null;null;MARINE PHYSICS 1;MPH150S;null;null
+null;null;null;null;MARINE SCIENCE 1;MAS150S;null;null
+null;null;null;null;BIOMATHEMATICS;BMA150S;null;null
+null;null;null;null;BIOSTATISTICS;BST160S;null;null
+null;null;null;null;COMMUNICATION SKILLS 1;KOT150S;null;null
+null;null;null;null;COMPUTER SKILLS 1;KOR151S;null;null
+null;null;null;null;ECOLOGY 1;ECL150S;null;null
+null;null;null;null;ECOLOGY 2;ECL160S;null;null
+null;null;null;null;MARINE BIOLOGY 1;MAB150S;null;null
+null;null;null;null;MARINE CHEMISTRY 1;MAC150S;null;null
+null;null;null;null;MARINE PHYSICS 1;MPH150S;null;null
+null;null;null;null;MARINE SCIENCE 1;MAS150S;null;null
+null;null;null;2;COASTAL MANAGEMENT 1;CSM250S;null;null
+null;null;null;null;COASTAL MANAGEMENT 2;CSM260S;null;null
+null;null;null;null;COMPUTER SKILLS 2;KOR260S;null;null
+null;null;null;null;MARINE AQUACULTURE 1;MAQ250S;null;null
+null;null;null;null;MARINE BIOLOGY 2;MAB260S;null;null
+null;null;null;null;MARINE LAW 1;MAL260S;null;null
+null;null;null;null;MARINE POLLUTION 1;MAP260S;null;null
+null;null;null;null;MARINE RESOURCE MANAGEMENT 1;MRS260S;null;null
+null;null;null;null;MARINE SCIENCE 2;MAS260S;null;null
+null;null;null;null;MARINE TECHNOLOGY;MAT260S;null;null
+null;null;null;3;BUSINESS PRINCIPLES;BUS360S;null;null
+null;null;null;null;ECOLOGY 3;ECL360S;null;null
+null;null;null;null;MARINE BIOLOGY 3;MAB360S;null;null
+null;null;null;null;MARINE SCIENCE 3;MAS360S;null;null
+null;null;null;null;MARINE SCIENCE INDUSTRY PRACTICE 1;MSI360S;null;null
+null;null;null;null;COASTAL MANAGEMENT 3;CSM360S;null;null
+null;null;null;null;MARINE AQUACULTURE 2;MAQ360S;null;null
+null;null;null;null;MARINE LAW 2;MAL360S;null;null
+null;null;Bachelor of Environmental Health;1;ANATOMY AND PHYSIOLOGY;ANP150S;null;null
+null;null;null;null;CHEMISTRY;CHM153S;null;null
+null;null;null;null;MATHEMATICS;MTH157S;null;null
+null;null;null;null;MICROBIOLOGY;MIB151S;null;null
+null;null;null;null;PHYSICS;PHS151S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 1;PFP150S;null;null
+null;null;null;null;SOCIOLOGY;SOC150S;null;null
+null;null;null;null;SUSTAINABLE DEVELOPMENT;SDV150S;null;null
+null;null;null;2;ADMINISTRATION AND MANAGEMENT PRACTICE 2;AMP260S;null;null
+null;null;null;null;COMMUNITY DEVELOPMENT;CMD261S;null;null
+null;null;null;null;ENVIRONMENTAL POLLUTION 2: ASSESSMENT;EPA260S;null;null
+null;null;null;null;EPIDEMIOLOGY 2: INFECTIOUS DISEASE;EPI260S;null;null
+null;null;null;null;FOOD AND MEAT HYGIENE 2;FMH260S;null;null
+null;null;null;null;OCCUPATIONAL HEALTH AND SAFETY 2: ASSESSMENT;OHS260S;null;null
+null;null;null;null;PLANNING FOR THE BUILT;PBE260S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 2;PFP260S;null;null
+null;null;null;3;ADMINISTRATION AND MANAGEMENT PRACTICE 3;AMP370S;null;null
+null;null;null;null;ENVIRONMENTAL POLLUTION 3: CONTROL;EPA370S;null;null
+null;null;null;null;ENVIRONMENTAL TOXICOLOGY;ETX370S;null;null
+null;null;null;null;EPIDEMIOLOGY 3: ENVIRONMENT;EPI370S;null;null
+null;null;null;null;FOOD PROCESSING AND SAFETY 3;FPS370S;null;null
+null;null;null;null;OCCUPATIONAL HEALTH AND SAFETY 3: CONTROL;OHS370S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 3;PFP370S;null;null
+null;null;null;null;RESEARCH METHODOLOGY;RMY370S;null;null
+null;null;null;4;ADMINISTRATION AND MANAGEMENT PRACTICE 4;AMP480S;null;null
+null;null;null;null;DISASTER MANAGEMENT;DSM480S;null;null
+null;null;null;null;ENVIRONMTL POLLUTION 4: MNGMENT & REMEDIATION;EPA480S;null;null
+null;null;null;null;EPIDEMIOLOGY 4: APPLIED;EPI480S;null;null
+null;null;null;null;FOOD QUALITY AND SAFETY MANAGEMENT 4;FQS480S;null;null
+null;null;null;null;OCCUP HEALTH & SAFETY 4: MANAGEMENT SYSTEMS;OHS480S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE & RESEARCH PROJECT 4;PFP480S;null;null
+null;null;Diploma in Environmental Management;1;COMMUNICATION SKILLS;COM150S;null;null
+null;null;null;null;CALCULATIONS AND STATISTICS;CST150S;null;null
+null;null;null;null;COMMUNICATION SKILLS;COM150S;null;null
+null;null;null;null;COMPUTER SKILLS;COS150S;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY 1A;EGE150S;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 1A;EVM150S;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 1A;EVR150S;null;null
+null;null;null;null;CHEMISTRY 1;CHM150S;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY 1B;EGE151S;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 1B;EVM151S;null;null
+null;null;null;null;ENVIRONMENTAL MICROBIOLOGY 1;MBY150S;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 1B;EVR151S;null;null
+null;null;null;null;GEOTECHNOLOGY 1;GTY150S;null;null
+null;null;null;2;ENVIRONMENTAL CHEMISTRY 2;ENC260S;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY 2A;EVG260S;null;null
+null;null;null;null;ENVIRONMENTAL LEGISLATION 2;EVL260S;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 2A;EVM260S;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 2A;ERS260S;null;null
+null;null;null;null;GEOTECHNOLOGY 2;GTY260S;null;null
+null;null;null;null;ENVIRONMENTAL BIOTECHNOLOGY 2;EBT260S;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY 2B;EVG261S;null;null
+null;null;null;null;ENVIRONMENTAL HEALTH AND SAFETY;EHS250S;null;null
+null;null;null;null;ENVIRONMENTAL HYDROLOGY 2;EGH250S;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 2B;EVM261S;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 2B;ERS261S;null;null
+null;null;null;3;ENVIRONMENTAL LEGISLATION 3;EVL360S;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 3;EVM360S;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 3;ERS360S;null;null
+null;null;null;null;INDUSTRIAL PROCESSES 3;IDP360S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE: WORK PREP SKILLS;PFP350S;null;null
+null;null;null;null;ENVIRONMENTAL BIOTECHNOLOGY;EBT360S;null;null
+null;null;null;null;ENVIRONMENTAL CHEMISTRY;ENC360S;null;null
+null;null;null;null;ENVIRONMENTAL ECONOMICS;EVE360S;null;null
+null;null;null;null;ENVIRONMENTAL GEOHYDROLOGY;EGH360S;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY;EVG360S;null;null
+null;null;null;null;GEOTECHNOLOGY 3;GTY360S;null;null
+null;null;null;null;PROFESSIONAL ENVIRONMENTAL PRACTICE 3;PEP360S;null;null
+null;null;Extended BACHELOR OF ENVIRONMENTAL HEALTH;1;ANATOMY AND PHYSIOLOGY;ANP150X;null;null
+null;null;null;null;MICROBIOLOGY;MIB151X;null;null
+null;null;null;null;SOCIOLOGY;SOC150X;null;null
+null;null;null;null;SUSTAINABLE DEVELOPMENT;SDV150X;null;null
+null;null;null;2;ADMINISTRATION AND MANAGEMENT PRACTICE 2;AMP260S;null;null
+null;null;null;null;COMMUNITY DEVELOPMENT;CMD261S;null;null
+null;null;null;null;ENVIRONMENTAL POLLUTION 2: ASSESSMENT;EPA260S;null;null
+null;null;null;null;EPIDEMIOLOGY 2: INFECTIOUS DISEASE;EPI260S;null;null
+null;null;null;null;FOOD AND MEAT HYGIENE 2;FMH260S;null;null
+null;null;null;null;OCCUPATIONAL HEALTH AND SAFETY 2: ASSESSMENT;OHS260S;null;null
+null;null;null;null;PLANNING FOR THE BUILT;PBE260S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 2;PFP260S;null;null
+null;null;null;3;ADMINISTRATION AND MANAGEMENT PRACTICE 3;AMP370S;null;null
+null;null;null;null;ENVIRONMENTAL POLLUTION 3: CONTROL;EPA370S;null;null
+null;null;null;null;ENVIRONMENTAL TOXICOLOGY;ETX370S;null;null
+null;null;null;null;EPIDEMIOLOGY 3: ENVIRONMENT;EPI370S;null;null
+null;null;null;null;FOOD PROCESSING AND SAFETY 3;FPS370S;null;null
+null;null;null;null;OCCUPATIONAL HEALTH AND SAFETY 3: CONTROL;OHS370S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 3;PFP370S;null;null
+null;null;null;null;RESEARCH METHODOLOGY;RMY370S;null;null
+null;null;null;4;ADMINISTRATION AND MANAGEMENT PRACTICE 4;AMP480S;null;null
+null;null;null;null;DISASTER MANAGEMENT;DSM480S;null;null
+null;null;null;null;ENVIRONMTL POLLUTION 4: MNGMENT & REMEDIATION;EPA480S;null;null
+null;null;null;null;EPIDEMIOLOGY 4: APPLIED;EPI480S;null;null
+null;null;null;null;FOOD QUALITY AND SAFETY MANAGEMENT 4;FQS480S;null;null
+null;null;null;null;OCCUP HEALTH & SAFETY 4: MANAGEMENT SYSTEMS;OHS480S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE & RESEARCH PROJECT 4;PFP480S;null;null
+null;null;Extended Diploma in Environmental management;1;CHEMISTRY 1;CHM150X;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY 1B;EGE151X;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 1B;EVM151X;null;null
+null;null;null;null;ENVIRONMENTAL MICROBIOLOGY 1;MBY150X;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 1B;EVR151X;null;null
+null;null;null;null;GEOTECHNOLOGY 1;GTY150X;null;null
+null;null;null;2;ENVIRONMENTAL CHEMISTRY 2;ENC260S;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY 2A;EVG260S;null;null
+null;null;null;null;ENVIRONMENTAL LEGISLATION 2;EVL260S;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 2A;EVM260S;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 2A;ERS260S;null;null
+null;null;null;null;GEOTECHNOLOGY 2;GTY260S;null;null
+null;null;null;null;ENVIRONMENTAL BIOTECHNOLOGY 2;EBT260S;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY 2B;EVG261S;null;null
+null;null;null;null;ENVIRONMENTAL HEALTH AND SAFETY;EHS250S;null;null
+null;null;null;null;ENVIRONMENTAL HYDROLOGY 2;EGH250S;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 2B;EVM261S;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 2B;ERS261S;null;null
+null;null;null;3;ENVIRONMENTAL LEGISLATION 3;EVL360S;null;null
+null;null;null;null;ENVIRONMENTAL MANAGEMENT 3;EVM360S;null;null
+null;null;null;null;ENVIRONMENTAL RESOURCES 3;ERS360S;null;null
+null;null;null;null;INDUSTRIAL PROCESSES 3;IDP360S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE: WORK PREP SKILLS;PFP350S;null;null
+null;null;null;null;ENVIRONMENTAL BIOTECHNOLOGY;EBT360S;null;null
+null;null;null;null;ENVIRONMENTAL CHEMISTRY;ENC360S;null;null
+null;null;null;null;ENVIRONMENTAL ECONOMICS;EVE360S;null;null
+null;null;null;null;ENVIRONMENTAL GEOHYDROLOGY;EGH360S;null;null
+null;null;null;null;ENVIRONMENTAL GEOLOGY;EVG360S;null;null
+null;null;null;null;GEOTECHNOLOGY 3;GTY360S;null;null
+null;null;null;null;PROFESSIONAL ENVIRONMENTAL PRACTICE 3;PEP360S;null;null
+null;null;Diploma in Food Technology;1;CHEMISTRY 1;CMY150S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 1;MIB150S;null;null
+null;null;null;null;FOOD PROJECT 1;FPJ150S;null;null
+null;null;null;null;FOOD TECHNOLOGY 1;FOT150S;null;null
+null;null;null;null;MATHEMATICS 1;MTH150S;null;null
+null;null;null;null;PHYSICS 1;PHS150S;null;null
+null;null;null;null;BIOMETRICS 1;BMS150S;null;null
+null;null;null;2;FOOD ANALYSIS 2;FAL260S;null;null
+null;null;null;null;FOOD CHEMISTRY 2;FOC260S;null;null
+null;null;null;null;FOOD MANUFACTURING CONTROL 2;FMT260S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 2;MIB260S;null;null
+null;null;null;null;FOOD PROCESS ENGINEERING 2;FPE260S;null;null
+null;null;null;null;FOOD PRODUCT DEVELOPMENT 2;FPD260S;null;null
+null;null;null;null;FOOD PROJECT 2;FPJ260S;null;null
+null;null;null;null;FOOD QUALITY ASSURANCE 2;FQA260S;null;null
+null;null;null;null;FOOD TECHNOLOGY 2;FOT260S;null;null
+null;null;null;3;FOOD ANALYSIS 3;FAL360S;null;null
+null;null;null;null;FOOD CHEMISTRY 3;FOC360S;null;null
+null;null;null;null;FOOD ENGINEERING 3;FEN360S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 3;MIB360S;null;null
+null;null;null;null;FOOD PRODUCT DEVELOPMENT 3;FPD360S;null;null
+null;null;null;null;FOOD PROJECT 3A;FPJ360S;null;null
+null;null;null;null;FOOD QUALITY ASSURANCE 3;FQA360S;null;null
+null;null;null;null;FOOD TECHNOLOGY 3;FOT360S;null;null
+null;null;null;null;FOOD INDUSTRY PRACTICE 3;FIT360S;null;null
+null;null;null;null;FOOD MANUFACTURING PRACTICE 3;FMP360S;null;null
+null;null;null;null;FOOD PROJECT 3B;FPJ361S;null;null
+null;null;Extended Diploma in Food Technology;1;BIOMETRICS 1;BMS150X;null;null
+null;null;null;null;FOOD MICROBIOLOGY 1;MIB150X;null;null
+null;null;null;null;FOOD PROJECT 1B;FPJ151X;null;null
+null;null;null;null;FOOD TECHNOLOGY 1;FOT150S;null;null
+null;null;null;2;FOOD ANALYSIS 2;FAL260S;null;null
+null;null;null;null;FOOD CHEMISTRY 2;FOC260S;null;null
+null;null;null;null;FOOD MANUFACTURING CONTROL 2;FMT260S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 2;MIB260S;null;null
+null;null;null;null;FOOD PROCESS ENGINEERING 2;FPE260S;null;null
+null;null;null;null;FOOD PRODUCT DEVELOPMENT 2;FPD260S;null;null
+null;null;null;null;FOOD PROJECT 2;FPJ260S;null;null
+null;null;null;null;FOOD QUALITY ASSURANCE 2;FQA260S;null;null
+null;null;null;null;FOOD TECHNOLOGY 2;FOT260S;null;null
+null;null;null;3;FOOD ANALYSIS 3;FAL360S;null;null
+null;null;null;null;FOOD CHEMISTRY 3;FOC360S;null;null
+null;null;null;null;FOOD ENGINEERING 3;FEN360S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 3;MIB360S;null;null
+null;null;null;null;FOOD PRODUCT DEVELOPMENT 3;FPD360S;null;null
+null;null;null;null;FOOD PROJECT 3A;FPJ360S;null;null
+null;null;null;null;FOOD QUALITY ASSURANCE 3;FQA360S;null;null
+null;null;null;null;FOOD TECHNOLOGY 3;FOT360S;null;null
+null;null;null;null;FOOD INDUSTRY PRACTICE 3;FIT360S;null;null
+null;null;null;null;FOOD MANUFACTURING PRACTICE 3;FMP360S;null;null
+null;null;null;null;FOOD PROJECT 3B;FPJ361S;null;null
+null;null;Diploma in Horticulture;1;BOTANY 1A;BOT150S;null;null
+null;null;null;null;COMMUNICATION;CIM150S;null;null
+null;null;null;null;COMPUTER SKILLS;KOR150S;null;null
+null;null;null;null;GREENHOUSE TECHNOLOGY;GHT150S;null;null
+null;null;null;null;HORTICULTURAL SCIENCES;HSC150S;null;null
+null;null;null;null;BOTANY 1B;BOT151S;null;null
+null;null;null;null;GROWTH MEDIA TECHNOLOGY;GMT150S;null;null
+null;null;null;null;HORTICULTURAL MANAGEMENT 1;HOM150S;null;null
+null;null;null;null;HORTICULTURE 1;HOK150S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 1;PTS150S;null;null
+null;null;null;2;ENVIRONMENTAL STUDIES 2A;EVS250S;null;null
+null;null;null;null;HORTICULTURAL MECHANISATION;HMC250S;null;null
+null;null;null;null;HORTICULTURE 2;HOK260S;null;null
+null;null;null;null;HORTICULTURE INTEGRATED PROJECT 2A;HIP250S;null;null
+null;null;null;null;PLANT DISEASES;PLD250S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 2;PTS260S;null;null
+null;null;null;null;PLANT PESTS;PLT250S;null;null
+null;null;null;null;ENVIRONMENTAL STUDIES 2B;EVS260S;null;null
+null;null;null;null;HORTICULTURE 2;HOK260S;null;null
+null;null;null;null;HORTICULTURE INTEGRATED PROJECT 2B;HIP260S;null;null
+null;null;null;null;HORTICULTURE MANAGEMENT 2;HOM260S;null;null
+null;null;null;null;PLANT DISEASES;PLD250S;null;null
+null;null;null;null;PLANT PESTS;PLT250S;null;null
+null;null;null;null;TURFGRASS CULTURE;TGC250S;null;null
+null;null;null;3;HORTICULTURAL MANAGEMENT 3;HOM360S;null;null
+null;null;null;null;HORTICULTURE 3;HOK360S;null;null
+null;null;null;null;HORTICULTURE INTEGRATED PROJECT 3;HIP360S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 3;PTS360S;null;null
+null;null;null;null;PLANT PHYSIOLOGY;PPY360S;null;null
+null;null;null;null;HORTICULTURE WORKPLACE-BASED LEARNING 3;HPR360S;null;null
+null;null;Extended Diploma in Horticulture;1;BOTANY 1A;BOT150S;null;null
+null;null;null;null;COMMUNICATION;CIM150S;null;null
+null;null;null;null;COMPUTER SKILLS;KOR150S;null;null
+null;null;null;null;GREENHOUSE TECHNOLOGY;GHT150S;null;null
+null;null;null;null;HORTICULTURAL SCIENCES;HSC150S;null;null
+null;null;null;null;BOTANY 1B;BOT151S;null;null
+null;null;null;null;GROWTH MEDIA TECHNOLOGY;GMT150S;null;null
+null;null;null;null;HORTICULTURAL MANAGEMENT 1;HOM150S;null;null
+null;null;null;null;HORTICULTURE 1;HOK150S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 1;PTS150S;null;null
+null;null;null;2;ENVIRONMENTAL STUDIES 2A;EVS250S;null;null
+null;null;null;null;HORTICULTURAL MECHANISATION;HMC250S;null;null
+null;null;null;null;HORTICULTURE 2;HOK260S;null;null
+null;null;null;null;HORTICULTURE INTEGRATED PROJECT 2A;HIP250S;null;null
+null;null;null;null;PLANT DISEASES;PLD250S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 2;PTS260S;null;null
+null;null;null;null;PLANT PESTS;PLT250S;null;null
+null;null;null;null;ENVIRONMENTAL STUDIES 2B;EVS260S;null;null
+null;null;null;null;HORTICULTURE 2;HOK260S;null;null
+null;null;null;null;HORTICULTURE INTEGRATED PROJECT 2B;HIP260S;null;null
+null;null;null;null;HORTICULTURE MANAGEMENT 2;HOM260S;null;null
+null;null;null;null;PLANT DISEASES;PLD250S;null;null
+null;null;null;null;PLANT PESTS;PLT250S;null;null
+null;null;null;null;TURFGRASS CULTURE;TGC250S;null;null
+null;null;null;3;HORTICULTURAL MANAGEMENT 3;HOM360S;null;null
+null;null;null;null;HORTICULTURE 3;HOK360S;null;null
+null;null;null;null;HORTICULTURE INTEGRATED PROJECT 3;HIP360S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 3;PTS360S;null;null
+null;null;null;null;PLANT PHYSIOLOGY;PPY360S;null;null
+null;null;null;null;HORTICULTURE WORKPLACE-BASED LEARNING 3;HPR360S;null;null
+null;null;Diploma in Landscape Architecture;1;BOTANY;PLM150S;null;null
+null;null;null;null;COMPUTER SKILLS;CPU150S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 1A;CDG150S;null;null
+null;null;null;null;DESIGN DRAWING;DDG150S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 1A;IDS150S;null;null
+null;null;null;null;LANDSCAPE MATHEMATICS & STRUCTURES;LMS150S;null;null
+null;null;null;null;CONSTRUCTION 1;CSN150S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 1B;CDG151S;null;null
+null;null;null;null;DESIGN THEORY 1;DET150S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 1B;IDS151S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 1;PTM150S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 1;PSP150S;null;null
+null;null;null;null;SITE ANALYSIS AND PLANNING;SAP150S;null;null
+null;null;null;2;CONSTRUCTION 2A;CNT260S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 2A;CDG260S;null;null
+null;null;null;null;DESIGN THEORY 2A;DET250S;null;null
+null;null;null;null;GROWTH MEDIA TECHNOLOGY;GRT260S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 2A;IDS260S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 2A;PTM260S;null;null
+null;null;null;null;PLANT PROTECTION;PTP260S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 2A;PSP250S;null;null
+null;null;null;null;TURFGRASS CULTURE;TGC360S;null;null
+null;null;null;null;CONSTRUCTION 2B;CNT261S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 2B;CDG261S;null;null
+null;null;null;null;DESIGN THEORY 2B;DET260S;null;null
+null;null;null;null;GROWTH MEDIA TECHNOLOGY;GRT260S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 2B;IDS261S;null;null
+null;null;null;null;PLANT PROTECTION;PTP260S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 2B;PSP260S;null;null
+null;null;null;null;TURFGRASS CULTURE;TGC360S;null;null
+null;null;null;3;CONSTRUCTION 3;CNT360S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 3;CDG360S;null;null
+null;null;null;null;DESIGN THEORY 3;DET360S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 3;IDS360S;null;null
+null;null;null;null;MECHANISATION;HMC350S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 2B;PTM261S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 3;PSP360S;null;null
+null;null;null;null;LANDSCAPE ARCHITECTURE WORKPLACE-BASED LRNG 3;PBL360S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 2B;PTM261S;null;null
+null;null;Extended Diploma in Landscape Architecture;1;BOTANY;PLM150S;null;null
+null;null;null;null;COMPUTER SKILLS;CPU150S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 1A;CDG150S;null;null
+null;null;null;null;DESIGN DRAWING;DDG150S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 1A;IDS150S;null;null
+null;null;null;null;LANDSCAPE MATHEMATICS & STRUCTURES;LMS150S;null;null
+null;null;null;null;CONSTRUCTION 1;CSN150S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 1B;CDG151S;null;null
+null;null;null;null;DESIGN THEORY 1;DET150S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 1B;IDS151S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 1;PTM150S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 1;PSP150S;null;null
+null;null;null;null;SITE ANALYSIS AND PLANNING;SAP150S;null;null
+null;null;null;2;CONSTRUCTION 2A;CNT260S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 2A;CDG260S;null;null
+null;null;null;null;DESIGN THEORY 2A;DET250S;null;null
+null;null;null;null;GROWTH MEDIA TECHNOLOGY;GRT260S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 2A;IDS260S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 2A;PTM260S;null;null
+null;null;null;null;PLANT PROTECTION;PTP260S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 2A;PSP250S;null;null
+null;null;null;null;TURFGRASS CULTURE;TGC360S;null;null
+null;null;null;null;CONSTRUCTION 2B;CNT261S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 2B;CDG261S;null;null
+null;null;null;null;DESIGN THEORY 2B;DET260S;null;null
+null;null;null;null;GROWTH MEDIA TECHNOLOGY;GRT260S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 2B;IDS261S;null;null
+null;null;null;null;PLANT PROTECTION;PTP260S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 2B;PSP260S;null;null
+null;null;null;null;TURFGRASS CULTURE;TGC360S;null;null
+null;null;null;3;CONSTRUCTION 3;CNT360S;null;null
+null;null;null;null;CONSTRUCTION DRAWING 3;CDG360S;null;null
+null;null;null;null;DESIGN THEORY 3;DET360S;null;null
+null;null;null;null;INTEGRATED DESIGN STUDIO 3;IDS360S;null;null
+null;null;null;null;MECHANISATION;HMC350S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 2B;PTM261S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE 3;PSP360S;null;null
+null;null;null;null;LANDSCAPE ARCHITECTURE WORKPLACE-BASED LRNG 3;PBL360S;null;null
+null;null;null;null;PLANT MATERIAL STUDIES 2B;PTM261S;null;null
+null;null;Extended Diploma in Marine Science;1;COMPUTER SKILLS 1;KOR151X;null;null
+null;null;null;null;ECOLOGY 1;ECL150X;null;null
+null;null;null;null;ECOLOGY 2;ECL160X;null;null
+null;null;null;null;MARINE BIOLOGY 1;MAB150X;null;null
+null;null;null;2;COASTAL MANAGEMENT 1;CSM250S;null;null
+null;null;null;null;COASTAL MANAGEMENT 2;CSM260S;null;null
+null;null;null;null;COMPUTER SKILLS 2;KOR260S;null;null
+null;null;null;null;MARINE AQUACULTURE 1;MAQ250S;null;null
+null;null;null;null;MARINE BIOLOGY 2;MAB260S;null;null
+null;null;null;null;MARINE LAW 1;MAL260S;null;null
+null;null;null;null;MARINE POLLUTION 1;MAP260S;null;null
+null;null;null;null;MARINE RESOURCE MANAGEMENT 1;MRS260S;null;null
+null;null;null;null;MARINE SCIENCE 2;MAS260S;null;null
+null;null;null;null;MARINE TECHNOLOGY;MAT260S;null;null
+null;null;null;3;BUSINESS PRINCIPLES;BUS360S;null;null
+null;null;null;null;ECOLOGY 3;ECL360S;null;null
+null;null;null;null;MARINE BIOLOGY 3;MAB360S;null;null
+null;null;null;null;MARINE SCIENCE 3;MAS360S;null;null
+null;null;null;null;MARINE SCIENCE INDUSTRY PRACTICE 1;MSI360S;null;null
+null;null;null;null;COASTAL MANAGEMENT 3;CSM360S;null;null
+null;null;null;null;MARINE AQUACULTURE 2;MAQ360S;null;null
+null;null;null;null;MARINE LAW 2;MAL360S;null;null
+null;null;Bachelor of Food Science and Technology;1;BIOMETRICS 1;BMS151S;null;null
+null;null;null;null;CHEMISTRY 1;CHM154S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 1;FMB150S;null;null
+null;null;null;null;FOOD PROJECT 1;FPJ151S;null;null
+null;null;null;null;FOOD SCIENCE AND TECHNOLOGY 1;FST150S;null;null
+null;null;null;null;MATHEMATICS 1;MAT153S;null;null
+null;null;null;null;PHYSICS 1;PHY158S;null;null
+null;null;null;2;CHEMISTRY 2;CHE260S;null;null
+null;null;null;null;FOOD ANALYSIS 2;FAS260S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 2;FMB260S;null;null
+null;null;null;null;FOOD PRODUCT DEVELOPMENT 2;PFD260S;null;null
+null;null;null;null;FOOD PROJECT 2;FPJ261S;null;null
+null;null;null;null;FOOD SCIENCE AND TECHNOLOGY 2;FST260S;null;null
+null;null;null;null;FOOD MANUFACTURING CONTROL 2;FMC260S;null;null
+null;null;null;null;MATHEMATICS 2;MTH265S;null;null
+null;null;null;null;BIOMETRICS 2;BMS261S;null;null
+null;null;null;null;FOOD PROCESS ENGINEERING 2;FPE261S;null;null
+null;null;null;null;FOOD QUALITY ASSURANCE 2;FQA261S;null;null
+null;null;null;3;FOOD ANALYSIS 3;FAS370S;null;null
+null;null;null;null;FOOD CHEMISTRY 3;FCH370S;null;null
+null;null;null;null;FOOD MANUFACTURING CONTROL 3;FMC370S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 3;FMB370S;null;null
+null;null;null;null;FOOD PROCESS ENGINEERING 3;FPE370S;null;null
+null;null;null;null;FOOD PRODUCT DEVELOPMENT 3;FPD370S;null;null
+null;null;null;null;FOOD PROJECT 3;FPJ370S;null;null
+null;null;null;null;FOOD QUALITY ASSURANCE 3;FQA370S;null;null
+null;null;null;null;FOOD SCIENCE AND TECHNOLOGY 3;FST370S;null;null
+null;null;null;4;FOOD ANALYSIS AND BIOSTATISTICS 4;FAB480S;null;null
+null;null;null;null;FOOD CHEMISTRY 4;FCH480S;null;null
+null;null;null;null;FOOD MICROBIOLOGY 4;FMB480S;null;null
+null;null;null;null;FOOD PRODUCT DEVELOPMENT 4;FPD480S;null;null
+null;null;null;null;FOOD RESEARCH PROJECT 4;FRP480S;null;null
+null;null;null;null;FOOD SCIENCE AND TECHNOLOGY 4;FST480S;null;null
+null;null;null;null;FOOD PACKAGING 4;FPK480S;null;null
+null;null;null;null;FOOD SAFETY 4;FSY480S;null;null
+null;null;Diploma in Mathematical Sciences;1;COMMUNICATIONS SKILLS;CLS150S;null;null
+null;null;null;null;COMPUTER SKILLS;CPL150S;null;null
+null;null;null;null;DATA MANAGEMENT;DTM150S;null;null
+null;null;null;null;FINANCE 1;FIN150S;null;null
+null;null;null;null;MATHEMATICS 1A: CALCULUS & LINEAR ALGEBRA I;MTM150S;null;null
+null;null;null;null;STATISTICS 1A: PROBABILITY & SUMMARY STATS;STA150S;null;null
+null;null;null;null;PHYSICS;PHC150S;null;null
+null;null;null;null;DATA MANAGEMENT;DTM150S;null;null
+null;null;null;null;MATHEMATICS 1B: CALCULUS & LINEAR ALGEBRA II;MTM151S;null;null
+null;null;null;null;NUMERICAL METHODS 1;NUM150S;null;null
+null;null;null;null;STATISTICS 1B: ESTIMATION & HYPOTHESIS TESTS;STA151S;null;null
+null;null;null;null;BIOSCIENCES 1;BSC150S;null;null
+null;null;null;null;ECONOMICS 1: MICROECONOMICS;ECO150S;null;null
+null;null;null;2;ENTREPRENEURSHIP;ETR260S;null;null
+null;null;null;null;MATHEMATICS 2A: MULTIVARIABLE CALCULUS I;MTM260S;null;null
+null;null;null;null;PROGRAMMING 2A;PGM260S;null;null
+null;null;null;null;STATISTICS 2A: MODELS FOR DATA ANALYSIS;STA260S;null;null
+null;null;null;null;CHEMISTRY 2;CHE250S;null;null
+null;null;null;null;ECONOMICS 2: MACROECONOMICS;ECO250S;null;null
+null;null;null;null;FINANCIAL MATHEMATICS 2;FMS260S;null;null
+null;null;null;null;PROGRAMMING FOR STATISTICS 3;PST360S;null;null
+null;null;null;null;MATHEMATICS 2B: MULTIVARIABLE CALCULUS II;MTM261S;null;null
+null;null;null;null;NUMERICAL METHODS 2;NUM260S;null;null
+null;null;null;null;PROGRAMMING 2B;PGM261S;null;null
+null;null;null;null;STATISTICS 2B: SURVEY & SAMPLING METHODS;STA261S;null;null
+null;null;null;null;BIOMATHEMATICS 2;BMS260S;null;null
+null;null;null;null;FINANCE 2;FIN260S;null;null
+null;null;null;null;FINANCIAL MATHEMATICS 2;FMS260S;null;null
+null;null;null;null;PROGRAMMING FOR STATISTICS 3;PST360S;null;null
+null;null;null;3;INTRODUCTION TO PROJECTS;PRJ360S;null;null
+null;null;null;null;MATHEMATICS 3A: PARTIAL DIFF EQUATIONS;MTM360S;null;null
+null;null;null;null;MATHEMATICS 3B: DISCRETE MATHEMATICS;MTM361S;null;null
+null;null;null;null;STATISTICAL QUALITY CONTROL 3;SQC360S;null;null
+null;null;null;null;BIOMATHEMATICS 3;BMS360S;null;null
+null;null;null;null;BIOSTATISTICS 3;BTS360S;null;null
+null;null;null;null;ECONOMETRICS 3;ENT360S;null;null
+null;null;null;null;FINANCIAL MATHEMATICS 3;FMT360S;null;null
+null;null;null;null;MATHEMATICAL SCIENCE PROJECT 3;MSP360S;null;null
+null;null;null;null;OPERATIONS RESEARCH 3;OPR360S;null;null
+null;null;null;null;STATISTICAL QUALITY CONTROL 3;SQC360S;null;null
+null;null;Extended Diploma in Mathematical Sciences;1;BIOSCIENCES 1;BSC150X;null;null
+null;null;null;null;DATA MANAGEMENT 1;DTM150X;null;null
+null;null;null;null;MATHEMATICS 1B: CALCULUS & LINEAR ALGEBRA II;MTM151X;null;null
+null;null;null;null;NUMERICAL METHODS 1;NUM150X;null;null
+null;null;null;null;STATISTICS 1B: ESTIMATION & HYPOTHESIS TESTS;STA151X;null;null
+null;null;null;null;ECONOMICS 1: MICROECONOMICS;ECO150X;null;null
+null;null;null;2;ENTREPRENEURSHIP;ETR260S;null;null
+null;null;null;null;MATHEMATICS 2A: MULTIVARIABLE CALCULUS I;MTM260S;null;null
+null;null;null;null;PROGRAMMING 2A;PGM260S;null;null
+null;null;null;null;STATISTICS 2A: MODELS FOR DATA ANALYSIS;STA260S;null;null
+null;null;null;null;CHEMISTRY 2;CHE250S;null;null
+null;null;null;null;ECONOMICS 2: MACROECONOMICS;ECO250S;null;null
+null;null;null;null;PROGRAMMING FOR STATISTICS 3;PST360S;null;null
+null;null;null;null;MATHEMATICS 2B: MULTIVARIABLE CALCULUS II;MTM261S;null;null
+null;null;null;null;NUMERICAL METHODS 2;NUM260S;null;null
+null;null;null;null;PROGRAMMING 2B;PGM261S;null;null
+null;null;null;null;STATISTICS 2B: SURVEY & SAMPLING METHODS;STA261S;null;null
+null;null;null;null;BIOMATHEMATICS 2;BMS260S;null;null
+null;null;null;null;FINANCE 2;FIN260S;null;null
+null;null;null;null;PROGRAMMING FOR STATISTICS 3;PST360S;null;null
+null;null;null;3;INTRODUCTION TO PROJECTS;PRJ360S;null;null
+null;null;null;null;MATHEMATICS 3A: PARTIAL DIFF EQUATIONS;MTM360S;null;null
+null;null;null;null;MATHEMATICS 3B: DISCRETE MATHEMATICS;MTM361S;null;null
+null;null;null;null;STATISTICAL QUALITY CONTROL 3;SQC360S;null;null
+null;null;null;null;BIOMATHEMATICS 3;BMS360S;null;null
+null;null;null;null;BIOSTATISTICS 3;BTS360S;null;null
+null;null;null;null;ECONOMETRICS 3;ENT360S;null;null
+null;null;null;null;FINANCIAL MATHEMATICS 3;FMT360S;null;null
+null;null;null;null;MATHEMATICAL SCIENCE PROJECT 3;MSP360S;null;null
+null;null;null;null;OPERATIONS RESEARCH 3;OPR360S;null;null
+null;null;null;null;STATISTICAL QUALITY CONTROL 3;SQC360S;null;null
+null;FACULTY OF HEALTH SCIENCES;BACHELOR OF SCIENCE IN MED LAB SCIENCE;1;HUMAN ANATOMY, PHYSIOLOGY & DISEASE;APD100S;null;null
+null;null;null;null;IMMUNOLOGY 1;IMM100S;null;null
+null;null;null;null;INTRODUCTION TO MEDICAL LABORATORY SCIENCES 1;MLB101S;null;null
+null;null;null;null;BIOSTATISTICS;BTA100S;null;null
+null;null;null;null;COMMUNICATIONS;CMM103S;null;null
+null;null;null;null;COMPUTER SKILLS;CPS103S;null;null
+null;null;null;null;HEALTH CHEMISTRY;HCH100S;null;null
+null;null;null;null;CELL BIOLOGY 1;CBY101S;null;null
+null;null;null;null;HEALTH PHYSICS;HPH100S;null;null
+null;null;null;null;IMMUNOLOGY 1;IMM100S;null;null
+null;null;null;2;CLINICAL CHEMISTRY 2;CLC200S;null;null
+null;null;null;null;CYTOLOGY 2;CYT201S;null;null
+null;null;null;null;HAEMATOLOGY 2;HMY200S;null;null
+null;null;null;null;HUMAN GENOMICS;HGN200S;null;null
+null;null;null;null;MICROBIOLOGY 2;MBY200S;null;null
+null;null;null;null;IMMUNOHAEMATOLOGY 2;IMH200S;null;null
+null;null;null;3;CLINICAL PRACTICE;CPR300S;null;null
+null;null;null;null;HISTOLOGY 3;HST300S;null;null
+null;null;null;null;LABORATORY MANAGEMENT 2;LBM200S;null;null
+null;null;null;null;CLINICAL PRACTICE;CPR300S;null;null
+null;null;null;null;LABORATORY MANAGEMENT 2;LBM200S;null;null
+null;null;BACHELOR OF SCIENCE IN MED LAB SCIENCE EXTENDED;1;CELL BIOLOGY 1;CBY11SX;null;null
+null;null;null;null;HUMAN ANATOMY, PHYSIOLOGY & DISEASE;APD10SX;null;null
+null;null;null;null;IMMUNOLOGY 1;IMM10SX;null;null
+null;null;null;null;LABORATORY INSTRUMENTATION & TECHNIQUES;LIT10SX;null;null
+null;null;null;2;CLINICAL CHEMISTRY 2;CLC200S;null;null
+null;null;null;null;CYTOLOGY 2;CYT201S;null;null
+null;null;null;null;HAEMATOLOGY 2;HMY200S;null;null
+null;null;null;null;HUMAN GENOMICS;HGN200S;null;null
+null;null;null;null;MICROBIOLOGY 2;MBY200S;null;null
+null;null;null;null;IMMUNOHAEMATOLOGY 2;IMH200S;null;null
+null;null;null;3;CLINICAL PRACTICE;CPR300S;null;null
+null;null;null;null;HISTOLOGY 3;HST300S;null;null
+null;null;null;null;LABORATORY MANAGEMENT 2;LBM200S;null;null
+null;null;null;null;CLINICAL PRACTICE;CPR300S;null;null
+null;null;null;null;LABORATORY MANAGEMENT 2;LBM200S;null;null
+null;null;null;null;CLINICAL CHEMISTRY 3;CLC300S;null;null
+null;null;null;null;HAEMATOLOGY 3;HMY300S;null;null
+null;null;null;null;INTEGRATED MEDICAL LABORATORY SCIENCES 3;MLB300S;null;null
+null;null;null;null;MICROBIOLOGY 3;MBY300S;null;null
+null;null;null;4;RESEARCH PROJECT 4;RPJ401S;null;null
+null;null;null;null;CLINICAL CHEMISTRY 4;CLC400S;null;null
+null;null;null;null;CLINICAL PATHOLOGY 4;CLP400S;null;null
+null;null;null;null;CYTOGENETICS 4;CTG400S;null;null
+null;null;null;null;CYTOLOGY 4;CYT400S;null;null
+null;null;null;null;HAEMATOLOGY 4;HMY400S;null;null
+null;null;null;null;HISTOLOGY 4;HST400S;null;null
+null;null;null;null;IMMUNOHAEMATOLOGY 4;IMH400S;null;null
+null;null;null;null;IMMUNOLOGY 4;IMM400S;null;null
+null;null;null;null;MICROBIOLOGY 4;MBY400S;null;null
+null;null;null;null;PHARMACOLOGY 4;PHA400S;null;null
+null;null;null;null;VIROLOGY 4;VIR400S;null;null
+null;null;BACHELOR OF HEALTH SCIENCE IN DENTAL TECHNOLOGY;1;ACADEMIC & PROFESSIONAL LITERACY;APL151S;null;null
+null;null;null;null;DENTAL MATERIALS SCIENCE 1;DMS150S;null;null
+null;null;null;null;INTRODUCTION TO DENTAL TECHNOLOGY 1;IDT150S;null;null
+null;null;null;null;LABORATORY SUPPORT 1;LST100S;null;null
+null;null;null;null;ORAL ANATOMY AND PHYSIOLOGY;OAY152S;null;null
+null;null;null;null;PHYSICS AND CHEMISTRY FOR DENTAL TECHNOLOGY;PDT151S;null;null
+null;null;null;null;TOOTH MORPHOLOGY 1;TMY150S;null;null
+null;null;null;2;ACADEMIC & PROFESSIONAL DEVELOPMENT;APD260S;null;null
+null;null;null;null;DENTAL MATERIALS SCIENCE 2;DMS260S;null;null
+null;null;null;null;FIXED PROSTHODONTICS 2;FPP260S;null;null
+null;null;null;null;LABORATORY SUPPORT 2;LST200S;null;null
+null;null;null;null;MUCOSA-BORNE COMP. REMOVABLE DENTURES 2;MRD260S;null;null
+null;null;null;null;REMOVABLE ORTHODONTICS 2;ROR260S;null;null
+null;null;null;null;REMOVABLE PARTIAL PROSTHETICS 2;RPS260S;null;null
+null;null;null;3;DENTAL MATERIALS SCIENCE 3;DMS370S;null;null
+null;null;null;null;DENTAL TECH RELATED LEGISLATION & BIOETHICS 3;DLB370S;null;null
+null;null;null;null;FIXED PROSTHODONTICS 3;FPP370S;null;null
+null;null;null;null;MUCOSA-BORNE COMP. REMOVABLE DENTURES 3;MRD370S;null;null
+null;null;null;null;ORTHODONTICS 3;ORS370S;null;null
+null;null;null;null;REMOVABLE PARTIAL PROSTHETICS 3;RPP370S;null;null
+null;null;null;null;RESEARCH METHODOLOGY AND TECHNIQUES 3;RMT372S;null;null
+null;null;null;4;APPLIED DENTAL TECHNOLOGY 4;ADT480S;null;null
+null;null;null;null;DENTAL LABORATORY MANAGEMENT 4;DLM480S;null;null
+null;null;null;null;DENTAL MATERIALS SCIENCE 4;DMS480S;null;null
+null;null;null;null;DENTAL TECHNOLOGY THEORY 4;DTY480S;null;null
+null;null;null;null;PROFESSIONAL PRACTICE;APP480S;null;null
+null;null;null;null;RESEARCH METHODOLOGY AND TECHNIQUES 4;RMT480S;null;null
+null;null;BACHELOR OF EMERGENCY MEDICAL CARE;1;ANATOMY 1;APY101S;null;null
+null;null;null;null;CHEMISTRY;EBS102S;null;null
+null;null;null;null;CLINICAL PRACTICE 1;EMC103S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 1 PRACTICAL;EMC102S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 1 THEORY;EMC101S;null;null
+null;null;null;null;EMS OPERATIONS;PPF101S;null;null
+null;null;null;null;ETHICS AND LAW;PPF102S;null;null
+null;null;null;null;INTRODUCTION TO MEDICAL RESCUE;EMR101S;null;null
+null;null;null;null;PERSONAL HEALTH AND WELLNESS;PPF103S;null;null
+null;null;null;null;PHYSICS;EBS101S;null;null
+null;null;null;null;PHYSIOLOGY 1;APY102S;null;null
+null;null;null;null;RESCUE PRINCIPLES;EMR103S;null;null
+null;null;null;null;RESCUE SYSTEMS;EMR102S;null;null
+null;null;null;2;CLINICAL PRACTICE 2;EMC203S;null;null
+null;null;null;null;DIAGNOSTICS;EDI100S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 2 PRACTICAL;EMC202S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 2 THEORY;EMC201S;null;null
+null;null;null;null;EXTRICATION;EMR203S;null;null
+null;null;null;null;HAZMAT AND FIRE RESCUE;EMR202S;null;null
+null;null;null;null;PHYSIOLOGY 2;APY200S;null;null
+null;null;null;null;PRIMARY HEALTH CARE 1;HCP100S;null;null
+null;null;null;null;ROPE RESCUE;EMR201S;null;null
+null;null;null;3;AQUATIC RESCUE;EMR303S;null;null
+null;null;null;null;CLINICAL PRACTICE 3;EMC303S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 3 PRACTICAL;EMC302S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 3 THEORY;EMC301S;null;null
+null;null;null;null;GENERAL PATHOLOGY;GNP101S;null;null
+null;null;null;null;PHARMACOLOGY;PMH101S;null;null
+null;null;null;null;RESEARCH METHODOLOGY;ERM102S;null;null
+null;null;null;null;URBAN SEARCH AND RESCUE;EMR301S;null;null
+null;null;null;null;WILDERNESS SEARCH AND RESCUE;EMR302S;null;null
+null;null;null;null;AQUATIC RESCUE;EMR303S;null;null
+null;null;null;4;AEROMEDICAL RESCUE;EMR412S;null;null
+null;null;null;null;CLINICAL PRACTICE 4;EMC406S;null;null
+null;null;null;null;DISASTER RISK MANAGEMENT;EMR411S;null;null
+null;null;null;null;EDUCATIONAL METHODOLOGY;ESV102S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 4 PRACTICAL;EMC405S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 4 THEORY;EMC404S;null;null
+null;null;null;null;MANAGEMENT PRACTICE;ESV101S;null;null
+null;null;null;null;RESCUE INCIDENT MANAGEMENT;EMR413S;null;null
+null;null;null;null;RESEARCH PROJECT;REE400S;null;null
+null;null;DIPLOMA IN EMERGENCY CARE;1;APPLIED ANATOMY;AAN150S;null;null
+null;null;null;null;APPLIED CHEMISTRY;ACM150S;null;null
+null;null;null;null;APPLIED PHYSICS;APH150S;null;null
+null;null;null;null;APPLIED PHYSIOLOGY;APY150S;null;null
+null;null;null;null;FOUNDATIONS OF PROFESSIONAL PRACTICE;FPP150S;null;null
+null;null;null;null;PRE-HOSPITAL EMERGENCY CARE - MEDICAL 1;PHE151S;null;null
+null;null;null;null;PRE-HOSPITAL EMERGENCY CARE - TRAUMA 1;PHE152S;null;null
+null;null;null;null;PRE-HOSPITAL EMERGENCY CARE PRACTICE 1;PHE153S;null;null
+null;null;null;null;WORKPLACE CLINICAL PRACTICE 1;WCP150S;null;null
+null;null;null;2;BASIC MEDICAL RESCUE;BMR260S;null;null
+null;null;null;null;CRITICAL CARE TRANSPORT;CCT260S;null;null
+null;null;null;null;PRE-HOSPITAL EMERGENCY CARE - MEDICAL 2;PHE261S;null;null
+null;null;null;null;PRE-HOSPITAL EMERGENCY CARE - TRAUMA 2;PHE262S;null;null
+null;null;null;null;PRE-HOSPITAL EMERGENCY CARE PRACTICE 2;PHE263S;null;null
+null;null;null;null;WORKPLACE CLINICAL PRACTICE 2;WCP260S;null;null
+null;null;EXTENDED BACHELOR OF EMERGENCY IN MEDICAL CARE;1;ANATOMY AND PHYSIOLOGY 1B;APY12SX;null;null
+null;null;null;null;CHEMISTRY 1B;EBS14SX;null;null
+null;null;null;null;CLINICAL PRACTICE 1B;EMC16SX;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 1B PRACTICAL;EMC15SX;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 1B THEORY;EMC14SX;null;null
+null;null;null;null;EMS OPERATIONS;PPF101S;null;null
+null;null;null;null;ETHICS AND LAW;PPF102S;null;null
+null;null;null;null;INTRODUCTION TO MEDICAL RESCUE;EMR101S;null;null
+null;null;null;null;PERSONAL HEALTH AND WELLNESS;PPF103S;null;null
+null;null;null;null;PHYSICS 1B;EBS13SX;null;null
+null;null;null;null;RESCUE PRINCIPLES;EMR103S;null;null
+null;null;null;null;RESCUE SYSTEMS;EMR102S;null;null
+null;null;null;2;CLINICAL PRACTICE 2;EMC203S;null;null
+null;null;null;null;DIAGNOSTICS;EDI100S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 2 PRACTICAL;EMC202S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 2 THEORY;EMC201S;null;null
+null;null;null;null;EXTRICATION;EMR203S;null;null
+null;null;null;null;HAZMAT AND FIRE RESCUE;EMR202S;null;null
+null;null;null;null;PHYSIOLOGY 2;APY200S;null;null
+null;null;null;null;PRIMARY HEALTH CARE 1;HCP100S;null;null
+null;null;null;null;ROPE RESCUE;EMR201S;null;null
+null;null;null;3;AQUATIC RESCUE;EMR303S;null;null
+null;null;null;null;CLINICAL PRACTICE 3;EMC303S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 3 PRACTICAL;EMC302S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 3 THEORY;EMC301S;null;null
+null;null;null;null;GENERAL PATHOLOGY;GNP101S;null;null
+null;null;null;null;PHARMACOLOGY;PMH101S;null;null
+null;null;null;null;RESEARCH METHODOLOGY;ERM102S;null;null
+null;null;null;null;URBAN SEARCH AND RESCUE;EMR301S;null;null
+null;null;null;null;WILDERNESS SEARCH AND RESCUE;EMR302S;null;null
+null;null;null;null;AQUATIC RESCUE;EMR303S;null;null
+null;null;null;4;AEROMEDICAL RESCUE;EMR412S;null;null
+null;null;null;null;CLINICAL PRACTICE 4;EMC406S;null;null
+null;null;null;null;DISASTER RISK MANAGEMENT;EMR411S;null;null
+null;null;null;null;EDUCATIONAL METHODOLOGY;ESV102S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 4 PRACTICAL;EMC405S;null;null
+null;null;null;null;EMERGENCY MEDICAL CARE 4 THEORY;EMC404S;null;null
+null;null;null;null;MANAGEMENT PRACTICE;ESV101S;null;null
+null;null;null;null;RESCUE INCIDENT MANAGEMENT;EMR413S;null;null
+null;null;null;null;RESEARCH PROJECT;REE400S;null;null
+null;null;BSc in Diagnostic Ultrasound;1;HEALTH SCIENCE LITERACY 1;HSL101S;null;null
+null;null;null;null;HUMAN SCIENCES 1;HSC106S;null;null
+null;null;null;null;MEDICAL IMAGING AND ONCOLOGIC MODALITIES 1;MIO106S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 1;PCM106S;null;null
+null;null;null;null;PHYSICAL SCIENCES 1;PSC101S;null;null
+null;null;null;null;THE HEALTH CARE PROFESSIONAL 1;HPF106S;null;null
+null;null;null;2;DIAGNOSTIC ULTRASOUND PRACTICE 2;DUP202S;null;null
+null;null;null;null;HEALTH SCIENCE LITERACY 2;HSL201S;null;null
+null;null;null;null;HUMAN SCIENCES 2;HSC201S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 2;PCM204S;null;null
+null;null;null;null;PHYSICAL SCIENCES 2;PSC201S;null;null
+null;null;null;null;THE HEALTH CARE PROFESSIONAL 2;HPF201S;null;null
+null;null;null;3;ADVANCED HEALTH CARE PRACTICE 3;AHC301S;null;null
+null;null;null;null;DIAGNOSTIC ULTRASOUND PRACTICE 3;DUP302S;null;null
+null;null;null;null;HEALTH SCIENCE RESEARCH 3;HSR304S;null;null
+null;null;null;null;HUMAN SCIENCES 3;HSC305S;null;null
+null;null;null;null;ULTRASOUND IMAGING EQUIPMENT 3;UIE302S;null;null
+null;null;null;null;ULTRASOUND MANAGEMENT 3;UMT301S;null;null
+null;null;null;4;ADVANCED DIAGNOSTIC ULTRASOUND PRACTICE 4;AUP402S;null;null
+null;null;null;null;HEALTH SCIENCE RESEARCH 4;HSR401S;null;null
+null;null;null;null;ULTRASOUND IMAGING EQUIPMENT 4;UIE401S;null;null
+null;null;null;null;ULTRASOUND MANAGEMENT 4;UMG401S;null;null
+null;null;null;null;ANGIOGRAPHY;EAN401S;null;null
+null;null;null;null;BONE DENSITOMETRY 4;EBD401S;null;null
+null;null;null;null;COMPUTED TOMOGRAPHY 4;ECT401S;null;null
+null;null;null;null;ENTREPRENEURSHIP 4;EEN401S;null;null
+null;null;null;null;GENETICS 4;EGN401S;null;null
+null;null;null;null;HEALTH SCIENCE EDUCATION 4;EHE401S;null;null
+null;null;null;null;MAGNETIC RESONANCE IMAGING 4;EMR401S;null;null
+null;null;null;null;MAMMOGRAPHY 4;EMA401S;null;null
+null;null;null;null;MEDICAL LAW AND ETHICS;EML401S;null;null
+null;null;BSc in Nuclear Medicine Technology;1;HEALTH SCIENCE LITERACY 1;HSL102S;null;null
+null;null;null;null;HUMAN SCIENCES 1;HSC104S;null;null
+null;null;null;null;EDICAL IMAGING AND ONCOLOGIC MODALITIES 1;MIO104S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 1;PCM104S;null;null
+null;null;null;null;PHYSICAL SCIENCES 1;PSC102S;null;null
+null;null;null;null;THE HEALTH CARE PROFESSIONAL 1;HPF104S;null;null
+null;null;null;2;HEALTH SCIENCE LITERACY 2;HSL202S;null;null
+null;null;null;null;HUMAN SCIENCES 2;HSC202S;null;null
+null;null;null;null;NUCLEAR MEDICINE TECHNOLOGY 2;NMT202S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 2;PCM202S;null;null
+null;null;null;null;PHYSICAL SCIENCES 2;PSC202S;null;null
+null;null;null;null;THE HEALTH CARE PROFESSIONAL 2;HPF202S;null;null
+null;null;null;3;ADVANCED HEALTH CARE PRACTICE 3;AHP302S;null;null
+null;null;null;null;HEALTH SCIENCE RESEARCH 3;HSR302S;null;null
+null;null;null;null;HUMAN SCIENCES 3;HSC302S;null;null
+null;null;null;null;NUCLEAR MEDICINE MANAGEMENT 3;NMM302S;null;null
+null;null;null;null;NUCLEAR MEDICINE SCIENCES 3;NSC302S;null;null
+null;null;null;null;NUCLEAR MEDICINE TECHNOLOGY 3;NMT303S;null;null
+null;null;null;4;ADVANCED NUCLEAR MEDICINE TECHNOLOGY 4;ANT403S;null;null
+null;null;null;null;HEALTH SCIENCE RESEARCH 4;HSR404S;null;null
+null;null;null;null;HUMAN SCIENCES 4;HSC402S;null;null
+null;null;null;null;NUCLEAR MEDICINE MANAGEMENT 4;NMM401S;null;null
+null;null;null;null;NUCLEAR MEDICINE SCIENCES 4;NSC402S;null;null
+null;null;null;null;BONE DENSITOMETRY 4;EBD402S;null;null
+null;null;null;null;CLINICAL MENTORING 4;EMT402S;null;null
+null;null;null;null;ENTREPRENEURSHIP 4;EEN402S;null;null
+null;null;null;null;HEALTH SCIENCE EDUCATION 4;EHE402S;null;null
+null;null;null;null;MOLECULAR IMAGING 4;EMI402S;null;null
+null;null;null;null;RADIOIMMUNOASSAY 4;ERA402S;null;null
+null;null;null;null;HERAPEUTIC USE OF RADIONUCLIDES 4;ETR402S;null;null
+null;null;BSc. in Diagnostic Radiography;1;LINICAL RADIOGRAPHIC TECHNOLOGY 1 [D];CRD100S;null;null
+null;null;null;null;HEALTH SCIENCE LITERACY 1;HSL100S;null;null
+null;null;null;null;HUMAN SCIENCES 1;HSC100S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 1;PCM100S;null;null
+null;null;null;null;PHYSICAL SCIENCE 1;PSC100S;null;null
+null;null;null;null;RADIOGRAPHIC TECHNOLOGY 1;RTC101S;null;null
+null;null;null;null;THE HEALTH CARE PROFESSIONAL 1;HPF107S;null;null
+null;null;null;2;CLINICAL RADIOGRAPHIC TECHNOLOGY 2;CRD200S;null;null
+null;null;null;null;HEALTH SCIENCE LITERACY 2;HSL200S;null;null
+null;null;null;null;HUMAN SCIENCES 2;HSC200S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 2;PCM200S;null;null
+null;null;null;null;PHYSICAL SCIENCE 2;PSC200S;null;null
+null;null;null;null;RADIOGRAPHIC TECHNOLOGY 2;RTC200S;null;null
+null;null;null;null;THE HEALTH CARE PROFESSIONAL 2;HPF200S;null;null
+null;null;null;3;ADVANCED HEALTH CARE PRACTICE 3;AHP300S;null;null
+null;null;null;null;CLINICAL RADIOGRAPHIC TECHNOLOGY 3;CRD301S;null;null
+null;null;null;null;DIAGNOSTIC IMAGING EQUIPMENT 3;DIE300S;null;null
+null;null;null;null;HEALTH SCIENCE RESEARCH 3;HSR300S;null;null
+null;null;null;null;HUMAN SCIENCES 3;HSC300S;null;null
+null;null;null;null;RADIOGRAPHIC MANAGEMENT 3;RMN301S;null;null
+null;null;null;null;RADIOGRAPHIC TECHNOLOGY 3;RTC300S;null;null
+null;null;null;4;CLINICAL RADIOGRAPHIC TECHNOLOGY 4;CRD401S;null;null
+null;null;null;null;DIAGNOSTIC IMAGING EQUIPMENT 4;DIE401S;null;null
+null;null;null;null;HEALTH SCIENCE RESEARCH 4;HSR400S;null;null
+null;null;null;null;HUMAN SCIENCES 4;HSC400S;null;null
+null;null;null;null;RADIOGRAPHIC MANAGEMENT 4;RMN400S;null;null
+null;null;null;null;RADIOGRAPHIC TECHNOLOGY 4;RTC400S;null;null
+null;null;null;null;CLINICAL MENTORING 4;EMT400S;null;null
+null;null;null;null;COMPUTED TOMOGRAPHY 4;ECT400S;null;null
+null;null;null;null;ENTREPRENEURSHIP 4;EEN400S;null;null
+null;null;null;null;HEALTH SCIENCE EDUCATION 4;EHE400S;null;null
+null;null;null;null;INTERVENTIONAL RADIOGRAPHY 4;EIR400S;null;null
+null;null;null;null;MAMMOGRAPHY 4;EMA400S;null;null
+null;null;BSc in Radiation Therapy;1;HEALTH SCIENCE LITERACY 1;HSL103S;null;null
+null;null;null;null;HUMAN SCIENCES 1;HSC105S;null;null
+null;null;null;null;MEDICAL IMAGING AND ONCOLOGIC MODALITIES 1;MIO105S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 1;PCM105S;null;null
+null;null;null;null;PHYSICAL SCIENCES 1;PSC103S;null;null
+null;null;null;null;THE HEALTH CARE PROFESSIONAL 1;HPF105S;null;null
+null;null;null;2;HEALTH SCIENCE LITERACY 2;HSL203S;null;null
+null;null;null;null;HUMAN SCIENCES 2;HSC203S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 2;PCM203S;null;null
+null;null;null;null;PHYSICAL SCIENCES 2;PSC203S;null;null
+null;null;null;null;RADIATION THERAPY PRACTICE 2;RTP203S;null;null
+null;null;null;null;THE HEALTH CARE PROFESSIONAL 2;HPF203S;null;null
+null;null;null;3;ADVANCED HEALTH CARE PROF PRACTICE 3;AHP303S;null;null
+null;null;null;null;HEALTH SCIENCE RESEARCH 3;HSR303S;null;null
+null;null;null;null;HUMAN SCIENCES 3;HSC304S;null;null
+null;null;null;null;PATIENT CARE AND MANAGEMENT 3;PCM303S;null;null
+null;null;null;null;PHYSICS OF RADIATION THERAPY 3;PRT303S;null;null
+null;null;null;null;RADIATION THERAPY PRACTICE 3;RTP304S;null;null
+null;null;null;4;ADVANCED HEALTH CARE PROF PRACTICE 4;AHP404S;null;null
+null;null;null;null;HEALTH SCIENCE RESEARCH 4;HSR405S;null;null
+null;null;null;null;HUMAN SCIENCES 4;HSC403S;null;null
+null;null;null;null;PHYSICS OF RADIATION THERAPY 4;PRT403S;null;null
+null;null;null;null;RADIATION THERAPY PRACTICE 4;RTP403S;null;null
+null;null;null;null;ADV RADIOTHERAPY DOSIMETRY & GRAPHIC PLAN 4;EDP403S;null;null
+null;null;null;null;CLINICAL MENTORING IN RADIOTHERAPY 4;EMT403S;null;null
+null;null;null;null;ENTREPRENEURSHIP 4;EEN403S;null;null
+null;null;null;null;FUSION IMAGING IN RADIATION ONCOLOGY 4;EFI403S;null;null
+null;null;null;null;HEALTH SCIENCE EDUCATION 4;EHE403S;null;null
+null;null;null;null;MULTI- CULTURAL HEALTH CARE IN RADIOTHERAP 4;EMC403S;null;null
+null;null;null;null;PAEDIATRIC RADIATION ONCOLOGY 4;EPO403S;null;null
+null;null;null;null;PALLIATIVE CARE IN RADIATION ONCOLOGY 4;EPC403S;null;null
+null;null;null;null;QUALITY ASSURANCE IN CLINICAL RADIOTHERAPY 4;EQA403S;null;null
+null;null;null;null;RADIOBIOLOGICAL APPLIC IN RADIOTHERAPY 4;ERB403S;null;null
+null;null;null;null;UNSEALED RADIONUCLIDES FOR THERAPY 4;ETR403S;null;null
+null;null;Bachelor of Nursing;1;ACADEMIC LITERACY;LIT150S;null;null
+null;null;null;null;ANATOMY & PHYSIOLOGY I;APS150S;null;null
+null;null;null;null;CHEMISTRY;CHE151S;null;null
+null;null;null;null;ETHOS & PROFESSIONAL PRACTICE 1;EPP150S;null;null
+null;null;null;null;MICROBIOLOGY;MBL150S;null;null
+null;null;null;null;NURSING IN THE COMMUNITY 1;NCM150S;null;null
+null;null;null;null;NURSING SCIENCE 1;NSC150S;null;null
+null;null;null;null;PHYSICS;PHS152S;null;null
+null;null;null;2;ANATOMY & PHYSIOLOGY 2;APS260S;null;null
+null;null;null;null;ETHOS & PROFESSIONAL PRACTICE 2;EPP260S;null;null
+null;null;null;null;INTRODUCTION TO MENTAL HEALTH;IMH260S;null;null
+null;null;null;null;NURSING IN THE COMMUNITY 2;NCM260S;null;null
+null;null;null;null;NURSING SCIENCE 2;NSC260S;null;null
+null;null;null;null;PHARMACOLOGY 2;PHA260S;null;null
+null;null;null;null;SOCIOLOGY;SOC260S;null;null
+null;null;null;3;BASIC NURSING RESEARCH METHODS;BNR370S;null;null
+null;null;null;null;COMMUNITY MIDWIFERY;MID370S;null;null
+null;null;null;null;ETHOS & PROFESSIONAL PRACTICE 3;EPP370S;null;null
+null;null;null;null;MENTAL HEALTH;MHL370S;null;null
+null;null;null;null;NURSING IN THE COMMUNITY 3;NCM370S;null;null
+null;null;null;null;NURSING SCIENCE 3;NSC370S;null;null
+null;null;null;null;PHARMACOLOGY 3;PHA370S;null;null
+null;null;null;4;null;null;null;null
+null;null;null;null;COMPLICATIONS IN MIDWIFERY;MID480S;null;null
+null;null;null;null;ETHOS & PROFESSIONAL PRACTICE 4;EPP480S;null;null
+null;null;null;null;HEALTH SERVICES MANAGEMENT;HSM480S;null;null
+null;null;null;null;NURSING IN THE COMMUNITY 4;NCM480S;null;null
+null;null;null;null;PHARMACOLOGY 4;PHA480S;null;null
+null;null;null;null;RESEARCH PROJECT;RSP480S;null;null
+null;null;Extended Bachelor of Nursing;1;ACADEMIC LITERACY (Developmental);LIT152X;null;null
+null;null;null;null;CHEMISTRY;CHE151S;null;null
+null;null;null;null;CHEMISTRY (Developmental);CHE151X;null;null
+null;null;null;null;THOS & PROF PRACTICE 1 (Developmental);EPP150X;null;null
+null;null;null;null;ETHOS & PROFESSIONAL PRACTICE 1;EPP150S;null;null
+null;null;null;null;NURSING IN THE COMMUNITY 1;NCM150S;null;null
+null;null;null;null;NURSING IN THE COMMUNITY 1 (Developmental);NCM150X;null;null
+null;null;null;null;PHYSICS;PHS152S;null;null
+null;null;null;null;PHYSICS (Developmental);PHS152X;null;null
+null;null;null;2;ANATOMY & PHYSIOLOGY 2;APS260S;null;null
+null;null;null;null;ETHOS & PROFESSIONAL PRACTICE 2;EPP260S;null;null
+null;null;null;null;INTRODUCTION TO MENTAL HEALTH;IMH260S;null;null
+null;null;null;null;NURSING IN THE COMMUNITY 2;NCM260S;null;null
+null;null;null;null;NURSING SCIENCE 2;NSC260S;null;null
+null;null;null;null;PHARMACOLOGY 2;PHA260S;null;null
+null;null;null;null;SOCIOLOGY;SOC260S;null;null
+null;null;Diploma in Opticianry;1;APPLIED OPTICIANRY SCIENCE 1;AOS150S;null;null
+null;null;null;null;DISPENSING OPTICS 1;DOP150S;null;null
+null;null;null;null;OPHTHALMIC LENSES 1;OLE150S;null;null
+null;null;null;null;OPTICS 1;OPT150S;null;null
+null;null;null;null;DISPENSING OPTICS 1;DOP150S;null;null
+null;null;null;null;GENERAL ANATOMY AND PHYSIOLOGY 1;GAP150S;null;null
+null;null;null;null;OPHTHALMIC LENSES 1;OLE150S;null;null
+null;null;null;null;OPTICS 1;OPT150S;null;null
+null;null;null;null;GENERAL ANATOMY AND PHYSIOLOGY 1;GAP150S;null;null
+null;null;null;null;OCULAR ANATOMY AND PATHOLOGY 1;OAP150S;null;null
+null;null;null;null;ISUAL OPTICS 1;VOP150S;null;null
+null;null;null;2;DISPENSING OPTICS 2;DOP260S;null;null
+null;null;null;null;ENVIRONMENTAL OPTICS 2;EOP260S;null;null
+null;null;null;null;OCULAR ANATOMY AND PATHOLOGY 2;OAP260S;null;null
+null;null;null;null;OPHTHALMIC LENSES 2;OLE260S;null;null
+null;null;null;null;PRACTICE MANAGEMENT AND ETHICS;PME260S;null;null
+null;null;null;null;VISUAL OPTICS 2;VOP260S;null;null
+null;null;null;3;OPTICIANRY PRACTICE 3;OTP360S;null;null
+null;null;null;null;RESEARCH METHODS AND PROJECT;RMP360S;null;null
+null;null;Bachelor of Health Science in Opticianry;1;CHEMISTRY;CHM151S;null;null
+null;null;null;null;DISPENSING OPTICS 1;DPO150S;null;null
+null;null;null;null;GEOMETRIC AND PHYSICAL OPTICS;GPO150S;null;null
+null;null;null;null;HUMAN ANATOMY & PHYSIOLOGY;HAP150S;null;null
+null;null;null;null;MATHS AND STATISTICS;MSA150S;null;null
+null;null;null;null;PHYSICS;PYS150S;null;null
+null;null;null;null;PRINCIPLES OF PSYCHOLOGY;POP150S;null;null
+null;null;null;null;PROFESSIONAL COMMUNICATIONS;PCM150S;null;null
+null;null;null;2;OCCUPATIONAL AND ENVIRONMENTAL DISPENSING;OED260S;null;null
+null;null;null;null;OCULAR ANATOMY AND PHYSIOLOGY;ONP260S;null;null
+null;null;null;null;OPHTHALMIC LENSES 2;OPL260S;null;null
+null;null;null;null;PHYSIOLOGICAL OPTICS;PHO260S;null;null
+null;null;null;null;PRACTICE MANAGEMENT 2;PMT260S;null;null
+null;null;null;null;RESEARCH METHODS AND STATISTICS;RDS260S;null;null
+null;null;null;null;CONTACT LENSES AND OCULAR PROSTHETICS;CLO260S;null;null
+null;null;null;null;ETHICS IN HEALTHCARE RESEARCH;EHR260S;null;null
+null;null;null;3;ADVANCED DISPENSING OPTICS;ADO370S;null;null
+null;null;null;null;GENERAL AND OCULAR PATHOLOGY;GOP370S;null;null
+null;null;null;null;OPHTHALMIC LENSES 3;OPL370S;null;null
+null;null;null;null;PRACTICE MANAGEMENT AND ETHICS 3;PME370S;null;null
+null;null;null;null;PUBLIC HEALTH;PBH370S;null;null
+null;null;null;null;RESEARCH PROJECT;RSP370S;null;null
+null;null;null;null;OPHTHALMIC INSTRUMENTATION AND TECHNOLOGY;OIT370S;null;null
+null;null;null;null;LOW VISION DISPENSING;LVD370S;null;null
+null;null;Diploma in Somatology;1;AESTHETICS PRACTICES 1;AET150S;null;null
+null;null;null;null;BODY THERAPIES 1;BDT150S;null;null
+null;null;null;null;COMMUNICATION SKILLS;CSL150S;null;null
+null;null;null;null;DISEASE FUNDAMENTALS 1;DFU150S;null;null
+null;null;null;null;FACIAL THERAPIES 1;FCT150S;null;null
+null;null;null;null;HUMAN ANATOMY & PHYSIOLOGY 1;HAP151S;null;null
+null;null;null;null;MICROBIOLOGICAL HYGIENE;MBH150S;null;null
+null;null;null;null;NUTRITION 1;NTN150S;null;null
+null;null;null;null;SALON MANAGEMENT 1;BUP150S;null;null
+null;null;null;null;SOMATOLOGY SCIENCE;SCI150S;null;null
+null;null;null;2;AESTHETICS PRACTICES 2;AET250S;null;null
+null;null;null;null;BODY THERAPIES 2;BDT260S;null;null
+null;null;null;null;COMPLEMENTARY THERAPIES 2;CPT260S;null;null
+null;null;null;null;COSMETIC CHEMISTRY;COC260S;null;null
+null;null;null;null;DISEASE FUNDAMENTALS 2;DFU260S;null;null
+null;null;null;null;FACIAL THERAPIES 2;FCT260S;null;null
+null;null;null;null;HUMAN ANATOMY & PHYSIOLOGY 2;HAP260S;null;null
+null;null;null;null;NUTRITION 2;NTN260S;null;null
+null;null;null;null;SALON MANAGEMENT 2;BUP260S;null;null
+null;null;null;null;SALON PRACTICE 2;SAP260S;null;null
+null;null;null;null;SOCIOPSYCHOLOGY;SCP260S;null;null
+null;null;null;3;AESTHETICS PRACTICES 3;AET360S;null;null
+null;null;null;null;BODY THERAPIES 3;BDT360S;null;null
+null;null;null;null;COMPLEMENTARY THERAPIES 3;CPT360S;null;null
+null;null;null;null;FACIAL THERAPIES 3;FCT360S;null;null
+null;null;null;null;FUNDAMENTAL PHARMACOLOGY;FPM350S;null;null
+null;null;null;null;SALON MANAGEMENT 3;BUP360S;null;null
+null;null;null;null;SALON PRACTICES 3;SAP360S;null;null

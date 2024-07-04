@@ -1,0 +1,284 @@
+﻿University ;Faculty ;Qualifications;Year;Modules;Module Code;SAQA credits;Description 
+Central University of Technology;Faculty of Health and Environmental Science;Agricultural Management;1;Agricultural Management 1;AMN115C;null;null
+null;null;null;null;Plant Production 1;PPR115C;null;null
+null;null;null;null;Animal Production 1;APR115C;null;null
+null;null;null;null;Computer Skills;COM115C;null;null
+null;null;null;null;Agricultural Soil Science 1;SSC115C;null;null
+null;null;null;null;Pasture Science 1;PAS115C;null;null
+null;null;null;null;English Proficiency;PRE1A;null;null
+null;null;null;null;English Proficiency;PRE2B;null;null
+null;null;null;null;Agricultural Management 2;AMN126C;null;null
+null;null;null;null;Plant Production 2;PPR126C;null;null
+null;null;null;null;Animal Production 2;APR126C;null;null
+null;null;null;null;Computer Applications 2;CAP125C;null;null
+null;null;null;null;Agricultural Production Techniques;APT126C;null;null
+null;null;null;null;Soil Classification 2;SCL125C;null;null
+null;null;null;null;null;null;null;null
+null;null;null;2;Agricultural Production Management 2;APM206W;null;null
+null;null;null;null;Agricultural Production Techniques 2;APT206W;null;null
+null;null;null;null;Agricultural Management: Work-Integrated Learning;LBB206W;null;null
+null;null;null;null;null;null;null;null
+null;null;null;3;Agricultural Management 3;AMN307C;null;null
+null;null;null;null;Agricultural Engineering 1;ENG307C;null;null
+null;null;null;null;Agricultural Law 3;ALW307C;null;null
+null;null;null;null;Human Resrource Management: Agriculture 1;PBL307C;null;null
+null;null;null;null;Plant Production 3;PPR307C*;null;null
+null;null;null;null;Animal Production 3;APR3O7C*;null;null
+null;null;null;null;null;null;null;null
+null;null;Somatology;1;Academic Literacy and Communication Studies;LCS5011;null;null
+null;null;null;null;Aesthetic Practices I;AEP115E;null;null
+null;null;null;null;Anatomy & Physiology I;ANP115E;null;null
+null;null;null;null;Basic Digital Literacy;DLC5011;null;null
+null;null;null;null;Business Management I;BUS115E;null;null
+null;null;null;null;Microbial Hygiene I;HYG115E;null;null
+null;null;null;null;Numeracy;NMR5012;null;null
+null;null;null;null;Science I;SCI115E;null;null
+null;null;null;null;Somatic Therapy Body I;SOB115E;null;null
+null;null;null;null;Somatic Therapy Face I;SOF115E;null;null
+null;null;null;null;Personal Information Management;PIM5011;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Academic Literacy and Communication Studies;LCS5012;null;null
+null;null;null;null;Aesthetic Practices I;AEP125E;null;null
+null;null;null;null;Anatomy & Physiology I;ANP125E;null;null
+null;null;null;null;Basic Digital Literacy;null;null;null
+null;null;null;null;Business Management I;null;null;null
+null;null;null;null;Microbial Hygiene I;HYG125E;null;null
+null;null;null;null;Numeracy;NMR5012;null;null
+null;null;null;null;Science I;SCI125E;null;null
+null;null;null;null;Somatic Therapy Body I;SOB125E;null;null
+null;null;null;null;Somatic Therapy Face I;SOF125E;null;null
+null;null;null;null;Personal Information Management;null;null;null
+null;null;null;null;null;null;null;null
+null;null;null;2;Aesthetic Practices II;AEP216E;null;null
+null;null;null;null;Anatomy & Physiology II;ANP216E;null;null
+null;null;null;null;Business Management II;BUS216E;null;null
+null;null;null;null;Complimentary Therapies I;CAR216E;null;null
+null;null;null;null;Science II;SCI216E;null;null
+null;null;null;null;Somatic Therapy Body II;SOB216E;null;null
+null;null;null;null;Somatic Therapy Face II;SOF216E;null;null
+null;null;null;null;Socio-psychology I;SOP116E;null;null
+null;null;null;null;Somatology Work-integrated Learning I;SOM116W;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Aesthetic Practices II;AEP226E;null;null
+null;null;null;null;Anatomy & Physiology II;ANP226E;null;null
+null;null;null;null;Business Management II;BUS226E;null;null
+null;null;null;null;Complimentary Therapies I;CAR226E;null;null
+null;null;null;null;Science II;SCI226E;null;null
+null;null;null;null;Somatic Therapy Body II;SOB226E;null;null
+null;null;null;null;Somatic Therapy Face II;SOF226E;null;null
+null;null;null;null;Socio-psychology I;SOP126E;null;null
+null;null;null;null;Somatology Work-integrated Learning I;SOM126W;null;null
+null;null;null;null;null;null;null;null
+null;null;null;3;Aesthetic Practices III;AEP316E;null;null
+null;null;null;null;Basic Pharmacology I;BPH116E;null;null
+null;null;null;null;Business Management III;BUS316E;null;null
+null;null;null;null;Complimentary Therapies II;CAR316E;null;null
+null;null;null;null;Somatic Therapy Body III;SOB316E;null;null
+null;null;null;null;Somatic Therapy Face III;SOF316E;null;null
+null;null;null;null;Somatology Work-integrated Learning II;SOM216W;null;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Aesthetic Practices III;AEP326E;null;null
+null;null;null;null;Basic Pharmacology I;BPH126E;null;null
+null;null;null;null;Business Management III;BUS326E;null;null
+null;null;null;null;Complimentary Therapies II;CAR326E;null;null
+null;null;null;null;Somatic Therapy Body III;SOB326E;null;null
+null;null;null;null;Somatic Therapy Face III;SOF326E;null;null
+null;null;null;null;Somatology Work-integrated Learning II;SOM226W;null;null
+null;null;null;null;null;null;null;null
+null;null;Health Sciences in Technology;1;Academic Literacy and Communication Studies;"LCS5011/
+ LCS5012";0;null
+null;null;null;null;Personal Information Management;"PIM5011/
+ PIM5012";24;null
+null;null;null;null;Anatomy I;ANA105;24;null
+null;null;null;null;Physiology I;FSL105;6;null
+null;null;null;null;Chemistry I;CHE115;6;null
+null;null;null;null;Physics I;PHY115;12;null
+null;null;null;null;Clinical Technology Practice I;CTP115;12;null
+null;null;null;null;Clinical Technology Instrumentation I;CTI125;6;null
+null;null;null;null;Healthcare & Ethics;HCE125;6;null
+null;null;null;null;Entrepreneurship;ENT125;6;null
+null;null;null;null;null;null;null;null
+null;null;null;2;Anatomy and Physiology II;AFI206;24;null
+null;null;null;null;Pathophysiology II;OSP206;24;null
+null;null;null;null;Pharmacology I;FAR206;24;null
+null;null;null;null;Clinical Technology Instrumentation II;CTI206;24;null
+null;null;null;null;Clinical technology Practice II;CTP206;12;null
+null;null;null;null;Research Methodology;RES206;24;null
+null;null;null;null;Community Health and Service Learning;COM206;6;null
+null;null;null;null;null;null;null;null
+null;null;null;3;Clinical Technology Practice III;CTP30CA;36;null
+null;null;null;null;Pathophysiology III;OSP30CA;24;null
+null;null;null;null;Clinical Technology Instrumentation III;CTI30CA;36;null
+null;null;null;null;Research Methodology II;RES307;12;null
+null;null;null;null;Pharmacology II;FAR31CA;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice III;CTP30NP;36;null
+null;null;null;null;Pathophysiology III;OSP30NP;24;null
+null;null;null;null;Clinical Technology Instrumentation III;CTI30NP;36;null
+null;null;null;null;Research Methodology II;RES307;12;null
+null;null;null;null;Pharmacology II;FAR31NP;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice III;CTP30NE;36;null
+null;null;null;null;Pathophysiology III;OSP30NE;24;null
+null;null;null;null;Clinical Technology Instrumentation III;CTI30NE;36;null
+null;null;null;null;Research Methodology II;RES307;12;null
+null;null;null;null;Pharmacology II;FAR31NE;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice III;CTP30PU;36;null
+null;null;null;null;Pathophysiology III;OSP30PU;24;null
+null;null;null;null;Clinical Technology Instrumentation III;CTI30PU;36;null
+null;null;null;null;Research Methodology II;RES307;12;null
+null;null;null;null;Pharmacology II;FAR31PU;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice III;CTP30CC;36;null
+null;null;null;null;Pathophysiology III;OSP30CC;24;null
+null;null;null;null;Clinical Technology Instrumentation III;CTI30CC;36;null
+null;null;null;null;Research Methodology II;RES307;12;null
+null;null;null;null;Pharmacology II;FAR31CC;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice III;CTP30RB;36;null
+null;null;null;null;Pathophysiology III;OSP30RB;24;null
+null;null;null;null;Clinical Technology Instrumentation III;CTI30RB;36;null
+null;null;null;null;Research Methodology II;RES307;12;null
+null;null;null;null;Pharmacology II;FAR31RB;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice III;CTP30PF;36;null
+null;null;null;null;Pathophysiology III;OSP30PF;24;null
+null;null;null;null;Clinical Technology Instrumentation III;CTI30PF;36;null
+null;null;null;null;Research Methodology II;RES307;12;null
+null;null;null;null;Pharmacology;FAR31PF;12;null
+null;null;null;null;null;null;null;null
+null;null;null;4;Clinical Technology Practice IV;CTP40CA;36;null
+null;null;null;null;Clinical Technology Instrumentation IV;CTI40CA;36;null
+null;null;null;null;Research Methodology III;RES40;24;null
+null;null;null;null;Healthcare Management I;HCM418;12;null
+null;null;null;null;Healthcare Management II;HCM428;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice IV;CTP40NP;36;null
+null;null;null;null;Clinical Technology Instrumentation IV;CTI40NP;36;null
+null;null;null;null;Research Methodology III;RES408;24;null
+null;null;null;null;Healthcare Management I;HCM418;12;null
+null;null;null;null;Healthcare Management II;HCM428;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice IV;CTP40NE;36;null
+null;null;null;null;Clinical Technology Instrumentation IV;CTI40NE;36;null
+null;null;null;null;Research Methodology III;RES408;24;null
+null;null;null;null;Healthcare Management I;HCM418;12;null
+null;null;null;null;Healthcare Management II;HCM428;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice IV;CTP40PU;36;null
+null;null;null;null;Clinical Technology Instrumentation IV;CTI40PU;36;null
+null;null;null;null;Research Methodology III;RES408;24;null
+null;null;null;null;Healthcare Management I;HCM418;12;null
+null;null;null;null;Healthcare Management II;HCM428;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice IV;CTP40CC;36;null
+null;null;null;null;Clinical Technology Instrumentation IV;CTI40CC;36;null
+null;null;null;null;Research Methodology III;RES408;24;null
+null;null;null;null;Healthcare Management I;HCM418;12;null
+null;null;null;null;Healthcare Management II;HCM428;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice IV;CTP40RB;36;null
+null;null;null;null;Clinical Technology Instrumentation IV;CTI40RB;36;null
+null;null;null;null;Research Methodology III;RES408;24;null
+null;null;null;null;Healthcare Management I;HCM418;12;null
+null;null;null;null;Healthcare Management II;HCM428;12;null
+null;null;null;null;null;null;null;null
+null;null;null;null;Clinical Technology Practice IV;null;36;null
+null;null;null;null;Clinical Technology Instrumentation IV;null;36;null
+null;null;null;null;Research Methodology III;null;24;null
+null;null;null;null;Healthcare Management I;null;12;null
+null;null;null;null;Healthcare Management II;null;12;null
+null;null;null;null;null;null;null;null
+null;null;Medical Laboratory Sciences;1;English Proficiency;PRE1A;9;null
+null;null;null;null;Biostatistics;STAT115;9;null
+null;null;null;null;Health Chemistry;CHEM115;9;null
+null;null;null;null;Health Physics;PHYS115;9;null
+null;null;null;null;Human Anatomy, Physiology and Disease;HAPD116;18;null
+null;null;null;null;Introduction to Medical Laboratory Sciences;IMLS115;12;null
+null;null;null;null;Personal Information Management;PIM5011;0;null
+null;null;null;null;Reading Skills;RSK11AB;0;null
+null;null;null;null;Computer Skills I;BTC12AT;6;null
+null;null;null;null;Cellular Biology;CBIO126;12;null
+null;null;null;null;English Proficiency;PRE2B;0;null
+null;null;null;null;Human Anatomy, Physiology and Disease I;HAPD126;18;null
+null;null;null;null;Immunology I;IMMU126;12;null
+null;null;null;null;Introduction to Medical Laboratory Sciences;IMLS125;12;null
+null;null;null;null;null;null;null;null
+null;null;null;2;Clinical Chemistry I;CCHE216;12;null
+null;null;null;null;Haematology I;HAEM216;12;null
+null;null;null;null;Histology;HIST216;12;null
+null;null;null;null;Immunohematology I;IMHA216;12;null
+null;null;null;null;Medical Microbiology I;MMCB216;12;null
+null;null;null;null;Clinical Chemistry II;CCHE226;12;null
+null;null;null;null;Cytology I;CYTO226;12;null
+null;null;null;null;Cytogenetics;GENE226;12;null
+null;null;null;null;Medical Microbiology II;MMCB226;12;null
+null;null;null;null;Haematology II;HAEM226;12;null
+null;null;null;null;null;null;null;null
+null;null;null;3;Clinical Chemistry III;CCHE317;12;null
+null;null;null;null;Cytology II;CYTO317;12;null
+null;null;null;null;Haematology III;HAEM317;12;null
+null;null;null;null;Integrative Medical Laboratory Sciences;IMLS31W;9;null
+null;null;null;null;Medical Microbiology III;MMCB317;12;null
+null;null;null;null;Integrative Medical Laboratory Sciences Practical;IMLS32W;60;null
+null;null;null;null;Research Methods;RMTD327;9;null
+null;null;null;null;null;null;null;null
+null;null;null;4;Clinical Practice: Clinical Chemistry;CCH408W;78;null
+null;null;null;null;Clinical Practice: Clinical Pathology;CPA408W;78;null
+null;null;null;null;Clinical Practice: Cytology;CYT408W;78;null
+null;null;null;null;Clinical Practice: Cytogenetics;GEN408W;78;null
+null;null;null;null;Clinical Practice: Haematology;HAE408W;78;null
+null;null;null;null;Clinical Practice: Histology;HIS408W;78;null
+null;null;null;null;Clinical Practice: Immunohaematology;IMH408W;78;null
+null;null;null;null;Clinical Practice: Immunology;IMM408W;78;null
+null;null;null;null;Clinical Practice: Medical Microbiology;MMC408W;78;null
+null;null;null;null;Clinical Practice: Virology;VIR408W;78;null
+null;null;null;null;Laboratory Management;LMAN418;12;null
+null;null;null;null;Research Project;RMTP408;30;null
+null;null;null;null;null;null;null;null
+null;null;Environmental Health;1;Advanced digital Literacy;ADC5022;null;null
+null;null;null;null;Anatomy and Physiology;AP10EH;null;null
+null;null;null;null;Chemistry and Biochemistry;CB10EH;null;null
+null;null;null;null;Communication for Environmental Health;CO11EH;null;null
+null;null;null;null;Basic Digital Literacy;DLC5011;null;null
+null;null;null;null;Intro to Environmental Health (Ethics and Professional Practice);EH11EH;null;null
+null;null;null;null;Mathematics;MA10EH;null;null
+null;null;null;null;Microbiology;MI10EH;null;null
+null;null;null;null;Physics;PH12EH;null;null
+null;null;null;null;Sociology and Anthropology;SA12EH;null;null
+null;null;null;null;Sustainable Development;SD11EH;null;null
+null;null;null;null;Academic Literacy and Communication Studies;LCS5001;null;null
+null;null;null;null;null;null;null;null
+null;null;null;2;Biostatistics and Introduction to Research;BR20EH;null;null
+null;null;null;null;Community Development;CD20EH;null;null
+null;null;null;null;Environmental Health Management and Administration II;EM20EH;null;null
+null;null;null;null;Epidemiology II;EP21EH;null;null
+null;null;null;null;Food and Meat Hygiene;FH20EH;null;null
+null;null;null;null;Environmental Health Education and Promotion;HP20EH;null;null
+null;null;null;null;Occupational Health and Safety (Physical Stressors);OH20EH;null;null
+null;null;null;null;Planning for the Built Environment;PB21EH;null;null
+null;null;null;null;Vector Control;VC22EH;null;null
+null;null;null;null;Waste Management;WM22EH;null;null
+null;null;null;null;Water Quality Management;WQ20EH;null;null
+null;null;null;null;null;null;null;null
+null;null;null;3;Air Quality Management;AQ31EH;null;null
+null;null;null;null;Environmental and Legal Processes III;EL30EH;null;null
+null;null;null;null;Environmental Health Management and Administration III;EM30EH;null;null
+null;null;null;null;Environmental Health Pollution;EN30EH;null;null
+null;null;null;null;Epidemiology III;EP30EH;null;null
+null;null;null;null;Food and Meat Processing;FP30EH;null;null
+null;null;null;null;Occupational Health and Safety (Chemical and Biotic Stressors);OH30EH;null;null
+null;null;null;null;Project Management;PM32AT;null;null
+null;null;null;null;Research Methodology;RM31AT;null;null
+null;null;null;null;null;null;null;null
+null;null;null;4;Disaster Management;DM41EH;null;null
+null;null;null;null;Environmental Health Information Management System IV;EI41EH;null;null
+null;null;null;null;Environmental Law and Legal Process IV;EL42EH;null;null
+null;null;null;null;Environmental Heath Management and Administration IV;EM40EH;null;null
+null;null;null;null;Environmental Management IV;EN42EH;null;null
+null;null;null;null;Ethics and Professional Practice IV;EP42EH;null;null
+null;null;null;null;Environmental Toxicology;ET41EH;null;null
+null;null;null;null;Food Management System;FM10EH;null;null
+null;null;null;null;Occupational Health and Safety (Man Systems);OH40EH;null;null
+null;null;null;null;Research Project;RP40EH;null;null
