@@ -6,7 +6,11 @@ import clr
 print("Pythonnet is working and can load Mono")
 import os
 from System.Collections.Generic import List
-clr.AddReference("SACNASP_DLL\\SACNASP_DATA")
+
+project_root = os.path.dirname(os.path.abspath(__file__))
+dll_path = os.path.join(project_root, 'SACNASP_DLL', 'SACNASP_DATA.dll')
+print(dll_path)
+clr.AddReference(dll_path)
 from SACNASP_DATA import PercentageComputation
 from django.http import HttpResponse
 from django.http import JsonResponse, HttpResponseBadRequest
