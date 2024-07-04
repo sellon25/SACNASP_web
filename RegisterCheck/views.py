@@ -3,6 +3,7 @@ import subprocess
 subprocess.call(["pip", "install", "pythonnet"])
 from django.shortcuts import render
 import clr
+print("Pythonnet is working and can load Mono")
 import os
 from System.Collections.Generic import List
 clr.AddReference("SACNASP_DLL\\SACNASP_DATA")
