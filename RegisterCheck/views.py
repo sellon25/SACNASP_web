@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import JsonResponse, HttpResponseBadRequest
 import json
 import os
-from RegisterCheck.percentage_computation import PercentageComputation
+from .PercentageComputation import PercentageComputation
 
 obj = PercentageComputation()
 csv_files = []
