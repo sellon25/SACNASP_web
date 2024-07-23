@@ -10,53 +10,42 @@
 
     <title>SACNASP - Scientist Evaluation</title>
 
-       <!-- loader -->
-       <style>
-        .hide {
-            display: none;
-        }
-    
-        .spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #3498db;
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            animation: spin 1s linear infinite;
-            margin: 0 auto;
-        }
-    
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-    
-        /* Preloader styles */
-        .preloader {
-            position: fixed;
-            left: 0;
-            top: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
-            z-index: 9999;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-    
-        /* Background blur effect */
-        .backdrop {
-            position: fixed;
-            left: 0;
-            top: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.5); /* Semi-transparent white background */
-            backdrop-filter: blur(8px); /* Adjust blur intensity as needed */
-            z-index: 9998; /* Slightly below the preloader */
-        }
-        </style>
+    <!-- loader -->
+    <style>
+    .hide {
+    display: none;
+    }
+
+    .spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+    }
+
+    @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+    }
+
+     /* Preloader styles */
+     .preloader {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(255, 255, 255, 0.452);
+        backdrop-filter: blur(8px);
+        z-index: 9999;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    </style>
     <!-- Fonts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.4.1/es5-shim.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.34.1/es6-shim.js"></script>
@@ -287,14 +276,5 @@
                     </script>
     <script src="https://portal.sacnasp.org.za/js/app.js?time=1684247036"></script>
     <script src="{% static 'script.js' %}"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-oP9nFi8x+Ej9mjEVDKj0G5H7XBOhV3aNx1dD4syS3yWo0VVJ2PzFEm0z1L7F5hHC" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-pzjw8f+ua7Kw1TIq6c6LiV0QAb0SsvmwODJYy68ZRo1JZ5E5gZ7x9yXqqvc8PZ7x2" crossorigin="anonymous"></script>
-    <script>
-        // Hide preloader and backdrop when the page is fully loaded
-        window.addEventListener('load', function () {
-            document.getElementById('preloader').classList.add('hide');
-            document.getElementById('backdrop').classList.add('hide');
-        });
-    </script>
 </body>
 </html>
