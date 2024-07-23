@@ -9,10 +9,10 @@ csv_files = []
 university_folder = 'SACNASP_DLL/Necessary Files/UniversityFiles/'
 
 csv_files = [os.path.join(university_folder, file) for file in os.listdir(university_folder) if file.endswith('.csv')]
-obj.setUniversuty(csv_files)
+obj.set_university(csv_files)
 
 print("=======get uni names==========")
-universities = obj.getUniversities()
+universities = obj.get_universities()
 
 # VIEWS
 def check(request):
@@ -42,8 +42,8 @@ def qualification_names(request):
 
             print("index:" + str(selected_university) + "=========")
             index = selected_university
-            obj.setUniversuty(fullfile)
-            qualifications = obj.getQualifications(index)
+            obj.set_university(fullfile)
+            qualifications = obj.get_qualifications(index)
             qualifications = [q for q in qualifications if q not in temp]
             temp = qualifications
             qualifications_text = "\n".join(qualifications)
@@ -62,21 +62,21 @@ def results(request):
     print("===== request.POST.get==========")
     data = json.loads(request.body)
     print(str(data))
-    selectedQualification = data.get('qualification')
-    selectedNQFLevel = data.get('nqfLevel')
-    selectedYearsOfExp = data.get('selectedYearsOfExp')
+    selected_qualification = data.get('qualification')
+    selected_nqf_level = data.get('nqfLevel')
+    selected_years_of_exp = data.get('selectedYearsOfExp')
 
     results = "None"
-    selectedNQFLevel = int(selectedNQFLevel) + 1
-    print("=====getResults selectedQualification:" + str(selectedQualification) +
-          " ,selectedNQFLevel:" + str(selectedNQFLevel) +
-          " ,selectedYearsOfExp: " + str(selectedYearsOfExp) + "==========")
+    selected_nqf_level = int(selected_nqf_level) + 1
+    print("=====getResults selected_qualification:" + str(selected_qualification) +
+          " ,selected_nqf_level:" + str(selected_nqf_level) +
+          " ,selected_years_of_exp: " + str(selected_years_of_exp) + "==========")
     
-    if selectedQualification and selectedNQFLevel and selectedYearsOfExp:
-        if selectedQualification is not None and selectedNQFLevel is not None and selectedYearsOfExp is not None:
-            score = obj.getQualificationPercentage(selectedQualification)
+    if selected_qualification and selected_nqf_level and selected_years_of_exp:
+        if selected_qualification is not None and selected_nqf_level is not None and selected_years_of_exp is not None:
+            score = obj.get_qualification_percentage(selected_qualification)
             print("===scoreI:" + str(score))
-            x = obj.CalculationAdditions(int(selectedNQFLevel), int(selectedYearsOfExp))
+            x = obj.calculation_additions(int(selected_nqf_level), int(selected_years_of_exp))
             print("==x:" + str(x))
             bl = ""
             score += x
@@ -97,4 +97,3 @@ def results(request):
 
 def results_page(request):
     return render(request, 'SACNASPResults.html')
-
