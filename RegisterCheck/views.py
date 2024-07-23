@@ -63,7 +63,7 @@ def results(request):
     data = json.loads(request.body)
     print(str(data))
     selectedQualification = data.get('qualification')
-        selectedNQFLevel = data.get('nqfLevel')
+    selectedNQFLevel = data.get('nqfLevel')
     selectedYearsOfExp = data.get('selectedYearsOfExp')
 
     results = "None"
