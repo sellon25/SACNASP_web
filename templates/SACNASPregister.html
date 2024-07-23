@@ -272,8 +272,15 @@
         
         window.api_token = '';
         window.api_path = 'https://api.sacnasp.org.za/api/';
+        // Hide the preloader once the page is fully loaded
+        window.addEventListener('load', function() {
+            var preloader = document.getElementById('preloader');
+            if (preloader) {
+                preloader.style.display = 'none';
+            }
+        });
 
-                    </script>
+    </script>
     <script src="https://portal.sacnasp.org.za/js/app.js?time=1684247036"></script>
     <script src="{% static 'script.js' %}"></script>
 </body>
