@@ -11,7 +11,7 @@ university_folder = 'SACNASP_DLL/Necessary Files/UniversityFiles/'
 csv_files = [os.path.join(university_folder, file) for file in os.listdir(university_folder) if file.endswith('.csv')]
 obj.setUniversuty(csv_files)
 
-print("=======get==========")
+print("=======get uni names==========")
 universities = obj.getUniversities()
 
 # VIEWS
