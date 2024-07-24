@@ -1,0 +1,5 @@
+C:\Users\Knight1\Desktop\Sello-JBS_projects\SACNASP_wf\exe\SACNASP_wf.exe
+C:\Users\Knight1\Desktop\Sello-JBS_projects\SACNASP_wf\exe\SACNASP_wf.dll
+C:\Users\Knight1\Desktop\Sello-JBS_projects\SACNASP_wf\exe\SACNASP_wf.deps.json
+C:\Users\Knight1\Desktop\Sello-JBS_projects\SACNASP_wf\exe\SACNASP_wf.runtimeconfig.json
+C:\Users\Knight1\Desktop\Sello-JBS_projects\SACNASP_wf\exe\SACNASP_wf.pdb
